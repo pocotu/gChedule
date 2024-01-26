@@ -2,31 +2,54 @@ import numpy as np
 
 class Agenda:
     def __init__(self, idCurso, idClase, idDocente):
-        # Inicializa una instancia de Agenda con los identificadores del curso, la clase y el docente
+        """
+        Inicializa una instancia de la clase Horario.
+
+        Args:
+            idCurso (int): El ID del curso.
+            idClase (int): El ID de la clase.
+            idDocente (int): El ID del docente.
+        """
         self.idCurso = idCurso
         self.idClase = idClase
         self.idDocente = idDocente
 
-        # Inicializa las variables de horario con valores predeterminados
         self.idSalon = 0
         self.diaSemana = 0
         self.horario = 0
 
     def Inicializador_aleatorio(self, salonRango):
-        # Inicializa aleatoriamente las variables de horario dentro de ciertos rangos
-        self.idSalon = np.random.randint(1, salonRango + 1, 1)[0]  # Genera un numero aleatorio entre 1 y salonRango
-        self.diaSemana = np.random.randint(1, 6, 1)[0]  # Genera un numero aleatorio entre 1 y 5 (representando dias de la semana)
-        self.horario = np.random.randint(1, 6, 1)[0]  # Genera un numero aleatorio entre 1 y 5 (representando horarios)
+        """
+        Inicializa los atributos idSalon, diaSemana y horario de forma aleatoria.
+
+        Parameters:
+        salonRango (int): El rango máximo para generar el id del salón.
+
+        Returns:
+        None
+        """
+        self.idSalon = np.random.randint(1, salonRango + 1, 1)[0] 
+        self.diaSemana = np.random.randint(1, 6, 1)[0] 
+        self.horario = np.random.randint(1, 6, 1)[0]
 
 def CostoHorario(poblacion, elite):
-    # Calcula el costo (conflicto) de horario para cada horario en la poblacion
+    """
+    Calcula el costo de cada horario en una población y devuelve los horarios elite.
+    Donde elite es el número de horarios elite que se desea obtener.
+
+    Args:
+        poblacion (list): Una lista de horarios representados como instancias de la clase Agenda.
+        elite (int): El número de horarios elite que se desea obtener.
+
+    Returns:
+        tuple: Una tupla que contiene los índices de los horarios elite y el número de conflictos del mejor horario.
+    """
     conflictos = []
-    n = len(poblacion[0])  # Obtiene el numero de horarios en la poblacion (asume que todos tienen la misma cantidad)
+    n = len(poblacion[0]) 
 
     for p in poblacion:
-        conflicto = 0  # Inicializa el contador de conflictos para este horario
+        conflicto = 0
 
-        # Compara cada par de horarios para verificar si hay conflictos
         for i in range(0, n - 1):
             for j in range(i + 1, n):
                 # Compara el id del salon, el dia de la semana y el horario

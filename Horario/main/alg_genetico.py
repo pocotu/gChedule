@@ -1,26 +1,42 @@
 import copy
 import numpy as np
 
-from Horario import CostoHorario
+from horario import CostoHorario
 
 class OptimizadorGenetico:
     def __init__(self, tam_poblacion=30, prob_mutacion=0.3, elite=5, max_iteraciones=100):
-        # Inicializa los parametros del algoritmo genetico
-        self.tam_poblacion = tam_poblacion  # Tamaño de la poblacion de horarios candidatos
-        self.prob_mutacion = prob_mutacion  # Probabilidad de aplicar mutacion a un horario
-        self.elite = elite  # Numero de horarios elite que se mantendran sin cambios en cada generacion
-        self.max_iteraciones = max_iteraciones  # Numero maximo de iteraciones del algoritmo genetico
+        """
+        Inicializa un objeto OptimizadorGenetico con los parámetros especificados.
+
+        Args:
+            tam_poblacion (int): Tamaño de la población de horarios candidatos.
+            prob_mutacion (float): Probabilidad de aplicar mutación a un horario.
+            elite (int): Número de horarios elite que se mantendrán sin cambios en cada generación.
+            max_iteraciones (int): Número máximo de iteraciones del algoritmo genético.
+        """
+        self.tam_poblacion = tam_poblacion
+        self.prob_mutacion = prob_mutacion
+        self.elite = elite
+        self.max_iteraciones = max_iteraciones
 
     def Iniciar_poblacion(self, horarios, salonRango):
-        # Crea una poblacion inicial de horarios candidatos de manera aleatoria
+        """
+        Inicializa la población de horarios de forma aleatoria.
 
+        Args:
+            horarios (list): Lista de horarios disponibles.
+            salonRango (int): Rango de valores para el ID del salón.
+
+        Returns:
+            None
+        """
         self.poblacion = []
 
         for i in range(self.tam_poblacion):
             entidad = []
 
             # Genera horarios aleatorios y los agrega a la entidad
-            for s in horarios:
+            for s in horarios:        
                 s.Inicializador_aleatorio(salonRango)
                 entidad.append(copy.deepcopy(s))
 
