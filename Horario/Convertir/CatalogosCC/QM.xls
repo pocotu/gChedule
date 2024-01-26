@@ -1,0 +1,1174 @@
+
+
+<div style="text-align:center;color:#990000; font-size:16px;font-weight:bold">
+				CATALOGO SEMESTRE:2023-1<br/></div>
+				<div style="text-align:center;color:#990000; font-size:14px;font-weight:bold;text-decoration:underline"><br/>DETALLE DE ASIGNATURAS</div><table id="hor-minimalist-b" width="85%" >
+					<thead>
+						<tr>
+							<td >Nro</td><td>CURSO</td><td colspan="2">NOMBRE DE CURSO</td>
+							<td>CR</td><td>CAT</td><td>REQUISITO</td>
+							<td>N° SEM</td>
+							<td>OBS</td>
+							<td>CURRICULA</td>
+						</tr>
+					</thead><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>1</td>
+			    <td>CB260AQM</td>
+			    <td>BIOTECNOLOGIA</td><td></td>
+			    <td>03</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold"></td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ALEGRE-QUIJANO-ANTORI</td><td>MI</td><td>[11-13]</td>
+						     <td>T</td><td></td>
+						     <td>B-310</td><td  style="text-align:left">02</td></tr><tr><td>ALEGRE-QUIJANO-ANTORI</td><td >JU</td><td>[17-19]</td>
+						        <td>L</td><td></td>
+						        <td>B-310</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>2</td>
+			    <td>QU305AQM</td>
+			    <td>CATALISIS</td><td></td>
+			    <td>03</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">QU304</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">0</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td> </td><td >MA</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>B-310</td><td  style="text-align:left">02</td></tr><tr><td>                                                                 </td><td >JU</td><td>[11-13]</td>
+						        <td>L</td><td></td>
+						        <td>B-310</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>3</td>
+			    <td>QU107AQM</td>
+			    <td>QUIMICA ORGANO METALICA</td><td></td>
+			    <td>03</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">QU104</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">0</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>LUDEÑA-HUAMAN-MICHAEL AZAEL</td><td >MA</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>B-310</td><td  style="text-align:left">02</td></tr><tr><td>LUDEÑA-HUAMAN-MICHAEL AZAEL</td><td >JU</td><td>[07-09]</td>
+						        <td>L</td><td></td>
+						        <td>B-310</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>4</td>
+			    <td>QU709AQM</td>
+			    <td>TOXICOLOGIA GENERAL</td><td></td>
+			    <td>04</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">QU501</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">0</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>LOAYZA-BECERRA-AURORA</td><td >MA</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>B-310</td><td  style="text-align:left">02</td></tr><tr><td>VALENCIA-FARFAN-NAZARIA JULIETA</td><td >JU</td><td>[15-17]</td>
+						        <td>L</td><td></td>
+						        <td>B-310</td><td  style="text-align:left">02</td></tr><tr><td>LOAYZA-BECERRA-AURORA</td><td >JU</td><td>[09-10]</td>
+						        <td>T</td><td></td>
+						        <td>B-310</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>5</td>
+			    <td>DE901AQM</td>
+			    <td>CONSTITUCION POLITICA Y DERECHOS HUMANOS</td><td></td>
+			    <td>03</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">1</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>USCAMAYTA-ORTIZ DE ZEVALLOS-RODRIGO</td><td >MA</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>B-107</td><td  style="text-align:left">02</td></tr><tr><td>USCAMAYTA-ORTIZ DE ZEVALLOS-RODRIGO</td><td >JU</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>B-107</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>6</td>
+			    <td>ED901AQM</td>
+			    <td>ESTRATEGIAS DE APRENDIZAJE AUTONOMO</td><td></td>
+			    <td>04</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">1</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>HUILLCA-OCHOA-JUAN</td><td >LU</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>B-107</td><td  style="text-align:left">02</td></tr><tr><td>HUILLCA-OCHOA-JUAN</td><td >MI</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>B-107</td><td  style="text-align:left">02</td></tr><tr><td>HUILLCA-OCHOA-JUAN</td><td >VI</td><td>[09-10]</td>
+						        <td>T</td><td></td>
+						        <td>B-107</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>7</td>
+			    <td>FP901AQM</td>
+			    <td>FILOSOFIA Y ETICA</td><td></td>
+			    <td>03</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">1</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MORIANO-ALENDEZ-JOSE</td><td >MA</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>B-107</td><td  style="text-align:left">02</td></tr><tr><td>MORIANO-ALENDEZ-JOSE</td><td >JU</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>B-107</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>8</td>
+			    <td>ME901AQM</td>
+			    <td>MATEMATICA I</td><td></td>
+			    <td>04</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">1</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MAMANI-MAYTA-CHARLES JHON</td><td >LU</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>B-107</td><td  style="text-align:left">02</td></tr><tr><td>MAMANI-MAYTA-CHARLES JHON</td><td >MI</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>B-107</td><td  style="text-align:left">02</td></tr><tr><td>MAMANI-MAYTA-CHARLES JHON</td><td >VI</td><td>[07-08]</td>
+						        <td>T</td><td></td>
+						        <td>B-107</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>9</td>
+			    <td>LC901AQM</td>
+			    <td>REDACCION DE TEXTOS</td><td></td>
+			    <td>04</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">1</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>TARCO-SÁNCHEZ-LUZ MARINA</td><td >LU</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>B-107</td><td  style="text-align:left">02</td></tr><tr><td>TARCO-SÁNCHEZ-LUZ MARINA</td><td >MI</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>B-107</td><td  style="text-align:left">02</td></tr><tr><td>TARCO-SÁNCHEZ-LUZ MARINA</td><td >VI</td><td>[11-12]</td>
+						        <td>T</td><td></td>
+						        <td>B-107</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>10</td>
+			    <td>AS901AQM</td>
+			    <td>SOCIEDAD Y CULTURA</td><td></td>
+			    <td>03</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">1</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>GUTIERREZ-CRUZ-MADELEINE LUCILA</td><td >MA</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>B-107</td><td  style="text-align:left">02</td></tr><tr><td>GUTIERREZ-CRUZ-MADELEINE LUCILA</td><td >JU</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>B-107</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>11</td>
+			    <td>CB902AQM</td>
+			    <td>ECOLOGÍA Y MEDIO AMBIENTE</td><td></td>
+			    <td>04</td>
+			    <td>EGT</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">15 Creds.</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ZEGARRA-TUPAYACHI-ADRIANA</td><td >LU</td><td>[18-20]</td>
+						        <td>T</td><td></td>
+						        <td>B-107</td><td  style="text-align:left">02</td></tr><tr><td>ZEGARRA-TUPAYACHI-ADRIANA</td><td >MI</td><td>[18-20]</td>
+						        <td>P</td><td></td>
+						        <td>B-107</td><td  style="text-align:left">02</td></tr><tr><td>ZEGARRA-TUPAYACHI-ADRIANA</td><td >VI</td><td>[18-19]</td>
+						        <td>T</td><td></td>
+						        <td>B-107</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>12</td>
+			    <td>FI151AQM</td>
+			    <td>FISICA I</td><td></td>
+			    <td>04</td>
+			    <td>OEFE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">ME901</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>HUAMAN-GUZMAN-ABELARDO</td><td >LU</td><td>[16-18]</td>
+						        <td>T</td><td></td>
+						        <td>B-107</td><td  style="text-align:left">02</td></tr><tr><td>HUAMAN-GUZMAN-ABELARDO</td><td >MI</td><td>[16-17]</td>
+						        <td>T</td><td></td>
+						        <td>B-107</td><td  style="text-align:left">01</td></tr><tr><td>HUAMAN-GUZMAN-ABELARDO</td><td >VI</td><td>[16-18]</td>
+						        <td>P</td><td></td>
+						        <td>B-107</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>13</td>
+			    <td>FP902AQM</td>
+			    <td>LIDERAZGO Y HABILIDADES SOCIALES</td><td></td>
+			    <td>03</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">15 Creds.</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>DELGADO-BRAVO-MELKY</td><td >MA</td><td>[14-16]</td>
+						        <td>T</td><td></td>
+						        <td>C-123</td><td  style="text-align:left">02</td></tr><tr><td>DELGADO-BRAVO-MELKY</td><td >JU</td><td>[14-16]</td>
+						        <td>P</td><td></td>
+						        <td>C-123</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>14</td>
+			    <td>ME902AQM</td>
+			    <td>MATEMÁTICA II</td><td></td>
+			    <td>04</td>
+			    <td>EGT</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">ME901</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PALOMINO-SILVERA-NORI LILIAM</td><td >LU</td><td>[14-16]</td>
+						        <td>T</td><td></td>
+						        <td>B-107</td><td  style="text-align:left">02</td></tr><tr><td>PALOMINO-SILVERA-NORI LILIAM</td><td >MI</td><td>[14-16]</td>
+						        <td>P</td><td></td>
+						        <td>B-107</td><td  style="text-align:left">02</td></tr><tr><td>PALOMINO-SILVERA-NORI LILIAM</td><td >VI</td><td>[14-15]</td>
+						        <td>T</td><td></td>
+						        <td>B-107</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>15</td>
+			    <td>QU120AQM</td>
+			    <td>QUÍMICA GENERAL I</td><td></td>
+			    <td>04</td>
+			    <td>OEFE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>                                                                 </td><td >MA</td><td>[15-17]</td>
+						        <td>L</td><td></td>
+						        <td>B-306</td><td  style="text-align:left">02</td></tr><tr><td>LECHUGA-CHACON-ANA MARIA</td><td >JU</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>B-211</td><td  style="text-align:left">02</td></tr><tr><td>LECHUGA-CHACON-ANA MARIA</td><td >VI</td><td>[15-16]</td>
+						        <td>T</td><td></td>
+						        <td>B-211</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>16</td>
+			    <td>IF902AQM</td>
+			    <td>TECNOLOGIAS DE LA INFORMACIÓN Y LA COMUNICACIÓN</td><td></td>
+			    <td>03</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">15 Creds.</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PEÑALOZA-FIGUEROA-MANUEL AURELIO</td><td >MA</td><td>[18-20]</td>
+						        <td>T</td><td></td>
+						        <td>C-123</td><td  style="text-align:left">02</td></tr><tr><td>PEÑALOZA-FIGUEROA-MANUEL AURELIO</td><td >JU</td><td>[18-20]</td>
+						        <td>L</td><td></td>
+						        <td>IN309</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>17</td>
+			    <td>ME254AQM</td>
+			    <td>ANÁLISIS MATEMÁTICO I</td><td></td>
+			    <td>04</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">ME902</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MEDINA-VARGAS-ANDRES FERNANDO</td><td >LU</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>B-110</td><td  style="text-align:left">02</td></tr><tr><td>MEDINA-VARGAS-ANDRES FERNANDO</td><td >MI</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>B-110</td><td  style="text-align:left">02</td></tr><tr><td>MEDINA-VARGAS-ANDRES FERNANDO</td><td >VI</td><td>[07-08]</td>
+						        <td>T</td><td></td>
+						        <td>B-110</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>18</td>
+			    <td>CB258AQM</td>
+			    <td>BIOLOGIA GENERAL</td><td></td>
+			    <td>03</td>
+			    <td>EEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>LAZARTE-LOVATON-RUTH</td><td >LU</td><td>[17-19]</td>
+						        <td>T</td><td></td>
+						        <td>B-110</td><td  style="text-align:left">02</td></tr><tr><td>LAZARTE-LOVATON-RUTH</td><td >VI</td><td>[17-19]</td>
+						        <td>L</td><td></td>
+						        <td>B-110</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>19</td>
+			    <td>QU121AQM</td>
+			    <td>QUÍMICA GENERAL II</td><td></td>
+			    <td>05</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">QU120</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ESPINOZA-SANTOYO-JESUS CARLOS</td><td >LU</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>B-110</td><td  style="text-align:left">02</td></tr><tr><td>ESPINOZA-SANTOYO-JESUS CARLOS</td><td >MI</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>B-110</td><td  style="text-align:left">02</td></tr><tr><td>                                                                 </td><td >VI</td><td>[09-11]</td>
+						        <td>L</td><td></td>
+						        <td>B-306</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>20</td>
+			    <td>QU103AQM</td>
+			    <td>QUÍMICA INORGÁNICA I</td><td></td>
+			    <td>05</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">QU120</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ARANZABAL-CARRASCO-ROSANA LEONOR</td><td >LU</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>B-110</td><td  style="text-align:left">02</td></tr><tr><td>ARANZABAL-CARRASCO-ROSANA LEONOR</td><td >MI</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>B-110</td><td  style="text-align:left">02</td></tr><tr><td>                                                                 </td><td >VI</td><td>[11-13]</td>
+						        <td>L</td><td></td>
+						        <td>B-306</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>21</td>
+			    <td>QU202AQM</td>
+			    <td>QUÍMICA ORGÁNICA I</td><td></td>
+			    <td>05</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">QU120</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>GONZALES-BELLIDO-JANET FRANCISCA</td><td >LU</td><td>[15-17]</td>
+						        <td>T</td><td></td>
+						        <td>B-110</td><td  style="text-align:left">02</td></tr><tr><td>GONZALES-BELLIDO-JANET FRANCISCA</td><td >MI</td><td>[15-17]</td>
+						        <td>T</td><td></td>
+						        <td>B-110</td><td  style="text-align:left">02</td></tr><tr><td>                                                                 </td><td >VI</td><td>[15-17]</td>
+						        <td>L</td><td></td>
+						        <td>B-306</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>22</td>
+			    <td>ME352AQM</td>
+			    <td>ANÁLISIS MATEMÁTICO II</td><td></td>
+			    <td>04</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">ME254</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">4</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>SALGUERO-HUAYLLAS-PERCY</td><td >LU</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>B-211</td><td  style="text-align:left">02</td></tr><tr><td>SALGUERO-HUAYLLAS-PERCY</td><td >MI</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>B-211</td><td  style="text-align:left">02</td></tr><tr><td>SALGUERO-HUAYLLAS-PERCY</td><td >VI</td><td>[09-10]</td>
+						        <td>T</td><td></td>
+						        <td>B-211</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>23</td>
+			    <td>FI152AQM</td>
+			    <td>FISICA II</td><td></td>
+			    <td>04</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FI151</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">4</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>RODRIGUEZ-RODRIGUEZ-JANET KIMBERLY</td><td >MA</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>B-110</td><td  style="text-align:left">02</td></tr><tr><td>RODRIGUEZ-RODRIGUEZ-JANET KIMBERLY</td><td >JU</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>B-110</td><td  style="text-align:left">02</td></tr><tr><td>RODRIGUEZ-RODRIGUEZ-JANET KIMBERLY</td><td >VI</td><td>[08-09]</td>
+						        <td>T</td><td></td>
+						        <td>B-110</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>24</td>
+			    <td>QU104AQM</td>
+			    <td>QUIMICA INORGANICA II</td><td></td>
+			    <td>05</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">QU103</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">4</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>COAVOY-FERRO-DANIEL</td><td >MA</td><td>[14-16]</td>
+						        <td>T</td><td></td>
+						        <td>B-110</td><td  style="text-align:left">02</td></tr><tr><td>                                                                 </td><td >MI</td><td>[11-13]</td>
+						        <td>L</td><td></td>
+						        <td>B-306</td><td  style="text-align:left">02</td></tr><tr><td>COAVOY-FERRO-DANIEL</td><td >JU</td><td>[14-16]</td>
+						        <td>T</td><td></td>
+						        <td>B-110</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>25</td>
+			    <td>QU203AQM</td>
+			    <td>QUIMICA ORGANICA II</td><td></td>
+			    <td>05</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">QU202</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">4</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>SERRANO-FLORES-CARLOS</td><td >LU</td><td>[15-17]</td>
+						        <td>L</td><td></td>
+						        <td>B-306</td><td  style="text-align:left">02</td></tr><tr><td>SERRANO-FLORES-CARLOS</td><td >MA</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>B-211</td><td  style="text-align:left">02</td></tr><tr><td>SERRANO-FLORES-CARLOS</td><td >JU</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>B-211</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>26</td>
+			    <td>QU301AQM</td>
+			    <td>TERMODINAMICA QUIMICA</td><td></td>
+			    <td>04</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">QU121 y ME254</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">4</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ALVAREZ-NUÑEZ-CORINA FERNANDA</td><td >MA</td><td>[16-18]</td>
+						        <td>T</td><td></td>
+						        <td>B-110</td><td  style="text-align:left">02</td></tr><tr><td>ALVAREZ-NUÑEZ-CORINA FERNANDA</td><td >JU</td><td>[16-18]</td>
+						        <td>T</td><td></td>
+						        <td>B-110</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>27</td>
+			    <td>ME353AQM</td>
+			    <td>ANÁLISIS MATEMÁTICO III</td><td></td>
+			    <td>04</td>
+			    <td>EEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">ME352</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>VELASQUEZ-JARA-ADELMA</td><td >MA</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>B-206</td><td  style="text-align:left">02</td></tr><tr><td>VELASQUEZ-JARA-ADELMA</td><td >JU</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>B-206</td><td  style="text-align:left">02</td></tr><tr><td>VELASQUEZ-JARA-ADELMA</td><td >VI</td><td>[07-08]</td>
+						        <td>T</td><td></td>
+						        <td>B-206</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>28</td>
+			    <td>QU302AQM</td>
+			    <td>FISICOQUIMICA I</td><td></td>
+			    <td>05</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">QU301</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MELLADO-VARGAS-OBDULIA</td><td >LU</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>B-206</td><td  style="text-align:left">02</td></tr><tr><td>                                                                 </td><td >LU</td><td>[17-19]</td>
+						        <td>L</td><td></td>
+						        <td>B-306</td><td  style="text-align:left">02</td></tr><tr><td>MELLADO-VARGAS-OBDULIA</td><td >MI</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>B-206</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>29</td>
+			    <td>QU105AQM</td>
+			    <td>MINERALOGÍA GENERAL</td><td></td>
+			    <td>04</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">QU103</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>QUISPE-GUZMAN-DINO LUCIO</td><td >LU</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>B-206</td><td  style="text-align:left">02</td></tr><tr><td>QUISPE-GUZMAN-DINO LUCIO</td><td >MA</td><td>[09-11]</td>
+						        <td>L</td><td></td>
+						        <td>B-306</td><td  style="text-align:left">02</td></tr><tr><td>QUISPE-GUZMAN-DINO LUCIO</td><td >MI</td><td>[09-10]</td>
+						        <td>T</td><td></td>
+						        <td>B-206</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>30</td>
+			    <td>QU204AQM</td>
+			    <td>QUÍMICA ORGÁNICA III</td><td></td>
+			    <td>03</td>
+			    <td>EEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">QU203</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CJUNO-QUISPE-MIJAIL</td><td >LU</td><td>[15-17]</td>
+						        <td>T</td><td></td>
+						        <td>B-206</td><td  style="text-align:left">02</td></tr><tr><td>CJUNO-QUISPE-MIJAIL</td><td >MI</td><td>[11-12]</td>
+						        <td>T</td><td></td>
+						        <td>B-206</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>31</td>
+			    <td>QU403AQM</td>
+			    <td>ANÁLISIS POR INSTRUMENTACIÓN I</td><td></td>
+			    <td>04</td>
+			    <td>EEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">QU401</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>                                                                 </td><td >MA</td><td>[11-13]</td>
+						        <td>L</td><td></td>
+						        <td>B-306</td><td  style="text-align:left">02</td></tr><tr><td>LARA-DIAZ DEL OLMO-ZULMA VIRGINIA</td><td >JU</td><td>[16-18]</td>
+						        <td>T</td><td></td>
+						        <td>B-206</td><td  style="text-align:left">02</td></tr><tr><td>LARA-DIAZ DEL OLMO-ZULMA VIRGINIA</td><td >VI</td><td>[15-16]</td>
+						        <td>T</td><td></td>
+						        <td>B-206</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>32</td>
+			    <td>QU501AQM</td>
+			    <td>BIOQUIMICA I</td><td></td>
+			    <td>05</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">QU204</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>URRUNAGA-DE ROZAS-ENMA</td><td >MA</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>B-206</td><td  style="text-align:left">02</td></tr><tr><td>URRUNAGA-DE ROZAS-ENMA</td><td >JU</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>B-206</td><td  style="text-align:left">02</td></tr><tr><td>                                                                 </td><td >VI</td><td>[13-15]</td>
+						        <td>L</td><td></td>
+						        <td>B-306</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>33</td>
+			    <td>QU404AQM</td>
+			    <td>ANALISIS POR INSTRUMENTACION II</td><td></td>
+			    <td>04</td>
+			    <td>EEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">QU403</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>                                                                 </td><td >MA</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>B-211</td><td  style="text-align:left">02</td></tr><tr><td>ARAGON-MAMANI-SONIA</td><td >MI</td><td>[07-08]</td>
+						        <td>T</td><td></td>
+						        <td>B-106</td><td  style="text-align:left">01</td></tr><tr><td>                                                                 </td><td >JU</td><td>[13-15]</td>
+						        <td>P</td><td></td>
+						        <td>B-211</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>34</td>
+			    <td>QU502AQM</td>
+			    <td>BIOQUÍMICA II</td><td></td>
+			    <td>05</td>
+			    <td>EEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">QU501</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>URRUNAGA-DE ROZAS-ENMA</td><td >LU</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>B-106</td><td  style="text-align:left">02</td></tr><tr><td>                                                                 </td><td >MA</td><td>[07-09]</td>
+						        <td>L</td><td></td>
+						        <td>B-306</td><td  style="text-align:left">02</td></tr><tr><td>URRUNAGA-DE ROZAS-ENMA</td><td >MI</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>B-106</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>35</td>
+			    <td>QU205AQM</td>
+			    <td>ESPECTROSCOPIA DE COMPUESTOS ORGANICOS</td><td></td>
+			    <td>03</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">QU204</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CJUNO-QUISPE-MIJAIL</td><td >LU</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>B-106</td><td  style="text-align:left">02</td></tr><tr><td>                                                                 </td><td >MI</td><td>[11-13]</td>
+						        <td>L</td><td></td>
+						        <td>B-106</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>36</td>
+			    <td>FI153AQM</td>
+			    <td>FISICA III</td><td></td>
+			    <td>03</td>
+			    <td>EEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FI152</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>HUACOTO-TAPIA-RAUL</td><td >LU</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>C-010</td><td  style="text-align:left">02</td></tr><tr><td>HUACOTO-TAPIA-RAUL</td><td >MI</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>C-010</td><td  style="text-align:left">02</td></tr><tr><td>HUACOTO-TAPIA-RAUL</td><td >VI</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>C-010</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>37</td>
+			    <td>QU405AQM</td>
+			    <td>ANALISIS POR INSTRUMENTACIÓN III</td><td></td>
+			    <td>04</td>
+			    <td>EEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">QU404</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>LA TORRE-RIVEROS-LYDA</td><td >LU</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>B-309</td><td  style="text-align:left">02</td></tr><tr><td>LA TORRE-RIVEROS-LYDA</td><td >MI</td><td>[07-08]</td>
+						        <td>T</td><td></td>
+						        <td>B-309</td><td  style="text-align:left">01</td></tr><tr><td>LA TORRE-RIVEROS-LYDA</td><td >VI</td><td>[07-09]</td>
+						        <td>L</td><td></td>
+						        <td>B-306</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>38</td>
+			    <td>QU304AQM</td>
+			    <td>FISICOQUIMICA III</td><td></td>
+			    <td>04</td>
+			    <td>EEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">QU303</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ALVAREZ-NUÑEZ-CORINA FERNANDA</td><td >LU</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>B-309</td><td  style="text-align:left">02</td></tr><tr><td>ALVAREZ-NUÑEZ-CORINA FERNANDA</td><td >MI</td><td>[10-11]</td>
+						        <td>T</td><td></td>
+						        <td>B-309</td><td  style="text-align:left">01</td></tr><tr><td>                                                                 </td><td >JU</td><td>[11-13]</td>
+						        <td>L</td><td></td>
+						        <td>B-306</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>39</td>
+			    <td>QU710AQM</td>
+			    <td>GESTION DE LABORATORIO Y CALIDAD</td><td></td>
+			    <td>02</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">160 Creds.</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ARAGON-MAMANI-SONIA</td><td >LU</td><td>[15-17]</td>
+						        <td>L</td><td></td>
+						        <td>B-309</td><td  style="text-align:left">02</td></tr><tr><td>ARAGON-MAMANI-SONIA</td><td >MI</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>B-309</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>40</td>
+			    <td>QU700AQM</td>
+			    <td>ACTIVIDADES</td><td></td>
+			    <td>01</td>
+			    <td>AEX</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">120 Creds.</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">9</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>VALENCIA-FARFAN-NAZARIA JULIETA</td><td >LU</td><td>[18-20]</td>
+						        <td>P</td><td></td>
+						        <td>B-309</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>41</td>
+			    <td>CB259AQM</td>
+			    <td>MICROBIOLOGIA GENERAL</td><td></td>
+			    <td>03</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">QU501</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">9</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>AMPUERO-APARICIO-ISAURA VANESSA</td><td >MA</td><td>[13-14]</td>
+						        <td>T</td><td></td>
+						        <td>B-309</td><td  style="text-align:left">01</td></tr><tr><td>AMPUERO-APARICIO-ISAURA VANESSA</td><td >VI</td><td>[09-11]</td>
+						        <td>L</td><td></td>
+						        <td>B-309</td><td  style="text-align:left">02</td></tr><tr><td>AMPUERO-APARICIO-ISAURA VANESSA</td><td >SA</td><td>[07-08]</td>
+						        <td>T</td><td></td>
+						        <td>B-309</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>42</td>
+			    <td>QU206AQM</td>
+			    <td>PETROQUIMICA</td><td></td>
+			    <td>04</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">QU203</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">9</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ESPINOZA-SANTOYO-JESUS CARLOS</td><td >MA</td><td>[15-17]</td>
+						        <td>T</td><td></td>
+						        <td>B-309</td><td  style="text-align:left">02</td></tr><tr><td>                                                                 </td><td >MI</td><td>[17-19]</td>
+						        <td>L</td><td></td>
+						        <td>B-306</td><td  style="text-align:left">02</td></tr><tr><td>ESPINOZA-SANTOYO-JESUS CARLOS</td><td >JU</td><td>[15-16]</td>
+						        <td>T</td><td></td>
+						        <td>B-309</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>43</td>
+			    <td>QU708AQM</td>
+			    <td>QUIMICA DE LA RESTAURACIÓN Y CONSERVACIÓN DE BIENES CULTURALES</td><td></td>
+			    <td>04</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">QU403</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">10</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>LUIZAR-OBREGON-CELINA</td><td >LU</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>B-310</td><td  style="text-align:left">02</td></tr><tr><td>LUIZAR-OBREGON-CELINA</td><td >MI</td><td>[07-08]</td>
+						        <td>T</td><td></td>
+						        <td>B-310</td><td  style="text-align:left">01</td></tr><tr><td>LUIZAR-OBREGON-CELINA</td><td >VI</td><td>[07-09]</td>
+						        <td>L</td><td></td>
+						        <td>B-310</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>44</td>
+			    <td>QU711AQM</td>
+			    <td>QUIMICA Y TRATAMIENTO DE AGUAS</td><td></td>
+			    <td>03</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">QU402</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">10</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>LARA-DIAZ DEL OLMO-ZULMA VIRGINIA</td><td >LU</td><td>[11-12]</td>
+						        <td>T</td><td></td>
+						        <td>B-310</td><td  style="text-align:left">01</td></tr><tr><td>LARA-DIAZ DEL OLMO-ZULMA VIRGINIA</td><td >VI</td><td>[09-10]</td>
+						        <td>T</td><td></td>
+						        <td>B-310</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>45</td>
+			    <td>QU702AQM</td>
+			    <td>SEMINARIO</td><td></td>
+			    <td>03</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">180 Creds.</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">10</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>LECHUGA-CHACON-ANA MARIA</td><td >LU</td><td>[12-13]</td>
+						        <td>T</td><td></td>
+						        <td>B-310</td><td  style="text-align:left">01</td></tr><tr><td>LECHUGA-CHACON-ANA MARIA</td><td >MI</td><td>[14-16]</td>
+						        <td>P</td><td></td>
+						        <td>B-310</td><td  style="text-align:left">02</td></tr><tr><td>LECHUGA-CHACON-ANA MARIA</td><td >VI</td><td>[14-15]</td>
+						        <td>T</td><td></td>
+						        <td>B-310</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>46</td>
+			    <td>QU702BQM</td>
+			    <td>SEMINARIO</td><td></td>
+			    <td>03</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">180 Creds.</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">10</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td></td><td ></td><td>[00-00]</td>
+						        <td></td><td></td>
+						        <td></td><td  style="text-align:left">00</td></tr></table>

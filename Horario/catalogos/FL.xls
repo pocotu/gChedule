@@ -1,0 +1,1308 @@
+
+
+<div style="text-align:center;color:#990000; font-size:16px;font-weight:bold">
+				CATALOGO SEMESTRE:2023-1<br/></div>
+				<div style="text-align:center;color:#990000; font-size:14px;font-weight:bold;text-decoration:underline"><br/>DETALLE DE ASIGNATURAS</div><table id="hor-minimalist-b" width="85%" >
+					<thead>
+						<tr>
+							<td >Nro</td><td>CURSO</td><td colspan="2">NOMBRE DE CURSO</td>
+							<td>CR</td><td>CAT</td><td>REQUISITO</td>
+							<td>N° SEM</td>
+							<td>OBS</td>
+							<td>CURRICULA</td>
+						</tr>
+					</thead><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>1</td>
+			    <td>DE901AFL</td>
+			    <td>CONSTITUCION POLITICA Y DERECHOS HUMANOS</td><td></td>
+			    <td>03</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold"></td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>VELASQUEZ-PELAEZ-JUANSEBASTIAN</td><td>MA</td><td>[14-16]</td>
+						     <td>T</td><td></td>
+						     <td>FL-701</td><td  style="text-align:left">02</td></tr><tr><td>VELASQUEZ-PELAEZ-JUANSEBASTIAN</td><td >JU</td><td>[14-16]</td>
+						        <td>P</td><td></td>
+						        <td>FL-701</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>2</td>
+			    <td>ED901AFL</td>
+			    <td>ESTRATEGIAS DE APRENDIZAJE AUTONOMO</td><td></td>
+			    <td>04</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">1</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>VISA-QUISPE-SOFIA</td><td >LU</td><td>[18-20]</td>
+						        <td>T</td><td></td>
+						        <td>FL-701</td><td  style="text-align:left">02</td></tr><tr><td>VISA-QUISPE-SOFIA</td><td >MI</td><td>[18-20]</td>
+						        <td>P</td><td></td>
+						        <td>FL-701</td><td  style="text-align:left">02</td></tr><tr><td>VISA-QUISPE-SOFIA</td><td >VI</td><td>[18-19]</td>
+						        <td>T</td><td></td>
+						        <td>FL-701</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>3</td>
+			    <td>FP901AFL</td>
+			    <td>FILOSOFIA Y ETICA</td><td></td>
+			    <td>03</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">1</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>RIVERA-VARGAS-ANNY YUDITH</td><td >MA</td><td>[18-20]</td>
+						        <td>T</td><td></td>
+						        <td>FL-701</td><td  style="text-align:left">02</td></tr><tr><td>RIVERA-VARGAS-ANNY YUDITH</td><td >JU</td><td>[18-20]</td>
+						        <td>P</td><td></td>
+						        <td>FL-701</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>4</td>
+			    <td>ME901AFL</td>
+			    <td>MATEMATICA I</td><td></td>
+			    <td>04</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">1</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>TINTAYA-QUISPE-JOSE PERCY</td><td >LU</td><td>[16-18]</td>
+						        <td>T</td><td></td>
+						        <td>FL-701</td><td  style="text-align:left">02</td></tr><tr><td>TINTAYA-QUISPE-JOSE PERCY</td><td >MI</td><td>[16-18]</td>
+						        <td>P</td><td></td>
+						        <td>FL-701</td><td  style="text-align:left">02</td></tr><tr><td>TINTAYA-QUISPE-JOSE PERCY</td><td >VI</td><td>[16-17]</td>
+						        <td>T</td><td></td>
+						        <td>FL-701</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>5</td>
+			    <td>LC901AFL</td>
+			    <td>REDACCION DE TEXTOS</td><td></td>
+			    <td>04</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">1</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MELIN-FLORES-FRANCISCA</td><td >LU</td><td>[14-16]</td>
+						        <td>T</td><td></td>
+						        <td>FL-701</td><td  style="text-align:left">02</td></tr><tr><td>MELIN-FLORES-FRANCISCA</td><td >MI</td><td>[14-16]</td>
+						        <td>P</td><td></td>
+						        <td>FL-701</td><td  style="text-align:left">02</td></tr><tr><td>MELIN-FLORES-FRANCISCA</td><td >VI</td><td>[14-15]</td>
+						        <td>T</td><td></td>
+						        <td>FL-701</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>6</td>
+			    <td>AS901AFL</td>
+			    <td>SOCIEDAD Y CULTURA</td><td></td>
+			    <td>03</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">1</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ESCALANTE-GUTIERREZ-CARMEN</td><td >MA</td><td>[16-18]</td>
+						        <td>T</td><td></td>
+						        <td>FL-701</td><td  style="text-align:left">02</td></tr><tr><td>ESCALANTE-GUTIERREZ-CARMEN</td><td >JU</td><td>[16-18]</td>
+						        <td>P</td><td></td>
+						        <td>FL-701</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>7</td>
+			    <td>AS315AFL</td>
+			    <td>ANTROPOLOGÍA</td><td></td>
+			    <td>04</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>                                                                 </td><td >MA</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>FL-701</td><td  style="text-align:left">02</td></tr><tr><td>                                                                 </td><td >JU</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>FL-701</td><td  style="text-align:left">02</td></tr><tr><td>DAVILA-VELASQUEZ-KARINA INES</td><td >VI</td><td>[08-09]</td>
+						        <td>T</td><td></td>
+						        <td>FL-701</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>8</td>
+			    <td>EC123AFL</td>
+			    <td>ECONOMIA</td><td></td>
+			    <td>04</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>LOPEZ-ZEBALLOS-OSCAR RAUL</td><td >LU</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>FL-701</td><td  style="text-align:left">02</td></tr><tr><td>LOPEZ-ZEBALLOS-OSCAR RAUL</td><td >MI</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>FL-701</td><td  style="text-align:left">02</td></tr><tr><td>LOPEZ-ZEBALLOS-OSCAR RAUL</td><td >VI</td><td>[07-08]</td>
+						        <td>T</td><td></td>
+						        <td>FL-701</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>9</td>
+			    <td>FP904AFL</td>
+			    <td>INTRODUCCIÓN A LA EPISTEMOLOGÍA</td><td></td>
+			    <td>04</td>
+			    <td>EGT</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">15 Creds.</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>SANDOVAL-MENDOZA-GIAN FRANCO</td><td >LU</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>FL-701</td><td  style="text-align:left">02</td></tr><tr><td>SANDOVAL-MENDOZA-GIAN FRANCO</td><td >MI</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>FL-701</td><td  style="text-align:left">02</td></tr><tr><td>SANDOVAL-MENDOZA-GIAN FRANCO</td><td >VI</td><td>[11-12]</td>
+						        <td>T</td><td></td>
+						        <td>FL-701</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>10</td>
+			    <td>FP902AFL</td>
+			    <td>LIDERAZGO Y HABILIDADES SOCIALES</td><td></td>
+			    <td>03</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">15 Creds.</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CONTRERAS-ESQUIVEL-VERONICA</td><td >MA</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>A-510</td><td  style="text-align:left">02</td></tr><tr><td>CONTRERAS-ESQUIVEL-VERONICA</td><td >JU</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>A-510</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>11</td>
+			    <td>FP903AFL</td>
+			    <td>PSICOLOGÍA GENERAL</td><td></td>
+			    <td>04</td>
+			    <td>EGT</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">15 Creds.</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>LOAYZA-BORDA-JOSÉ ALEJANDRO</td><td >LU</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>FL-701</td><td  style="text-align:left">02</td></tr><tr><td>LOAYZA-BORDA-JOSÉ ALEJANDRO</td><td >MI</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>FL-701</td><td  style="text-align:left">02</td></tr><tr><td>LOAYZA-BORDA-JOSÉ ALEJANDRO</td><td >VI</td><td>[09-10]</td>
+						        <td>T</td><td></td>
+						        <td>FL-701</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>12</td>
+			    <td>IF902AFL</td>
+			    <td>TECNOLOGIAS DE LA INFORMACIÓN Y LA COMUNICACIÓN</td><td></td>
+			    <td>03</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">15 Creds.</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>FALCON-HUALLPA-ELIDA</td><td >LU</td><td>[14-16]</td>
+						        <td>L</td><td></td>
+						        <td>IN311</td><td  style="text-align:left">02</td></tr><tr><td>PACHECO-VASQUEZ-ESTHER CRISTINA</td><td >JU</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>FL-701</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>13</td>
+			    <td>FP164AFL</td>
+			    <td>FILOSOFIA MATERIALISTA</td><td></td>
+			    <td>04</td>
+			    <td>OEES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MONTOYA-HUAMANÍ-SEGUNDO TIMOTEO</td><td >MA</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>CID-103</td><td  style="text-align:left">02</td></tr><tr><td>MONTOYA-HUAMANÍ-SEGUNDO TIMOTEO</td><td >JU</td><td>[12-13]</td>
+						        <td>T</td><td></td>
+						        <td>CID-103</td><td  style="text-align:left">01</td></tr><tr><td>MONTOYA-HUAMANÍ-SEGUNDO TIMOTEO</td><td >VI</td><td>[10-12]</td>
+						        <td>P</td><td></td>
+						        <td>CID-103</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>14</td>
+			    <td>LC231AFL</td>
+			    <td>LINGUISTICA</td><td></td>
+			    <td>03</td>
+			    <td>EEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ZELA-VERA-AIDE</td><td >LU</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>CID-103</td><td  style="text-align:left">02</td></tr><tr><td>ZELA-VERA-AIDE</td><td >MI</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>CID-103</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>15</td>
+			    <td>FP120AFL</td>
+			    <td>LÓGICA I (FORMAL Y DIALÉCTICA)</td><td></td>
+			    <td>04</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>RIVERA-VARGAS-ANNY YUDITH</td><td >MA</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>CID-103</td><td  style="text-align:left">02</td></tr><tr><td>RIVERA-VARGAS-ANNY YUDITH</td><td >JU</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>CID-103</td><td  style="text-align:left">02</td></tr><tr><td>RIVERA-VARGAS-ANNY YUDITH</td><td >VI</td><td>[07-08]</td>
+						        <td>T</td><td></td>
+						        <td>CID-103</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>16</td>
+			    <td>FP531AFL</td>
+			    <td>PSICOLOGÍA COGNITIVA</td><td></td>
+			    <td>04</td>
+			    <td>EEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>LAJO-CHAVEZ-YNDIRA</td><td >LU</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>CID-103</td><td  style="text-align:left">02</td></tr><tr><td>LAJO-CHAVEZ-YNDIRA</td><td >MI</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>CID-103</td><td  style="text-align:left">02</td></tr><tr><td>LAJO-CHAVEZ-YNDIRA</td><td >VI</td><td>[08-09]</td>
+						        <td>T</td><td></td>
+						        <td>CID-103</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>17</td>
+			    <td>FP118AFL</td>
+			    <td>TALLER DEL PENSAMIENTO ANALÍTICO Y CRÍTICO</td><td></td>
+			    <td>03</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MORENO-MONTOYA-GABRIEL ALONSO</td><td >MA</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>CID-103</td><td  style="text-align:left">02</td></tr><tr><td>MORENO-MONTOYA-GABRIEL ALONSO</td><td >JU</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>CID-103</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>18</td>
+			    <td>FP132AFL</td>
+			    <td>TEORÍA DEL CONOCIMIENTO</td><td></td>
+			    <td>04</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PILCO-LOAYZA-JAIME</td><td >LU</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>CID-103</td><td  style="text-align:left">02</td></tr><tr><td>PILCO-LOAYZA-JAIME</td><td >MI</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>CID-103</td><td  style="text-align:left">02</td></tr><tr><td>PILCO-LOAYZA-JAIME</td><td >JU</td><td>[11-12]</td>
+						        <td>T</td><td></td>
+						        <td>CID-103</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>19</td>
+			    <td>FP200AFL</td>
+			    <td>ARGUMENTACIÓN E INTERPRETACIÓN DE TEXTOS</td><td></td>
+			    <td>03</td>
+			    <td>EEES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FP118</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">4</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PALOMINO-FLORES-KARL HUMBERTO</td><td >LU</td><td>[14-16]</td>
+						        <td>T</td><td></td>
+						        <td>CID-103</td><td  style="text-align:left">02</td></tr><tr><td>PALOMINO-FLORES-KARL HUMBERTO</td><td >MI</td><td>[14-15]</td>
+						        <td>P</td><td></td>
+						        <td>CID-103</td><td  style="text-align:left">01</td></tr><tr><td>PALOMINO-FLORES-KARL HUMBERTO</td><td >VI</td><td>[14-15]</td>
+						        <td>P</td><td></td>
+						        <td>CID-103</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>20</td>
+			    <td>FP109AFL</td>
+			    <td>DESARROLLO PERSONAL</td><td></td>
+			    <td>03</td>
+			    <td>EEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">4</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>GARCIA-PEREZ-MAYRA VANESSA</td><td >MA</td><td>[19-21]</td>
+						        <td>T</td><td></td>
+						        <td>CID-103</td><td  style="text-align:left">02</td></tr><tr><td>GARCIA-PEREZ-MAYRA VANESSA</td><td >VI</td><td>[19-21]</td>
+						        <td>P</td><td></td>
+						        <td>CID-103</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>21</td>
+			    <td>FP126AFL</td>
+			    <td>EPISTEMOLOGÍA I (CIENCIAS FORMALES)</td><td></td>
+			    <td>03</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FP904</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">4</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MORENO-MONTOYA-GABRIEL ALONSO</td><td >MA</td><td>[14-16]</td>
+						        <td>T</td><td></td>
+						        <td>CID-103</td><td  style="text-align:left">02</td></tr><tr><td>MORENO-MONTOYA-GABRIEL ALONSO</td><td >JU</td><td>[14-16]</td>
+						        <td>P</td><td></td>
+						        <td>CID-103</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>22</td>
+			    <td>FP176AFL</td>
+			    <td>FILOSOFÍA ORIENTAL</td><td></td>
+			    <td>03</td>
+			    <td>OEES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">4</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>SANTUR-ARRELUCE-ANGELA MARIA</td><td >LU</td><td>[18-20]</td>
+						        <td>T</td><td></td>
+						        <td>CID-103</td><td  style="text-align:left">02</td></tr><tr><td>SANTUR-ARRELUCE-ANGELA MARIA</td><td >MI</td><td>[19-21]</td>
+						        <td>P</td><td></td>
+						        <td>CID-103</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>23</td>
+			    <td>FP122AFL</td>
+			    <td>LÓGICA II (PROPOSICIONAL)</td><td></td>
+			    <td>03</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FP120</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">4</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MORIANO-ALENDEZ-JOSE</td><td >LU</td><td>[16-18]</td>
+						        <td>T</td><td></td>
+						        <td>CID-103</td><td  style="text-align:left">02</td></tr><tr><td>MORIANO-ALENDEZ-JOSE</td><td >JU</td><td>[19-21]</td>
+						        <td>P</td><td></td>
+						        <td>CID-103</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>24</td>
+			    <td>FP134AFL</td>
+			    <td>ONTOLOGÍA Y METAFÍSICA</td><td></td>
+			    <td>04</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">4</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>                                                                 </td><td >MI</td><td>[15-17]</td>
+						        <td>T</td><td></td>
+						        <td>CID-103</td><td  style="text-align:left">02</td></tr><tr><td>DÁVILA-MOREY-DANTE</td><td >VI</td><td>[15-17]</td>
+						        <td>P</td><td></td>
+						        <td>CID-103</td><td  style="text-align:left">02</td></tr><tr><td>DÁVILA-MOREY-DANTE</td><td >VI</td><td>[17-18]</td>
+						        <td>T</td><td></td>
+						        <td>CID-103</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>25</td>
+			    <td>FP178AFL</td>
+			    <td>SEMINARIO DE FILOSOFÍA ORIENTAL</td><td></td>
+			    <td>03</td>
+			    <td>OEES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">4</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MONTOYA-HUAMANÍ-SEGUNDO TIMOTEO</td><td >MA</td><td>[16-18]</td>
+						        <td>T</td><td></td>
+						        <td>CID-103</td><td  style="text-align:left">02</td></tr><tr><td>MONTOYA-HUAMANÍ-SEGUNDO TIMOTEO</td><td >MI</td><td>[17-19]</td>
+						        <td>P</td><td></td>
+						        <td>CID-103</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>26</td>
+			    <td>FP136AFL</td>
+			    <td>ÉTICA</td><td></td>
+			    <td>03</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PÉREZ-VALERGA-AURELIO ANTONIO</td><td >MA</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>CID-104</td><td  style="text-align:left">02</td></tr><tr><td>PÉREZ-VALERGA-AURELIO ANTONIO</td><td >VI</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>CID-104</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>27</td>
+			    <td>FP180AFL</td>
+			    <td>FILOSOFÍA ANTIGUA</td><td></td>
+			    <td>03</td>
+			    <td>OEES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FP176</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MONTOYA-HUAMANÍ-SEGUNDO TIMOTEO</td><td >MA</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>CID-104</td><td  style="text-align:left">02</td></tr><tr><td>MONTOYA-HUAMANÍ-SEGUNDO TIMOTEO</td><td >JU</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>CID-104</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>28</td>
+			    <td>ED210AFL</td>
+			    <td>FORMACIÓN PSICOMOTRIZ</td><td></td>
+			    <td>03</td>
+			    <td>AEC</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CUENTAS-SALAS-JAIME</td><td >MI</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>CID-104</td><td  style="text-align:left">02</td></tr><tr><td>CUENTAS-SALAS-JAIME</td><td >JU</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>CID-104</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>29</td>
+			    <td>FP124AFL</td>
+			    <td>LOGICA III (MODAL)</td><td></td>
+			    <td>03</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FP122</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MORIANO-ALENDEZ-JOSE</td><td >LU</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>CID-104</td><td  style="text-align:left">02</td></tr><tr><td>MORIANO-ALENDEZ-JOSE</td><td >JU</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>CID-104</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>30</td>
+			    <td>FP182AFL</td>
+			    <td>SEMINARIO DE FILOSOFÍA ANTIGUA</td><td></td>
+			    <td>03</td>
+			    <td>OEES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FP176</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PALOMINO-FLORES-KARL HUMBERTO</td><td >LU</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>CID-104</td><td  style="text-align:left">02</td></tr><tr><td>PALOMINO-FLORES-KARL HUMBERTO</td><td >MI</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>CID-104</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>31</td>
+			    <td>FP138AFL</td>
+			    <td>AXIOLOGÍA</td><td></td>
+			    <td>03</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MONTOYA-HUAMANÍ-SEGUNDO TIMOTEO</td><td >JU</td><td>[16-18]</td>
+						        <td>T</td><td></td>
+						        <td>CID-104</td><td  style="text-align:left">02</td></tr><tr><td>MONTOYA-HUAMANÍ-SEGUNDO TIMOTEO</td><td >VI</td><td>[18-20]</td>
+						        <td>P</td><td></td>
+						        <td>CID-104</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>32</td>
+			    <td>FP130AFL</td>
+			    <td>EPISTEMOLOGÍA III (TECNOLOGÍA)</td><td></td>
+			    <td>03</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FP128</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PILCO-LOAYZA-JAIME</td><td >LU</td><td>[16-18]</td>
+						        <td>T</td><td></td>
+						        <td>CID-104</td><td  style="text-align:left">02</td></tr><tr><td>PILCO-LOAYZA-JAIME</td><td >MI</td><td>[16-18]</td>
+						        <td>P</td><td></td>
+						        <td>CID-104</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>33</td>
+			    <td>FP142AFL</td>
+			    <td>ESTETICA</td><td></td>
+			    <td>03</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>BARTURÉN-CASTILLA-CRISTIAN SANTOS</td><td >JU</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>CID-107</td><td  style="text-align:left">02</td></tr><tr><td>BARTURÉN-CASTILLA-CRISTIAN SANTOS</td><td >VI</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>CID-107</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>34</td>
+			    <td>FP154AFL</td>
+			    <td>FILOSOFIA DE LA CULTURA</td><td></td>
+			    <td>03</td>
+			    <td>EEES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>VALENZUELA-ZEA-WALDO</td><td >LU</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>CID-107</td><td  style="text-align:left">02</td></tr><tr><td>VALENZUELA-ZEA-WALDO</td><td >MI</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>CID-107</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>35</td>
+			    <td>FP158AFL</td>
+			    <td>FILOSOFIA DE LA POLITICA</td><td></td>
+			    <td>03</td>
+			    <td>EEES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>VALENZUELA-ZEA-WALDO</td><td >LU</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>CID-107</td><td  style="text-align:left">02</td></tr><tr><td>VALENZUELA-ZEA-WALDO</td><td >MI</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>CID-107</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>36</td>
+			    <td>FP188AFL</td>
+			    <td>FILOSOFIA MODERNA</td><td></td>
+			    <td>04</td>
+			    <td>OEES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FP184</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>RIVERA-CALDERON-VICTOR SAMUEL</td><td >MI</td><td>[12-13]</td>
+						        <td>T</td><td></td>
+						        <td>CID-107</td><td  style="text-align:left">01</td></tr><tr><td>RIVERA-CALDERON-VICTOR SAMUEL</td><td >JU</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>CID-107</td><td  style="text-align:left">02</td></tr><tr><td>RIVERA-CALDERON-VICTOR SAMUEL</td><td >VI</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>CID-107</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>37</td>
+			    <td>FP146AFL</td>
+			    <td>INTRODUCCION A LA NEUROCIENCIA</td><td></td>
+			    <td>03</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CARREON-SUTEC-ALAIN GUNNAR</td><td >MA</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>CID-107</td><td  style="text-align:left">02</td></tr><tr><td>CARREON-SUTEC-ALAIN GUNNAR</td><td >VI</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>CID-107</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>38</td>
+			    <td>FP168AFL</td>
+			    <td>METODOLOGIA CIENTIFICA</td><td></td>
+			    <td>03</td>
+			    <td>OEES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PILCO-LOAYZA-JAIME</td><td >MA</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>CID-107</td><td  style="text-align:left">02</td></tr><tr><td>PILCO-LOAYZA-JAIME</td><td >JU</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>CID-107</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>39</td>
+			    <td>FP190AFL</td>
+			    <td>SEMINARIO DE FILOSOFIA MODERNA</td><td></td>
+			    <td>03</td>
+			    <td>OEES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FP186</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MORENO-MONTOYA-GABRIEL ALONSO</td><td >LU</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>CID-107</td><td  style="text-align:left">02</td></tr><tr><td>MORENO-MONTOYA-GABRIEL ALONSO</td><td >MA</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>CID-107</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>40</td>
+			    <td>FP140AFL</td>
+			    <td>ANTROPOLOGIA FILOSOFICA</td><td></td>
+			    <td>03</td>
+			    <td>EEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>DÁVILA-MOREY-DANTE</td><td >LU</td><td>[14-16]</td>
+						        <td>T</td><td></td>
+						        <td>CID-107</td><td  style="text-align:left">02</td></tr><tr><td>DÁVILA-MOREY-DANTE</td><td >MI</td><td>[14-16]</td>
+						        <td>P</td><td></td>
+						        <td>CID-107</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>41</td>
+			    <td>FP192AFL</td>
+			    <td>FILOSOFIA CONTEMPORANEA</td><td></td>
+			    <td>03</td>
+			    <td>OEES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FP188</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PALOMINO-FLORES-KARL HUMBERTO</td><td >LU</td><td>[16-18]</td>
+						        <td>T</td><td></td>
+						        <td>CID-107</td><td  style="text-align:left">02</td></tr><tr><td>PALOMINO-FLORES-KARL HUMBERTO</td><td >MI</td><td>[16-18]</td>
+						        <td>P</td><td></td>
+						        <td>CID-107</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>42</td>
+			    <td>FP243AFL</td>
+			    <td>FILOSOFIA DEL ARTE</td><td></td>
+			    <td>03</td>
+			    <td>EEES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>BARTURÉN-CASTILLA-CRISTIAN SANTOS</td><td >MA</td><td>[18-20]</td>
+						        <td>T</td><td></td>
+						        <td>CID-107</td><td  style="text-align:left">02</td></tr><tr><td>BARTURÉN-CASTILLA-CRISTIAN SANTOS</td><td >VI</td><td>[16-18]</td>
+						        <td>P</td><td></td>
+						        <td>CID-107</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>43</td>
+			    <td>FP170AFL</td>
+			    <td>METODOLOGIA DE LA INVESTIGACION FILOSOFICA</td><td></td>
+			    <td>04</td>
+			    <td>OEES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FP168</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>SANCHEZ-FLORES-FABIO ANSELMO</td><td >MA</td><td>[16-18]</td>
+						        <td>T</td><td></td>
+						        <td>CID-107</td><td  style="text-align:left">02</td></tr><tr><td>SANCHEZ-FLORES-FABIO ANSELMO</td><td >JU</td><td>[16-18]</td>
+						        <td>P</td><td></td>
+						        <td>CID-107</td><td  style="text-align:left">02</td></tr><tr><td>SANCHEZ-FLORES-FABIO ANSELMO</td><td >VI</td><td>[15-16]</td>
+						        <td>T</td><td></td>
+						        <td>CID-107</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>44</td>
+			    <td>FP233AFL</td>
+			    <td>PROBLEMAS DE ETICA CONTEMPORANEA</td><td></td>
+			    <td>03</td>
+			    <td>EEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FP136</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PÉREZ-VALERGA-AURELIO ANTONIO</td><td >MA</td><td>[14-16]</td>
+						        <td>T</td><td></td>
+						        <td>CID-107</td><td  style="text-align:left">02</td></tr><tr><td>PÉREZ-VALERGA-AURELIO ANTONIO</td><td >JU</td><td>[14-16]</td>
+						        <td>P</td><td></td>
+						        <td>CID-107</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>45</td>
+			    <td>AS212AFL</td>
+			    <td>PROMOCION SOCIAL</td><td></td>
+			    <td>03</td>
+			    <td>AEC</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>QUISPE-CHALLAPA-EDWIN FELIPE</td><td >JU</td><td>[18-20]</td>
+						        <td>T</td><td></td>
+						        <td>CID-107</td><td  style="text-align:left">02</td></tr><tr><td>QUISPE-CHALLAPA-EDWIN FELIPE</td><td >VI</td><td>[18-20]</td>
+						        <td>P</td><td></td>
+						        <td>CID-107</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>46</td>
+			    <td>FP194AFL</td>
+			    <td>SEMINARIO DE FILOSOFIA CONTEMPORANEA</td><td></td>
+			    <td>03</td>
+			    <td>OEES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FP190</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PALOMINO-FLORES-KARL HUMBERTO</td><td >LU</td><td>[18-20]</td>
+						        <td>T</td><td></td>
+						        <td>CID-107</td><td  style="text-align:left">02</td></tr><tr><td>PALOMINO-FLORES-KARL HUMBERTO</td><td >MI</td><td>[18-20]</td>
+						        <td>P</td><td></td>
+						        <td>CID-107</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>47</td>
+			    <td>FP245AFL</td>
+			    <td>IDEOLOGIAS POLITICAS EN ELPERU</td><td></td>
+			    <td>03</td>
+			    <td>OEES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">9</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>VALENZUELA-ZEA-WALDO</td><td >LU</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>CCSS 105</td><td  style="text-align:left">02</td></tr><tr><td>VALENZUELA-ZEA-WALDO</td><td >MI</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>CCSS 105</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>48</td>
+			    <td>FP196AFL</td>
+			    <td>PENSAMIENTO LATINOAMERICANO</td><td></td>
+			    <td>04</td>
+			    <td>EEES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">9</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MORENO-MONTOYA-GABRIEL ALONSO</td><td >LU</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>CCSS 105</td><td  style="text-align:left">02</td></tr><tr><td>MORENO-MONTOYA-GABRIEL ALONSO</td><td >MI</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>CCSS 105</td><td  style="text-align:left">02</td></tr><tr><td>MORENO-MONTOYA-GABRIEL ALONSO</td><td >VI</td><td>[09-10]</td>
+						        <td>T</td><td></td>
+						        <td>CCSS 105</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>49</td>
+			    <td>FP220AFL</td>
+			    <td>PRACTICAS PRE PROFESIONALES I</td><td></td>
+			    <td>06</td>
+			    <td>PPP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">175 Creds.</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">9</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>RIVERA-CALDERON-VICTOR SAMUEL</td><td >MA</td><td>[10-13]</td>
+						        <td>P</td><td></td>
+						        <td>CCSS 105</td><td  style="text-align:left">03</td></tr><tr><td>                                                                 </td><td >JU</td><td>[09-13]</td>
+						        <td>P</td><td></td>
+						        <td>CCSS 105</td><td  style="text-align:left">04</td></tr><tr><td>                                                                 </td><td >VI</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>CCSS 105</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>50</td>
+			    <td>FP172AFL</td>
+			    <td>SEMINARIO DE INVESTIGACION FILOSOFICA I</td><td></td>
+			    <td>04</td>
+			    <td>OEES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FP170</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">9</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>SANCHEZ-FLORES-FABIO ANSELMO</td><td >MA</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>CCSS 105</td><td  style="text-align:left">02</td></tr><tr><td>SANCHEZ-FLORES-FABIO ANSELMO</td><td >JU</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>CCSS 105</td><td  style="text-align:left">02</td></tr><tr><td>SANCHEZ-FLORES-FABIO ANSELMO</td><td >VI</td><td>[07-08]</td>
+						        <td>T</td><td></td>
+						        <td>CCSS 105</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>51</td>
+			    <td>FP222AFL</td>
+			    <td>PRACTICAS PRE PROFESIONALES II</td><td></td>
+			    <td>08</td>
+			    <td>PPP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FP220</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">10</td>
+				<td>RESOLUCIÓN N° 094-2023- VRAC-UNSAAC</td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="7">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MORIANO-ALENDEZ-JOSE</td><td >MA</td><td>[14-17]</td>
+						        <td>T</td><td></td>
+						        <td>MOD-112</td><td  style="text-align:left">03</td></tr><tr><td>MORIANO-ALENDEZ-JOSE</td><td >MI</td><td>[14-17]</td>
+						        <td>T</td><td></td>
+						        <td>MOD-112</td><td  style="text-align:left">03</td></tr><tr><td>MORIANO-ALENDEZ-JOSE</td><td >MI</td><td>[08-10]</td>
+						        <td>P</td><td></td>
+						        <td>MOD-112</td><td  style="text-align:left">02</td></tr><tr><td>MORIANO-ALENDEZ-JOSE</td><td >JU</td><td>[11-17]</td>
+						        <td>P</td><td></td>
+						        <td>MOD-112</td><td  style="text-align:left">06</td></tr><tr><td>MORIANO-ALENDEZ-JOSE</td><td >VI</td><td>[14-17]</td>
+						        <td>T</td><td></td>
+						        <td>MOD-112</td><td  style="text-align:left">03</td></tr><tr><td>MORIANO-ALENDEZ-JOSE</td><td >VI</td><td>[08-10]</td>
+						        <td>P</td><td></td>
+						        <td>MOD-112</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>52</td>
+			    <td>FP174AFL</td>
+			    <td>SEMINARIO DE INVESTIGACION FILOSOFICA II</td><td></td>
+			    <td>04</td>
+			    <td>OEES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FP172</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">10</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>SANCHEZ-FLORES-FABIO ANSELMO</td><td >MA</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>MOD-112</td><td  style="text-align:left">02</td></tr><tr><td>SANCHEZ-FLORES-FABIO ANSELMO</td><td >MI</td><td>[11-12]</td>
+						        <td>T</td><td></td>
+						        <td>MOD-112</td><td  style="text-align:left">01</td></tr><tr><td>SANCHEZ-FLORES-FABIO ANSELMO</td><td >VI</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>MOD-112</td><td  style="text-align:left">02</td></tr></table>

@@ -1,0 +1,2122 @@
+
+
+<div style="text-align:center;color:#990000; font-size:16px;font-weight:bold">
+				CATALOGO SEMESTRE:2023-1<br/></div>
+				<div style="text-align:center;color:#990000; font-size:14px;font-weight:bold;text-decoration:underline"><br/>DETALLE DE ASIGNATURAS</div><table id="hor-minimalist-b" width="85%" >
+					<thead>
+						<tr>
+							<td >Nro</td><td>CURSO</td><td colspan="2">NOMBRE DE CURSO</td>
+							<td>CR</td><td>CAT</td><td>REQUISITO</td>
+							<td>N° SEM</td>
+							<td>OBS</td>
+							<td>CURRICULA</td>
+						</tr>
+					</thead><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>1</td>
+			    <td>MC763AMC</td>
+			    <td>CALCULO POR ELEMENTOS FINITOS</td><td></td>
+			    <td>03</td>
+			    <td>EEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold"></td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ABARCA-MORA-DANIEL</td><td>MA</td><td>[17-19]</td>
+						     <td>T</td><td></td>
+						     <td>MC-307</td><td  style="text-align:left">02</td></tr><tr><td>ABARCA-MORA-DANIEL</td><td >JU</td><td>[17-19]</td>
+						        <td>P</td><td></td>
+						        <td>MC-307</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>2</td>
+			    <td>MC761AMC</td>
+			    <td>DINAMICA DE MAQUINAS</td><td></td>
+			    <td>03</td>
+			    <td>EEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC737 y MC739</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">0</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>LOZANO-PÉREZ-ABRAHAN</td><td >LU</td><td>[19-21]</td>
+						        <td>T</td><td></td>
+						        <td>MC-307</td><td  style="text-align:left">02</td></tr><tr><td>LOZANO-PÉREZ-ABRAHAN</td><td >MI</td><td>[19-21]</td>
+						        <td>P</td><td></td>
+						        <td>MC-307</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>3</td>
+			    <td>MC771AMC</td>
+			    <td>PLANTAS DE GENERACION TERMICA E HIDRAULICA</td><td></td>
+			    <td>03</td>
+			    <td>EEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC734</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">0</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>SAMANIEGO-PEREZ-JOSE CARLOS</td><td >LU</td><td>[15-17]</td>
+						        <td>T</td><td></td>
+						        <td>MC-307</td><td  style="text-align:left">02</td></tr><tr><td>SAMANIEGO-PEREZ-JOSE CARLOS</td><td >MI</td><td>[15-17]</td>
+						        <td>P</td><td></td>
+						        <td>MC-307</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>4</td>
+			    <td>MC771BMC</td>
+			    <td>PLANTAS DE GENERACION TERMICA E HIDRAULICA</td><td></td>
+			    <td>03</td>
+			    <td>EEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC734</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">0</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ATAYUPANQUI-HUAMÁN-CELSO CECILIO</td><td >LU</td><td>[15-17]</td>
+						        <td>T</td><td></td>
+						        <td>MC-301</td><td  style="text-align:left">02</td></tr><tr><td>ATAYUPANQUI-HUAMÁN-CELSO CECILIO</td><td >MI</td><td>[15-17]</td>
+						        <td>P</td><td></td>
+						        <td>MC-301</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>5</td>
+			    <td>MC783AMC</td>
+			    <td>SISTEMAS OLEOHIDRAULICOS Y NEUMATICOS</td><td></td>
+			    <td>03</td>
+			    <td>EEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC720 y MC733</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">0</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>TRIVEÑO-RAMOS-PAOLA LY</td><td >LU</td><td>[17-19]</td>
+						        <td>T</td><td></td>
+						        <td>MC-307</td><td  style="text-align:left">02</td></tr><tr><td>TRIVEÑO-RAMOS-PAOLA LY</td><td >MI</td><td>[17-19]</td>
+						        <td>P</td><td></td>
+						        <td>MC-307</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>6</td>
+			    <td>MC783BMC</td>
+			    <td>SISTEMAS OLEOHIDRAULICOS Y NEUMATICOS</td><td></td>
+			    <td>03</td>
+			    <td>EEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC720 y MC733</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">0</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>SAMANIEGO-PEREZ-JOSE CARLOS</td><td >LU</td><td>[17-19]</td>
+						        <td>T</td><td></td>
+						        <td>MC-301</td><td  style="text-align:left">02</td></tr><tr><td>SAMANIEGO-PEREZ-JOSE CARLOS</td><td >MI</td><td>[17-19]</td>
+						        <td>P</td><td></td>
+						        <td>MC-301</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>7</td>
+			    <td>MC782AMC</td>
+			    <td>TRATAMIENTOS TERMICOS</td><td></td>
+			    <td>03</td>
+			    <td>EEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC746</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">0</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>FERNÁNDEZ BACA-PÉREZ-MARCOS</td><td >MA</td><td>[15-17]</td>
+						        <td>T</td><td></td>
+						        <td>MC-307</td><td  style="text-align:left">02</td></tr><tr><td>FERNÁNDEZ BACA-PÉREZ-MARCOS</td><td >JU</td><td>[15-17]</td>
+						        <td>P</td><td></td>
+						        <td>MC-307</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>8</td>
+			    <td>MC782BMC</td>
+			    <td>TRATAMIENTOS TERMICOS</td><td></td>
+			    <td>03</td>
+			    <td>EEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC746</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">0</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ATAYUPANQUI-HUAMÁN-CELSO CECILIO</td><td >MA</td><td>[15-17]</td>
+						        <td>T</td><td></td>
+						        <td>MC-306</td><td  style="text-align:left">02</td></tr><tr><td>ATAYUPANQUI-HUAMÁN-CELSO CECILIO</td><td >JU</td><td>[15-17]</td>
+						        <td>P</td><td></td>
+						        <td>MC-306</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>9</td>
+			    <td>DE901AMC</td>
+			    <td>CONSTITUCION POLITICA Y DERECHOS HUMANOS</td><td></td>
+			    <td>03</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">1</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>HINOJOSA-FERNANDEZ-LUIS FERNANDO</td><td >LU</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>MC-114</td><td  style="text-align:left">02</td></tr><tr><td>HINOJOSA-FERNANDEZ-LUIS FERNANDO</td><td >MI</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>MC-114</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>10</td>
+			    <td>ED901AMC</td>
+			    <td>ESTRATEGIAS DE APRENDIZAJE AUTONOMO</td><td></td>
+			    <td>04</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">1</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MANYA-CHECORI-ROBERT MARTIN</td><td >MA</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>MC-114</td><td  style="text-align:left">02</td></tr><tr><td>MANYA-CHECORI-ROBERT MARTIN</td><td >JU</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>MC-114</td><td  style="text-align:left">02</td></tr><tr><td>MANYA-CHECORI-ROBERT MARTIN</td><td >VI</td><td>[12-13]</td>
+						        <td>T</td><td></td>
+						        <td>MC-114</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>11</td>
+			    <td>FP901AMC</td>
+			    <td>FILOSOFIA Y ETICA</td><td></td>
+			    <td>03</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">1</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>RIVERA-VARGAS-ANNY YUDITH</td><td >LU</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>MC-114</td><td  style="text-align:left">02</td></tr><tr><td>RIVERA-VARGAS-ANNY YUDITH</td><td >MI</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>MC-114</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>12</td>
+			    <td>ME901AMC</td>
+			    <td>MATEMATICA I</td><td></td>
+			    <td>04</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">1</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>HOLGUIN-SEGOVIA-DONATO</td><td >MA</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>MC-114</td><td  style="text-align:left">02</td></tr><tr><td>HOLGUIN-SEGOVIA-DONATO</td><td >JU</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>MC-114</td><td  style="text-align:left">02</td></tr><tr><td>HOLGUIN-SEGOVIA-DONATO</td><td >VI</td><td>[10-11]</td>
+						        <td>T</td><td></td>
+						        <td>MC-114</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>13</td>
+			    <td>LC901AMC</td>
+			    <td>REDACCION DE TEXTOS</td><td></td>
+			    <td>04</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">1</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>VELASCO-PALACIOS-MARIA DOLORES</td><td >MA</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>MC-114</td><td  style="text-align:left">02</td></tr><tr><td>VELASCO-PALACIOS-MARIA DOLORES</td><td >JU</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>MC-114</td><td  style="text-align:left">02</td></tr><tr><td>VELASCO-PALACIOS-MARIA DOLORES</td><td >VI</td><td>[08-09]</td>
+						        <td>T</td><td></td>
+						        <td>MC-114</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>14</td>
+			    <td>AS901AMC</td>
+			    <td>SOCIEDAD Y CULTURA</td><td></td>
+			    <td>03</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">1</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>TITO-PACHECO-ROCIO</td><td >LU</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>MC-114</td><td  style="text-align:left">02</td></tr><tr><td>TITO-PACHECO-ROCIO</td><td >MI</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>MC-114</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>15</td>
+			    <td>ME903AMC</td>
+			    <td>CÁLCULO I</td><td></td>
+			    <td>04</td>
+			    <td>EGT</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">ME901</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>RUMAJA-ALVITEZ-ALEJANDRO</td><td >MA</td><td>[16-18]</td>
+						        <td>T</td><td></td>
+						        <td>MC-114</td><td  style="text-align:left">02</td></tr><tr><td>RUMAJA-ALVITEZ-ALEJANDRO</td><td >JU</td><td>[16-18]</td>
+						        <td>P</td><td></td>
+						        <td>MC-114</td><td  style="text-align:left">02</td></tr><tr><td>RUMAJA-ALVITEZ-ALEJANDRO</td><td >VI</td><td>[17-18]</td>
+						        <td>T</td><td></td>
+						        <td>MC-114</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>16</td>
+			    <td>FI902AMC</td>
+			    <td>FÍSICA I</td><td></td>
+			    <td>04</td>
+			    <td>EGT</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">15 Creds.</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>GONZALEZ-GONZALEZ-YURI ANTONIO</td><td >MA</td><td>[14-16]</td>
+						        <td>T</td><td></td>
+						        <td>MC-114</td><td  style="text-align:left">02</td></tr><tr><td>GONZALEZ-GONZALEZ-YURI ANTONIO</td><td >JU</td><td>[14-16]</td>
+						        <td>P</td><td></td>
+						        <td>MC-114</td><td  style="text-align:left">02</td></tr><tr><td>GONZALEZ-GONZALEZ-YURI ANTONIO</td><td >VI</td><td>[15-16]</td>
+						        <td>T</td><td></td>
+						        <td>MC-114</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>17</td>
+			    <td>AR702AMC</td>
+			    <td>GEOMETRÍA DESCRIPTIVA</td><td></td>
+			    <td>04</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">15 Creds.</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MUJICA-ESPINOZA-CATHERINE</td><td >LU</td><td>[18-20]</td>
+						        <td>T</td><td></td>
+						        <td>MAQUI-1</td><td  style="text-align:left">02</td></tr><tr><td>MUJICA-ESPINOZA-CATHERINE</td><td >MI</td><td>[18-20]</td>
+						        <td>P</td><td></td>
+						        <td>MAQUI-1</td><td  style="text-align:left">02</td></tr><tr><td>MUJICA-ESPINOZA-CATHERINE</td><td >VI</td><td>[18-19]</td>
+						        <td>T</td><td></td>
+						        <td>MAQUI-1</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>18</td>
+			    <td>FP902AMC</td>
+			    <td>LIDERAZGO Y HABILIDADES SOCIALES</td><td></td>
+			    <td>03</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">15 Creds.</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CONTRERAS-ESQUIVEL-VERONICA</td><td >LU</td><td>[16-18]</td>
+						        <td>T</td><td></td>
+						        <td>MC-114</td><td  style="text-align:left">02</td></tr><tr><td>CONTRERAS-ESQUIVEL-VERONICA</td><td >MI</td><td>[16-18]</td>
+						        <td>P</td><td></td>
+						        <td>MC-114</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>19</td>
+			    <td>ME701AMC</td>
+			    <td>MATEMÁTICA II</td><td></td>
+			    <td>04</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">ME901</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>VELASQUEZ-JARA-ADELMA</td><td >MA</td><td>[18-20]</td>
+						        <td>T</td><td></td>
+						        <td>MC-114</td><td  style="text-align:left">02</td></tr><tr><td>QUISPE-CJUIRO-GINA</td><td >JU</td><td>[18-20]</td>
+						        <td>P</td><td></td>
+						        <td>MC-114</td><td  style="text-align:left">02</td></tr><tr><td>VELASQUEZ-JARA-ADELMA</td><td >VI</td><td>[19-20]</td>
+						        <td>T</td><td></td>
+						        <td>MC-114</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>20</td>
+			    <td>IF902AMC</td>
+			    <td>TECNOLOGIAS DE LA INFORMACIÓN Y LA COMUNICACIÓN</td><td></td>
+			    <td>03</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">15 Creds.</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CHULLO-LLAVE-BORIS</td><td >LU</td><td>[14-16]</td>
+						        <td>T</td><td></td>
+						        <td>MC-114</td><td  style="text-align:left">02</td></tr><tr><td>LAVILLA-ALVAREZ-VANESA</td><td >MI</td><td>[14-16]</td>
+						        <td>L</td><td>B</td>
+						        <td>IN304</td><td  style="text-align:left">02</td></tr><tr><td>MONTOYA-CUBAS-CARLOS FERNANDO</td><td >MI</td><td>[14-16]</td>
+						        <td>L</td><td>A</td>
+						        <td>IN309</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>21</td>
+			    <td>MC709AMC</td>
+			    <td>ACTIVIDAD EXTRACURRICULAR</td><td></td>
+			    <td>01</td>
+			    <td>AEX</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">40 Creds.</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>TRIVEÑO-RAMOS-PAOLA LY</td><td >SA</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>MC-301</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>22</td>
+			    <td>ME703AMC</td>
+			    <td>ALGEBRA LINEAL</td><td></td>
+			    <td>03</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">ME903 y ME701</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>HUANCA-CHECCA-FERNANDO</td><td >LU</td><td>[13-15]</td>
+						        <td>T</td><td></td>
+						        <td>MC-304</td><td  style="text-align:left">02</td></tr><tr><td>HUANCA-CHECCA-FERNANDO</td><td >MI</td><td>[13-15]</td>
+						        <td>P</td><td></td>
+						        <td>MC-304</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>23</td>
+			    <td>ME704AMC</td>
+			    <td>CALCULO II</td><td></td>
+			    <td>04</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">ME903</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>QUISPE-PHOCCO-CAMILO</td><td >LU</td><td>[15-17]</td>
+						        <td>T</td><td></td>
+						        <td>MC-304</td><td  style="text-align:left">02</td></tr><tr><td>QUISPE-PHOCCO-CAMILO</td><td >MI</td><td>[15-17]</td>
+						        <td>P</td><td></td>
+						        <td>MC-304</td><td  style="text-align:left">02</td></tr><tr><td>QUISPE-PHOCCO-CAMILO</td><td >VI</td><td>[16-17]</td>
+						        <td>T</td><td></td>
+						        <td>MC-304</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>24</td>
+			    <td>MC706AMC</td>
+			    <td>DIBUJO TECNICO</td><td></td>
+			    <td>03</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">AR702</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>TAMAYO-ARAOZ-EVELYN GARLETH</td><td >VI</td><td>[08-10]</td>
+						        <td>T</td><td></td>
+						        <td>MAQUI-2</td><td  style="text-align:left">02</td></tr><tr><td>TAMAYO-ARAOZ-EVELYN GARLETH</td><td >VI</td><td>[10-13]</td>
+						        <td>P</td><td></td>
+						        <td>MAQUI-2</td><td  style="text-align:left">03</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>25</td>
+			    <td>MC706BMC</td>
+			    <td>DIBUJO TECNICO</td><td></td>
+			    <td>03</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">AR702</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>LOZANO-PÉREZ-ABRAHAN</td><td >LU</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>MAQUI-2</td><td  style="text-align:left">02</td></tr><tr><td>LOZANO-PÉREZ-ABRAHAN</td><td >LU</td><td>[09-12]</td>
+						        <td>P</td><td></td>
+						        <td>MAQUI-2</td><td  style="text-align:left">03</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>26</td>
+			    <td>MC708AMC</td>
+			    <td>ESTATICA</td><td></td>
+			    <td>04</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FI902 y ME903</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>QUISPE-DOMINGUEZ-ROGER</td><td >MA</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>MC-301</td><td  style="text-align:left">02</td></tr><tr><td>QUISPE-DOMINGUEZ-ROGER</td><td >JU</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>MC-301</td><td  style="text-align:left">02</td></tr><tr><td>QUISPE-DOMINGUEZ-ROGER</td><td >VI</td><td>[07-08]</td>
+						        <td>T</td><td></td>
+						        <td>MC-301</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>27</td>
+			    <td>FI705AMC</td>
+			    <td>FISICA II</td><td></td>
+			    <td>04</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FI902</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>AYMA-GIRALDO-VICTOR</td><td >LU</td><td>[17-19]</td>
+						        <td>T</td><td></td>
+						        <td>MC-304</td><td  style="text-align:left">02</td></tr><tr><td>AYMA-GIRALDO-VICTOR</td><td >MI</td><td>[17-19]</td>
+						        <td>P</td><td></td>
+						        <td>MC-304</td><td  style="text-align:left">02</td></tr><tr><td>AYMA-GIRALDO-VICTOR</td><td >VI</td><td>[17-18]</td>
+						        <td>T</td><td></td>
+						        <td>MC-304</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>28</td>
+			    <td>QU707AMC</td>
+			    <td>QUIMICA GENERAL</td><td></td>
+			    <td>03</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">40 Creds.</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ESPINOZA-SANTOYO-JESUS CARLOS</td><td >MA</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>MC-304</td><td  style="text-align:left">02</td></tr><tr><td>ESPINOZA-SANTOYO-JESUS CARLOS</td><td >JU</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>MC-304</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>29</td>
+			    <td>ME711AMC</td>
+			    <td>CÁLCULO III</td><td></td>
+			    <td>04</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">ME704</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">4</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>VERA-MALDONADO-LEOPOLDO</td><td >MA</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>MC-304</td><td  style="text-align:left">02</td></tr><tr><td>VERA-MALDONADO-LEOPOLDO</td><td >JU</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>MC-304</td><td  style="text-align:left">02</td></tr><tr><td>VERA-MALDONADO-LEOPOLDO</td><td >VI</td><td>[08-09]</td>
+						        <td>T</td><td></td>
+						        <td>MC-304</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>30</td>
+			    <td>MC713AMC</td>
+			    <td>DINÁMICA</td><td></td>
+			    <td>04</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC708</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">4</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MAMANI-CASTILLO-ROOSBEL DENNIS</td><td >LU</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>MC-304</td><td  style="text-align:left">02</td></tr><tr><td>MAMANI-CASTILLO-ROOSBEL DENNIS</td><td >MI</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>MC-304</td><td  style="text-align:left">02</td></tr><tr><td>MAMANI-CASTILLO-ROOSBEL DENNIS</td><td >VI</td><td>[07-08]</td>
+						        <td>T</td><td></td>
+						        <td>MC-304</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>31</td>
+			    <td>MC713BMC</td>
+			    <td>DINÁMICA</td><td></td>
+			    <td>04</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC708</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">4</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>QUISPE-DOMINGUEZ-ROGER</td><td >LU</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>MC-306</td><td  style="text-align:left">02</td></tr><tr><td>QUISPE-DOMINGUEZ-ROGER</td><td >MI</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>MC-306</td><td  style="text-align:left">02</td></tr><tr><td>QUISPE-DOMINGUEZ-ROGER</td><td >VI</td><td>[08-09]</td>
+						        <td>T</td><td></td>
+						        <td>MC-301</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>32</td>
+			    <td>ME710AMC</td>
+			    <td>ESTADISTICA Y PROBABILIDADES</td><td></td>
+			    <td>03</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">ME704</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">4</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>TINTAYA-QUISPE-MAGALY</td><td >MA</td><td>[13-15]</td>
+						        <td>T</td><td></td>
+						        <td>MC-304</td><td  style="text-align:left">02</td></tr><tr><td>TINTAYA-QUISPE-MAGALY</td><td >JU</td><td>[13-15]</td>
+						        <td>P</td><td></td>
+						        <td>MC-304</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>33</td>
+			    <td>FI712AMC</td>
+			    <td>FÍSICA III</td><td></td>
+			    <td>03</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FI705</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">4</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CCARITA-CCARITA-FELIX</td><td >MA</td><td>[15-17]</td>
+						        <td>T</td><td></td>
+						        <td>MC-304</td><td  style="text-align:left">02</td></tr><tr><td>CCARITA-CCARITA-FELIX</td><td >JU</td><td>[15-17]</td>
+						        <td>P</td><td></td>
+						        <td>MC-304</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>34</td>
+			    <td>MC714AMC</td>
+			    <td>MECÁNICA DE FLUIDOS I</td><td></td>
+			    <td>04</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC708 y FI705</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">4</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="5">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>AUCCACUSI-MONTEJO-DANY FRANCO</td><td >LU</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>MC-301</td><td  style="text-align:left">02</td></tr><tr><td>AUCCACUSI-MONTEJO-DANY FRANCO</td><td >MI</td><td>[09-10]</td>
+						        <td>T</td><td></td>
+						        <td>MC-301</td><td  style="text-align:left">01</td></tr><tr><td>AUCCACUSI-MONTEJO-DANY FRANCO</td><td >MI</td><td>[10-11]</td>
+						        <td>P</td><td></td>
+						        <td>MC-301</td><td  style="text-align:left">01</td></tr><tr><td>AUCCACUSI-MONTEJO-DANY FRANCO</td><td >VI</td><td>[09-10]</td>
+						        <td>P</td><td></td>
+						        <td>MC-301</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>35</td>
+			    <td>MC715AMC</td>
+			    <td>TERMODINÁMICA I</td><td></td>
+			    <td>04</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FI705 y QU707</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">4</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>RUEDA-PUELLES-PERCY MIGUEL</td><td >LU</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>MC-301</td><td  style="text-align:left">02</td></tr><tr><td>RUEDA-PUELLES-PERCY MIGUEL</td><td >MI</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>MC-301</td><td  style="text-align:left">02</td></tr><tr><td>RUEDA-PUELLES-PERCY MIGUEL</td><td >VI</td><td>[10-11]</td>
+						        <td>T</td><td></td>
+						        <td>MC-301</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>36</td>
+			    <td>MC718AMC</td>
+			    <td>DIBUJO MECANICO I</td><td></td>
+			    <td>03</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC706</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>TAMAYO-ARAOZ-EVELYN GARLETH</td><td >MI</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>MAQUI-2</td><td  style="text-align:left">02</td></tr><tr><td>TAMAYO-ARAOZ-EVELYN GARLETH</td><td >MI</td><td>[11-14]</td>
+						        <td>P</td><td></td>
+						        <td>MAQUI-2</td><td  style="text-align:left">03</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>37</td>
+			    <td>MC718BMC</td>
+			    <td>DIBUJO MECANICO I</td><td></td>
+			    <td>03</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC706</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CHULLO-LLAVE-NEPTALI</td><td >SA</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>MAQUI-2</td><td  style="text-align:left">02</td></tr><tr><td>CHULLO-LLAVE-NEPTALI</td><td >SA</td><td>[09-12]</td>
+						        <td>P</td><td></td>
+						        <td>MAQUI-2</td><td  style="text-align:left">03</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>38</td>
+			    <td>ME716AMC</td>
+			    <td>ECUACIONES DIFERENCIALES</td><td></td>
+			    <td>03</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">ME711 y ME703</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CHAPARRO-LAZO-FELIPE</td><td >LU</td><td>[19-21]</td>
+						        <td>T</td><td></td>
+						        <td>MC-304</td><td  style="text-align:left">02</td></tr><tr><td>CHAPARRO-LAZO-FELIPE</td><td >MI</td><td>[19-21]</td>
+						        <td>P</td><td></td>
+						        <td>MC-304</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>39</td>
+			    <td>IE717AMC</td>
+			    <td>ELECTROTECNIA</td><td></td>
+			    <td>03</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FI712</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>RIOS-TORBISCO-ALFREDO</td><td >MA</td><td>[19-21]</td>
+						        <td>T</td><td></td>
+						        <td>MC-304</td><td  style="text-align:left">02</td></tr><tr><td>RIOS-TORBISCO-ALFREDO</td><td >JU</td><td>[19-21]</td>
+						        <td>P</td><td></td>
+						        <td>MC-304</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>40</td>
+			    <td>MC719AMC</td>
+			    <td>ELEMENTOS DE MAQUINAS</td><td></td>
+			    <td>03</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC713</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>FERNÁNDEZ BACA-PÉREZ-MARCOS</td><td >MA</td><td>[17-19]</td>
+						        <td>T</td><td></td>
+						        <td>MC-304</td><td  style="text-align:left">02</td></tr><tr><td>FERNÁNDEZ BACA-PÉREZ-MARCOS</td><td >JU</td><td>[17-19]</td>
+						        <td>P</td><td></td>
+						        <td>MC-304</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>41</td>
+			    <td>MC722AMC</td>
+			    <td>INGENIERIA DE MATERIALES I</td><td></td>
+			    <td>03</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">QU707 y ME710</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ROSADO-PACHECO-RENE H.</td><td >MA</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>MC-306</td><td  style="text-align:left">02</td></tr><tr><td>ROSADO-PACHECO-RENE H.</td><td >JU</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>MC-306</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>42</td>
+			    <td>MC723AMC</td>
+			    <td>LABORATORIO DE INGENIERIA DE MATERIALES I</td><td></td>
+			    <td>01</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">QU707 y ME710</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ROSADO-PACHECO-RENE H.</td><td >VI</td><td>[09-11]</td>
+						        <td>L</td><td></td>
+						        <td>MC-304</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>43</td>
+			    <td>MC720AMC</td>
+			    <td>MECANICA DE FLUIDOS II</td><td></td>
+			    <td>03</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC714</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>HOLGUINO-BORDA-ALEX GUIDO</td><td >LU</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>MC-301</td><td  style="text-align:left">02</td></tr><tr><td>HOLGUINO-BORDA-ALEX GUIDO</td><td >MI</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>MC-301</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>44</td>
+			    <td>MC721AMC</td>
+			    <td>TERMODINAMICA II</td><td></td>
+			    <td>03</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC715</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>RUEDA-PUELLES-PERCY MIGUEL</td><td >MA</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>MC-301</td><td  style="text-align:left">02</td></tr><tr><td>RUEDA-PUELLES-PERCY MIGUEL</td><td >JU</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>MC-301</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>45</td>
+			    <td>MC726AMC</td>
+			    <td>ANÁLISIS NUMÉRICO EN INGENIERÍA</td><td></td>
+			    <td>03</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">ME716</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>LOZANO-PÉREZ-ABRAHAN</td><td >LU</td><td>[12-14]</td>
+						        <td>T</td><td></td>
+						        <td>MAQUI-1</td><td  style="text-align:left">02</td></tr><tr><td>LOZANO-PÉREZ-ABRAHAN</td><td >MI</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>MC-304</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>46</td>
+			    <td>MC727AMC</td>
+			    <td>DIBUJO MECÁNICO II</td><td></td>
+			    <td>03</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC718</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>LOZANO-PÉREZ-ABRAHAN</td><td >JU</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>MAQUI-2</td><td  style="text-align:left">02</td></tr><tr><td>LOZANO-PÉREZ-ABRAHAN</td><td >JU</td><td>[11-14]</td>
+						        <td>P</td><td></td>
+						        <td>MAQUI-2</td><td  style="text-align:left">03</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>47</td>
+			    <td>MC727BMC</td>
+			    <td>DIBUJO MECÁNICO II</td><td></td>
+			    <td>03</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC718</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>AUCCACUSI-MONTEJO-DANY FRANCO</td><td >MA</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>MAQUI-2</td><td  style="text-align:left">02</td></tr><tr><td>AUCCACUSI-MONTEJO-DANY FRANCO</td><td >MA</td><td>[11-14]</td>
+						        <td>P</td><td></td>
+						        <td>MAQUI-2</td><td  style="text-align:left">03</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>48</td>
+			    <td>EL725AMC</td>
+			    <td>ELECTRÓNICA</td><td></td>
+			    <td>03</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IE717</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CHILLITUPA-CARRASCO-MIGUEL ANGEL</td><td >LU</td><td>[17-19]</td>
+						        <td>T</td><td></td>
+						        <td>MC-306</td><td  style="text-align:left">02</td></tr><tr><td>CHILLITUPA-CARRASCO-MIGUEL ANGEL</td><td >MI</td><td>[17-19]</td>
+						        <td>P</td><td></td>
+						        <td>MC-306</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>49</td>
+			    <td>MC728AMC</td>
+			    <td>INGENIERÍA DE MATERIALES II</td><td></td>
+			    <td>03</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC722 y MC723</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>QUISPE-DOMINGUEZ-ROGER</td><td >LU</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>MC-304</td><td  style="text-align:left">02</td></tr><tr><td>QUISPE-DOMINGUEZ-ROGER</td><td >MI</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>MC-304</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>50</td>
+			    <td>MC729AMC</td>
+			    <td>LABORATORIO DE INGENIERÍA DE MATERIALES II</td><td></td>
+			    <td>01</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC722 y MC723</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>QUISPE-DOMINGUEZ-ROGER</td><td >VI</td><td>[11-13]</td>
+						        <td>L</td><td></td>
+						        <td>MC-304</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>51</td>
+			    <td>MC732AMC</td>
+			    <td>LABORATORIO DE MECÁNICA DE FLUIDOS</td><td></td>
+			    <td>01</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC720</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>FERNÁNDEZ BACA-PÉREZ-MARCOS</td><td >MI</td><td>[07-09]</td>
+						        <td>L</td><td></td>
+						        <td>MC-104</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>52</td>
+			    <td>MC731AMC</td>
+			    <td>LABORATORIO DE RESISTENCIA DE MATERIALES I</td><td></td>
+			    <td>01</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC719 y MC722</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CHULLO-LLAVE-NEPTALI</td><td >VI</td><td>[13-15]</td>
+						        <td>L</td><td></td>
+						        <td>MC-304</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>53</td>
+			    <td>IE724AMC</td>
+			    <td>MÁQUINAS ELÉCTRICAS</td><td></td>
+			    <td>03</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IE717</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>LIMA-MEDINA-GIOVANNI</td><td >LU</td><td>[15-17]</td>
+						        <td>T</td><td></td>
+						        <td>MC-306</td><td  style="text-align:left">02</td></tr><tr><td>LIMA-MEDINA-GIOVANNI</td><td >MI</td><td>[15-17]</td>
+						        <td>P</td><td></td>
+						        <td>MC-306</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>54</td>
+			    <td>MC730AMC</td>
+			    <td>RESISTENCIA DE MATERIALES I</td><td></td>
+			    <td>04</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC719 y MC722</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MAMANI-CASTILLO-ROOSBEL DENNIS</td><td >MA</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>MC-306</td><td  style="text-align:left">02</td></tr><tr><td>MAMANI-CASTILLO-ROOSBEL DENNIS</td><td >JU</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>MC-306</td><td  style="text-align:left">02</td></tr><tr><td>MAMANI-CASTILLO-ROOSBEL DENNIS</td><td >VI</td><td>[08-09]</td>
+						        <td>T</td><td></td>
+						        <td>MC-306</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>55</td>
+			    <td>MC733AMC</td>
+			    <td>INGENIERIA DE CONTROL</td><td></td>
+			    <td>03</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL725 y MC726</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>HOLGUINO-BORDA-ALEX GUIDO</td><td >MA</td><td>[13-15]</td>
+						        <td>T</td><td></td>
+						        <td>MC-306</td><td  style="text-align:left">02</td></tr><tr><td>HOLGUINO-BORDA-ALEX GUIDO</td><td >JU</td><td>[13-15]</td>
+						        <td>P</td><td></td>
+						        <td>MC-306</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>56</td>
+			    <td>MC740AMC</td>
+			    <td>LABORATORIO DE MAQUINAS HIDRAULICAS</td><td></td>
+			    <td>01</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC732</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CATACORA-ACEVEDO-EDGAR ALFREDO</td><td >JU</td><td>[07-09]</td>
+						        <td>L</td><td></td>
+						        <td>MC-104</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>57</td>
+			    <td>MC736AMC</td>
+			    <td>LABORATORIO DE PROCESOS DE MANUFACTURA I</td><td></td>
+			    <td>01</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC728 y MC729</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>SEQUEIROS-PEREZ-EFRAIN WALTER</td><td >SA</td><td>[07-09]</td>
+						        <td>L</td><td></td>
+						        <td>MAQUI-3</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>58</td>
+			    <td>MC738AMC</td>
+			    <td>LABORATORIO DE RESISTENCIA DE MATERIALES II</td><td></td>
+			    <td>01</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC730 y MC731</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CHULLO-LLAVE-NEPTALI</td><td >VI</td><td>[15-17]</td>
+						        <td>L</td><td></td>
+						        <td>MC-307</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>59</td>
+			    <td>MC739AMC</td>
+			    <td>MECANISMOS</td><td></td>
+			    <td>04</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC719 y MC726</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MACEDO-SILVA-ARTURO</td><td >MA</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>MC-307</td><td  style="text-align:left">02</td></tr><tr><td>MACEDO-SILVA-ARTURO</td><td >JU</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>MC-307</td><td  style="text-align:left">02</td></tr><tr><td>MACEDO-SILVA-ARTURO</td><td >VI</td><td>[12-13]</td>
+						        <td>T</td><td></td>
+						        <td>MC-307</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>60</td>
+			    <td>MC735AMC</td>
+			    <td>PROCESOS DE MANUFACTURA I</td><td></td>
+			    <td>04</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC728 y MC727</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>SEQUEIROS-PEREZ-EFRAIN WALTER</td><td >LU</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>MAQUI-1</td><td  style="text-align:left">02</td></tr><tr><td>SEQUEIROS-PEREZ-EFRAIN WALTER</td><td >MI</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>MAQUI-1</td><td  style="text-align:left">02</td></tr><tr><td>SEQUEIROS-PEREZ-EFRAIN WALTER</td><td >VI</td><td>[08-09]</td>
+						        <td>T</td><td></td>
+						        <td>MAQUI-1</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>61</td>
+			    <td>MC737AMC</td>
+			    <td>RESISTENCIA DE MATERIALES II</td><td></td>
+			    <td>04</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC730 y MC731</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>BERRIOS-BARCENA-DAVID REYNALDO</td><td >LU</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>MC-307</td><td  style="text-align:left">02</td></tr><tr><td>BERRIOS-BARCENA-DAVID REYNALDO</td><td >MI</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>MC-307</td><td  style="text-align:left">02</td></tr><tr><td>BERRIOS-BARCENA-DAVID REYNALDO</td><td >VI</td><td>[11-12]</td>
+						        <td>T</td><td></td>
+						        <td>MC-307</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>62</td>
+			    <td>MC734AMC</td>
+			    <td>TURBOMAQUINAS I</td><td></td>
+			    <td>04</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC720 y MC732</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CATACORA-ACEVEDO-EDGAR ALFREDO</td><td >LU</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>MC-307</td><td  style="text-align:left">02</td></tr><tr><td>CATACORA-ACEVEDO-EDGAR ALFREDO</td><td >MI</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>MC-307</td><td  style="text-align:left">02</td></tr><tr><td>CATACORA-ACEVEDO-EDGAR ALFREDO</td><td >VI</td><td>[10-11]</td>
+						        <td>T</td><td></td>
+						        <td>MC-307</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>63</td>
+			    <td>MC743AMC</td>
+			    <td>ANÁLISIS ECONÓMICO EN INGENIERÍA MECÁNICA</td><td></td>
+			    <td>02</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC735</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CARDENAS-SANTANDER-LUIS FREDDY</td><td >JU</td><td>[13-15]</td>
+						        <td>T</td><td></td>
+						        <td>MC-203</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>64</td>
+			    <td>MC748AMC</td>
+			    <td>CÁLCULO DE ELEMENTOS DE MÁQUINAS I</td><td></td>
+			    <td>04</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC739 y MC737</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CASTRO-IRRARAZABAL-MARIO</td><td >MA</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>MC-307</td><td  style="text-align:left">02</td></tr><tr><td>CASTRO-IRRARAZABAL-MARIO</td><td >JU</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>MC-307</td><td  style="text-align:left">02</td></tr><tr><td>CASTRO-IRRARAZABAL-MARIO</td><td >VI</td><td>[09-10]</td>
+						        <td>P</td><td></td>
+						        <td>MC-307</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>65</td>
+			    <td>MC748BMC</td>
+			    <td>CÁLCULO DE ELEMENTOS DE MÁQUINAS I</td><td></td>
+			    <td>04</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC739 y MC737</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ATAYUPANQUI-HUAMÁN-CELSO CECILIO</td><td >MA</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>MAQUI-1</td><td  style="text-align:left">02</td></tr><tr><td>ATAYUPANQUI-HUAMÁN-CELSO CECILIO</td><td >JU</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>MAQUI-1</td><td  style="text-align:left">02</td></tr><tr><td>ATAYUPANQUI-HUAMÁN-CELSO CECILIO</td><td >VI</td><td>[09-10]</td>
+						        <td>P</td><td></td>
+						        <td>MAQUI-1</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>66</td>
+			    <td>MC745AMC</td>
+			    <td>INGENIERÍA DE MANTENIMIENTO I</td><td></td>
+			    <td>03</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC739 y MC733</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ROSADO-PACHECO-RENE H.</td><td >LU</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>MC-306</td><td  style="text-align:left">02</td></tr><tr><td>ROSADO-PACHECO-RENE H.</td><td >MI</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>MC-306</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>67</td>
+			    <td>MC749AMC</td>
+			    <td>LABORATORIO DE MÁQUINAS TÉRMICAS</td><td></td>
+			    <td>01</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC740</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>RUEDA-PUELLES-PERCY MIGUEL</td><td >MA</td><td>[11-13]</td>
+						        <td>L</td><td></td>
+						        <td>MC-102</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>68</td>
+			    <td>MC747AMC</td>
+			    <td>LABORATORIO DE PROCESOS DE MANUFACTURA II</td><td></td>
+			    <td>01</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC735 y MC736</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>FERNÁNDEZ BACA-PÉREZ-MARCOS</td><td >SA</td><td>[13-15]</td>
+						        <td>L</td><td></td>
+						        <td>MAQUI-3</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>69</td>
+			    <td>MC747BMC</td>
+			    <td>LABORATORIO DE PROCESOS DE MANUFACTURA II</td><td></td>
+			    <td>01</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC735 y MC736</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ATAYUPANQUI-HUAMÁN-CELSO CECILIO</td><td >SA</td><td>[15-17]</td>
+						        <td>L</td><td></td>
+						        <td>MAQUI-3</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>70</td>
+			    <td>MC746AMC</td>
+			    <td>PROCESOS DE MANUFACTURA II</td><td></td>
+			    <td>03</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC735 y MC736</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>SEQUEIROS-PEREZ-EFRAIN WALTER</td><td >LU</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>MAQUI-1</td><td  style="text-align:left">02</td></tr><tr><td>SEQUEIROS-PEREZ-EFRAIN WALTER</td><td >MI</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>MAQUI-1</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>71</td>
+			    <td>MC741AMC</td>
+			    <td>TESIS I</td><td></td>
+			    <td>01</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">150 Creds.</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ABARCA-MORA-DANIEL</td><td >VI</td><td>[17-19]</td>
+						        <td>T</td><td></td>
+						        <td>MC-307</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>72</td>
+			    <td>MC742AMC</td>
+			    <td>TRANSFERENCIA DE CALOR Y MASA</td><td></td>
+			    <td>04</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC721 y MC732</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>TRIVEÑO-RAMOS-PAOLA LY</td><td >MA</td><td>[15-17]</td>
+						        <td>T</td><td></td>
+						        <td>MC-301</td><td  style="text-align:left">02</td></tr><tr><td>TRIVEÑO-RAMOS-PAOLA LY</td><td >JU</td><td>[15-17]</td>
+						        <td>T</td><td></td>
+						        <td>MC-301</td><td  style="text-align:left">02</td></tr><tr><td>TRIVEÑO-RAMOS-PAOLA LY</td><td >VI</td><td>[15-16]</td>
+						        <td>P</td><td></td>
+						        <td>MC-301</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>73</td>
+			    <td>MC744AMC</td>
+			    <td>TURBOMÁQUINAS II</td><td></td>
+			    <td>03</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC734 y MC740</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>GUZMAN-ALARCON-KARLOS GORKI</td><td >MA</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>MC-307</td><td  style="text-align:left">02</td></tr><tr><td>GUZMAN-ALARCON-KARLOS GORKI</td><td >JU</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>MC-307</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>74</td>
+			    <td>MC752AMC</td>
+			    <td>CALCULO DE ELEMENTOS DE MAQUINAS II</td><td></td>
+			    <td>04</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC748</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">9</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CASTRO-IRRARAZABAL-MARIO</td><td >LU</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>MC-307</td><td  style="text-align:left">02</td></tr><tr><td>CASTRO-IRRARAZABAL-MARIO</td><td >MI</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>MC-307</td><td  style="text-align:left">02</td></tr><tr><td>CASTRO-IRRARAZABAL-MARIO</td><td >VI</td><td>[08-09]</td>
+						        <td>T</td><td></td>
+						        <td>MC-307</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>75</td>
+			    <td>MC751AMC</td>
+			    <td>LABORATORIO DE MOTORES DE COMBUSTION INTERNA</td><td></td>
+			    <td>01</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC742 y MC749</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">9</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>SAMANIEGO-PEREZ-JOSE CARLOS</td><td >SA</td><td>[07-09]</td>
+						        <td>L</td><td></td>
+						        <td>MAQUI-4</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>76</td>
+			    <td>MC751BMC</td>
+			    <td>LABORATORIO DE MOTORES DE COMBUSTION INTERNA</td><td></td>
+			    <td>01</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC742 y MC749</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">9</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>NUÑEZ-EZEQUILLA-DANIEL</td><td >SA</td><td>[09-11]</td>
+						        <td>L</td><td></td>
+						        <td>MAQUI-4</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>77</td>
+			    <td>MC751CMC</td>
+			    <td>LABORATORIO DE MOTORES DE COMBUSTION INTERNA</td><td></td>
+			    <td>01</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC742 y MC749</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">9</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>NUÑEZ-EZEQUILLA-DANIEL</td><td >SA</td><td>[11-13]</td>
+						        <td>L</td><td></td>
+						        <td>MAQUI-4</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>78</td>
+			    <td>MC751DMC</td>
+			    <td>LABORATORIO DE MOTORES DE COMBUSTION INTERNA</td><td></td>
+			    <td>01</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC742 y MC749</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">9</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>NUÑEZ-EZEQUILLA-DANIEL</td><td >SA</td><td>[13-15]</td>
+						        <td>L</td><td></td>
+						        <td>MAQUI-4</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>79</td>
+			    <td>MC750AMC</td>
+			    <td>MOTORES DE COMBUSTION INTERNA</td><td></td>
+			    <td>04</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC742 y MC749</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">9</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MACEDO-SILVA-ARTURO</td><td >LU</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>MC-306</td><td  style="text-align:left">02</td></tr><tr><td>MACEDO-SILVA-ARTURO</td><td >MI</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>MC-306</td><td  style="text-align:left">02</td></tr><tr><td>MACEDO-SILVA-ARTURO</td><td >VI</td><td>[10-11]</td>
+						        <td>T</td><td></td>
+						        <td>MC-306</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>80</td>
+			    <td>MC753AMC</td>
+			    <td>TURBINAS DE GAS Y VAPOR</td><td></td>
+			    <td>03</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC744</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">9</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CATACORA-ACEVEDO-EDGAR ALFREDO</td><td >MA</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>MC-304</td><td  style="text-align:left">02</td></tr><tr><td>CATACORA-ACEVEDO-EDGAR ALFREDO</td><td >JU</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>MC-304</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>81</td>
+			    <td>MC754AMC</td>
+			    <td>VIBRACIONES MECANICAS</td><td></td>
+			    <td>04</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC738 y MC748</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">9</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>BERRIOS-BARCENA-DAVID REYNALDO</td><td >MA</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>MC-306</td><td  style="text-align:left">02</td></tr><tr><td>BERRIOS-BARCENA-DAVID REYNALDO</td><td >JU</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>MC-306</td><td  style="text-align:left">02</td></tr><tr><td>BERRIOS-BARCENA-DAVID REYNALDO</td><td >VI</td><td>[09-10]</td>
+						        <td>T</td><td></td>
+						        <td>MC-306</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>82</td>
+			    <td>MC212ZMC</td>
+			    <td>ANALISIS VIBRACIONAL</td><td></td>
+			    <td>03</td>
+			    <td>FTB</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC211</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">10</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2004</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td></td><td ></td><td>[00-00]</td>
+						        <td></td><td></td>
+						        <td></td><td  style="text-align:left">00</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>83</td>
+			    <td>MC758AMC</td>
+			    <td>DISEÑO DE MAQUINAS</td><td></td>
+			    <td>04</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC752 y MC754</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">10</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="5">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ABARCA-MORA-DANIEL</td><td >MA</td><td>[19-21]</td>
+						        <td>T</td><td></td>
+						        <td>MC-307</td><td  style="text-align:left">02</td></tr><tr><td>ABARCA-MORA-DANIEL</td><td >JU</td><td>[19-20]</td>
+						        <td>T</td><td></td>
+						        <td>MC-307</td><td  style="text-align:left">01</td></tr><tr><td>ABARCA-MORA-DANIEL</td><td >JU</td><td>[20-21]</td>
+						        <td>P</td><td></td>
+						        <td>MC-307</td><td  style="text-align:left">01</td></tr><tr><td>ABARCA-MORA-DANIEL</td><td >VI</td><td>[19-20]</td>
+						        <td>P</td><td></td>
+						        <td>MC-307</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>84</td>
+			    <td>MC756AMC</td>
+			    <td>GESTION EMPRESARIAL</td><td></td>
+			    <td>03</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC747 y MC743</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">10</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CARDENAS-SANTANDER-LUIS FREDDY</td><td >LU</td><td>[13-15]</td>
+						        <td>T</td><td></td>
+						        <td>MC-203</td><td  style="text-align:left">02</td></tr><tr><td>CARDENAS-SANTANDER-LUIS FREDDY</td><td >MI</td><td>[13-15]</td>
+						        <td>P</td><td></td>
+						        <td>MC-203</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>85</td>
+			    <td>MC405ZMC</td>
+			    <td>INSTALACIONES INDUSTRIALES</td><td></td>
+			    <td>03</td>
+			    <td>FPE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC108 y MC211</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">10</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2004</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td></td><td ></td><td>[00-00]</td>
+						        <td></td><td></td>
+						        <td></td><td  style="text-align:left">00</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>86</td>
+			    <td>MC757AMC</td>
+			    <td>PROYECTO DE INGENIERIA MECANICA</td><td></td>
+			    <td>04</td>
+			    <td>EES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC746 y MC744</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">10</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CARDENAS-SANTANDER-LUIS FREDDY</td><td >MA</td><td>[10-13]</td>
+						        <td>T</td><td></td>
+						        <td>MC-203</td><td  style="text-align:left">03</td></tr><tr><td>CARDENAS-SANTANDER-LUIS FREDDY</td><td >JU</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>MC-203</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>87</td>
+			    <td>MC755AMC</td>
+			    <td>TESIS II</td><td></td>
+			    <td>01</td>
+			    <td>OEE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MC741 y MC743</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">10</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>NUÑEZ-EZEQUILLA-DANIEL</td><td >LU</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>MC-203</td><td  style="text-align:left">02</td></tr></table>

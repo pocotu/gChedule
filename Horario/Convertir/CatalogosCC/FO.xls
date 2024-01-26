@@ -1,0 +1,1256 @@
+
+
+<div style="text-align:center;color:#990000; font-size:16px;font-weight:bold">
+				CATALOGO SEMESTRE:2023-1<br/></div>
+				<div style="text-align:center;color:#990000; font-size:14px;font-weight:bold;text-decoration:underline"><br/>DETALLE DE ASIGNATURAS</div><table id="hor-minimalist-b" width="85%" >
+					<thead>
+						<tr>
+							<td >Nro</td><td>CURSO</td><td colspan="2">NOMBRE DE CURSO</td>
+							<td>CR</td><td>CAT</td><td>REQUISITO</td>
+							<td>N° SEM</td>
+							<td>OBS</td>
+							<td>CURRICULA</td>
+						</tr>
+					</thead><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>1</td>
+			    <td>DE901AFO</td>
+			    <td>CONSTITUCION POLITICA Y DERECHOS HUMANOS</td><td></td>
+			    <td>03</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold"></td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PINTO-MONTOYA-LUIS ENRIQUE</td><td>MA</td><td>[09-11]</td>
+						     <td>T</td><td></td>
+						     <td>PIF-102</td><td  style="text-align:left">02</td></tr><tr><td>PINTO-MONTOYA-LUIS ENRIQUE</td><td >JU</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>PIF-102</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>2</td>
+			    <td>ED901AFO</td>
+			    <td>ESTRATEGIAS DE APRENDIZAJE AUTONOMO</td><td></td>
+			    <td>04</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">1</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PEREZ-QUISPE-EDISON</td><td >LU</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-102</td><td  style="text-align:left">02</td></tr><tr><td>PEREZ-QUISPE-EDISON</td><td >MI</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>PIF-102</td><td  style="text-align:left">02</td></tr><tr><td>PEREZ-QUISPE-EDISON</td><td >VI</td><td>[07-08]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-102</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>3</td>
+			    <td>FP901AFO</td>
+			    <td>FILOSOFIA Y ETICA</td><td></td>
+			    <td>03</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">1</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PINTO-MONTOYA-LUIS ENRIQUE</td><td >MA</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-102</td><td  style="text-align:left">02</td></tr><tr><td>PINTO-MONTOYA-LUIS ENRIQUE</td><td >JU</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>PIF-102</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>4</td>
+			    <td>ME901AFO</td>
+			    <td>MATEMATICA I</td><td></td>
+			    <td>04</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">1</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>TAIRO-HUAMAN-RUTH NANCY</td><td >LU</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-102</td><td  style="text-align:left">02</td></tr><tr><td>TAIRO-HUAMAN-RUTH NANCY</td><td >MI</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>PIF-102</td><td  style="text-align:left">02</td></tr><tr><td>TAIRO-HUAMAN-RUTH NANCY</td><td >VI</td><td>[11-12]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-201</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>5</td>
+			    <td>LC901AFO</td>
+			    <td>REDACCION DE TEXTOS</td><td></td>
+			    <td>04</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">1</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PEREZ-QUISPE-EDISON</td><td >LU</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-102</td><td  style="text-align:left">02</td></tr><tr><td>PEREZ-QUISPE-EDISON</td><td >MI</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>PIF-102</td><td  style="text-align:left">02</td></tr><tr><td>PEREZ-QUISPE-EDISON</td><td >VI</td><td>[09-10]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-102</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>6</td>
+			    <td>AS901AFO</td>
+			    <td>SOCIEDAD Y CULTURA</td><td></td>
+			    <td>03</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">1</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>DE OLIVEIRA-RAMIREZ-GLEYSIANNE</td><td >MA</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-102</td><td  style="text-align:left">02</td></tr><tr><td>DE OLIVEIRA-RAMIREZ-GLEYSIANNE</td><td >JU</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>PIF-102</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>7</td>
+			    <td>FO202AFO</td>
+			    <td>BIOLOGÍA GENERAL</td><td></td>
+			    <td>04</td>
+			    <td>OEFE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>BACA-ROSADO-BENEDICTO</td><td >MI</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-101</td><td  style="text-align:left">02</td></tr><tr><td>BACA-ROSADO-BENEDICTO</td><td >VI</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>PIF-101</td><td  style="text-align:left">02</td></tr><tr><td>                                                                 </td><td >SA</td><td>[11-12]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-LAMB</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>8</td>
+			    <td>FP902AFO</td>
+			    <td>LIDERAZGO Y HABILIDADES SOCIALES</td><td></td>
+			    <td>03</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">15 Creds.</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>DE OLIVEIRA-RAMIREZ-GLEYSIANNE</td><td >MA</td><td>[16-18]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-102</td><td  style="text-align:left">02</td></tr><tr><td>DE OLIVEIRA-RAMIREZ-GLEYSIANNE</td><td >JU</td><td>[16-18]</td>
+						        <td>P</td><td></td>
+						        <td>PIF-102</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>9</td>
+			    <td>ME902AFO</td>
+			    <td>MATEMÁTICA II</td><td></td>
+			    <td>04</td>
+			    <td>EGT</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">ME901</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>TAIRO-HUAMAN-RUTH NANCY</td><td >LU</td><td>[16-18]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-102</td><td  style="text-align:left">02</td></tr><tr><td>TAIRO-HUAMAN-RUTH NANCY</td><td >MI</td><td>[16-18]</td>
+						        <td>P</td><td></td>
+						        <td>PIF-102</td><td  style="text-align:left">02</td></tr><tr><td>TAIRO-HUAMAN-RUTH NANCY</td><td >VI</td><td>[16-17]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-102</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>10</td>
+			    <td>QU902AFO</td>
+			    <td>QUÍMICA GENERAL E INORGÁNICA</td><td></td>
+			    <td>04</td>
+			    <td>EGT</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">15 Creds.</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>RAMOS-ASCENSIO-RAUL ANTONIO</td><td >LU</td><td>[14-16]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-102</td><td  style="text-align:left">02</td></tr><tr><td>RAMOS-ASCENSIO-RAUL ANTONIO</td><td >MI</td><td>[14-16]</td>
+						        <td>P</td><td></td>
+						        <td>PIF-102</td><td  style="text-align:left">02</td></tr><tr><td>RAMOS-ASCENSIO-RAUL ANTONIO</td><td >VI</td><td>[14-15]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-102</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>11</td>
+			    <td>FO306AFO</td>
+			    <td>SISTEMAS AMBIENTALES</td><td></td>
+			    <td>04</td>
+			    <td>OEFE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>GONZALES-GAMARRA-DAVID ORLANDO</td><td >LU</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-302</td><td  style="text-align:left">02</td></tr><tr><td>GONZALES-GAMARRA-DAVID ORLANDO</td><td >MI</td><td>[09-10]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-302</td><td  style="text-align:left">01</td></tr><tr><td>GONZALES-GAMARRA-DAVID ORLANDO</td><td >VI</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>PIF-302</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>12</td>
+			    <td>IF902AFO</td>
+			    <td>TECNOLOGIAS DE LA INFORMACIÓN Y LA COMUNICACIÓN</td><td></td>
+			    <td>03</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">15 Creds.</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CCAHUANA-ARONI-WILFREDO</td><td >MA</td><td>[14-16]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-102</td><td  style="text-align:left">02</td></tr><tr><td>CCAHUANA-ARONI-WILFREDO</td><td >JU</td><td>[14-16]</td>
+						        <td>L</td><td></td>
+						        <td>PIF-102</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>13</td>
+			    <td>CB211AFO</td>
+			    <td>BOTANICA GENERAL</td><td></td>
+			    <td>04</td>
+			    <td>OFE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FO202</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>GONZALES-GAMARRA-DAVID ORLANDO</td><td >LU</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-302</td><td  style="text-align:left">02</td></tr><tr><td>GONZALES-GAMARRA-DAVID ORLANDO</td><td >MI</td><td>[08-09]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-302</td><td  style="text-align:left">01</td></tr><tr><td>GONZALES-GAMARRA-DAVID ORLANDO</td><td >SA</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>PIF-302</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>14</td>
+			    <td>TAX13AFO</td>
+			    <td>DANZA Y TEATRO</td><td></td>
+			    <td>01</td>
+			    <td>AEX</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"> </td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PILLCO-SOTO-JAVIER</td><td >SA</td><td>[18-20]</td>
+						        <td>P</td><td></td>
+						        <td>PIF-101</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>15</td>
+			    <td>EC161AFO</td>
+			    <td>ECONOMÍA GENERAL</td><td></td>
+			    <td>03</td>
+			    <td>OFE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"> </td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PINTO-MONTOYA-LUIS ENRIQUE</td><td >MA</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-101</td><td  style="text-align:left">02</td></tr><tr><td>PINTO-MONTOYA-LUIS ENRIQUE</td><td >JU</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>PIF-101</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>16</td>
+			    <td>FIX04AFO</td>
+			    <td>FÍSICA I</td><td></td>
+			    <td>04</td>
+			    <td>OFE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">ME902</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PILLCO-SOTO-JAVIER</td><td >LU</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-101</td><td  style="text-align:left">02</td></tr><tr><td>PILLCO-SOTO-JAVIER</td><td >MI</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>PIF-101</td><td  style="text-align:left">02</td></tr><tr><td>PILLCO-SOTO-JAVIER</td><td >VI</td><td>[09-10]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-101</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>17</td>
+			    <td>QU301AFO</td>
+			    <td>QUÍMICA ORGÁNICA</td><td></td>
+			    <td>04</td>
+			    <td>OFE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">QU902</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>RAMOS-ASCENSIO-RAUL ANTONIO</td><td >LU</td><td>[18-20]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-202</td><td  style="text-align:left">02</td></tr><tr><td>RAMOS-ASCENSIO-RAUL ANTONIO</td><td >MI</td><td>[18-20]</td>
+						        <td>P</td><td></td>
+						        <td>PIF-202</td><td  style="text-align:left">02</td></tr><tr><td>RAMOS-ASCENSIO-RAUL ANTONIO</td><td >VI</td><td>[18-19]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-202</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>18</td>
+			    <td>IC550AFO</td>
+			    <td>TOPOGRAFIA Y CARTOGRAFIA</td><td></td>
+			    <td>03</td>
+			    <td>OFE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"> </td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CCAHUANA-ARONI-WILFREDO</td><td >JU</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-201</td><td  style="text-align:left">02</td></tr><tr><td>CCAHUANA-ARONI-WILFREDO</td><td >VI</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>PIF-201</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>19</td>
+			    <td>CB164AFO</td>
+			    <td>ZOOLOGIA GENERAL</td><td></td>
+			    <td>03</td>
+			    <td>OFE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FO202</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>BACA-ROSADO-BENEDICTO</td><td >MA</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-101</td><td  style="text-align:left">02</td></tr><tr><td>BACA-ROSADO-BENEDICTO</td><td >JU</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>PIF-101</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>20</td>
+			    <td>FO001AFO</td>
+			    <td>EDUCACIÓN FISICA Y RECREACION</td><td></td>
+			    <td>01</td>
+			    <td>AEX</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">4</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PILLCO-SOTO-JAVIER</td><td >SA</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>PIF-102</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>21</td>
+			    <td>FO602AFO</td>
+			    <td>MANEJO DEL HERBARIO DENDROLOGICO Y XILOTECA</td><td></td>
+			    <td>03</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">CB211</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">4</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>FLORES-CASANOVA-WALTER</td><td >MI</td><td>[18-20]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-101</td><td  style="text-align:left">02</td></tr><tr><td>FLORES-CASANOVA-WALTER</td><td >VI</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>PIF-102</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>22</td>
+			    <td>ME652AFO</td>
+			    <td>ESTADÍSTICA GENERAL</td><td></td>
+			    <td>04</td>
+			    <td>OFE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">ME902</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PILLCO-SOTO-JAVIER</td><td >LU</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-101</td><td  style="text-align:left">02</td></tr><tr><td>PILLCO-SOTO-JAVIER</td><td >MI</td><td>[11-13]</td>
+						        <td>L</td><td></td>
+						        <td>PIF-LSIG</td><td  style="text-align:left">02</td></tr><tr><td>PILLCO-SOTO-JAVIER</td><td >MI</td><td>[13-14]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-LSIG</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>23</td>
+			    <td>CBX12AFO</td>
+			    <td>FISIOLOGÍA VEGETAL</td><td></td>
+			    <td>04</td>
+			    <td>OFE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">QU206</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>GONZALES-GAMARRA-DAVID ORLANDO</td><td >MA</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-302</td><td  style="text-align:left">02</td></tr><tr><td>GONZALES-GAMARRA-DAVID ORLANDO</td><td >MI</td><td>[07-08]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-302</td><td  style="text-align:left">01</td></tr><tr><td>GONZALES-GAMARRA-DAVID ORLANDO</td><td >JU</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>PIF-302</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>24</td>
+			    <td>FO101AFO</td>
+			    <td>METODOLOGÍA DE LA INVESTIGACIÓN</td><td></td>
+			    <td>03</td>
+			    <td>OFE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">60 Creds.</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>GONZALES-GAMARRA-DAVID ORLANDO</td><td >MA</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-302</td><td  style="text-align:left">02</td></tr><tr><td>GONZALES-GAMARRA-DAVID ORLANDO</td><td >JU</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>PIF-302</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>25</td>
+			    <td>FOX41AFO</td>
+			    <td>PROPIEDADES DE LA MADERA</td><td></td>
+			    <td>04</td>
+			    <td>OFE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FOX11</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>                                                                 </td><td >LU</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-201</td><td  style="text-align:left">02</td></tr><tr><td>                                                                 </td><td >MI</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>PIF-201</td><td  style="text-align:left">02</td></tr><tr><td>                                                                 </td><td >VI</td><td>[07-08]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-201</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>26</td>
+			    <td>FO300AFO</td>
+			    <td>TAXONOMIA FORESTAL</td><td></td>
+			    <td>04</td>
+			    <td>OFE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FO304</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>FLORES-CASANOVA-WALTER</td><td >LU</td><td>[19-21]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-101</td><td  style="text-align:left">02</td></tr><tr><td>FLORES-CASANOVA-WALTER</td><td >SA</td><td>[07-08]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-101</td><td  style="text-align:left">01</td></tr><tr><td>FLORES-CASANOVA-WALTER</td><td >SA</td><td>[08-10]</td>
+						        <td>P</td><td></td>
+						        <td>PIF-101</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>27</td>
+			    <td>FO327AFO</td>
+			    <td>DASOMETRÍA</td><td></td>
+			    <td>04</td>
+			    <td>OFE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IC550</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>VALLE-TERRAZAS-RICHARD</td><td >MI</td><td>[18-20]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-201</td><td  style="text-align:left">02</td></tr><tr><td>                                                                 </td><td >VI</td><td>[10-12]</td>
+						        <td>P</td><td></td>
+						        <td>PIF-301</td><td  style="text-align:left">02</td></tr><tr><td>                                                                 </td><td >VI</td><td>[12-13]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-301</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>28</td>
+			    <td>FO331AFO</td>
+			    <td>PATOLOGÍA FORESTAL</td><td></td>
+			    <td>03</td>
+			    <td>OFE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FO305</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>TINCO-CORTEZ-VICTOR HUGO</td><td >JU</td><td>[20-22]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-101</td><td  style="text-align:left">02</td></tr><tr><td>TINCO-CORTEZ-VICTOR HUGO</td><td >VI</td><td>[16-18]</td>
+						        <td>P</td><td></td>
+						        <td>PIF-101</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>29</td>
+			    <td>FO329AFO</td>
+			    <td>PROCESOS DE TRANSFORMACIÓN QUÍMICA DE LA MADERA</td><td></td>
+			    <td>03</td>
+			    <td>OFE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">QU206</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>SIGUAYRO-CRUZ-CRISTHIAN</td><td >LU</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-202</td><td  style="text-align:left">02</td></tr><tr><td>SIGUAYRO-CRUZ-CRISTHIAN</td><td >VI</td><td>[16-18]</td>
+						        <td>P</td><td></td>
+						        <td>PIF-202</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>30</td>
+			    <td>FO310AFO</td>
+			    <td>SUELOS FORESTALES</td><td></td>
+			    <td>04</td>
+			    <td>OFE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">CBX03</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>TINCO-CORTEZ-VICTOR HUGO</td><td >MA</td><td>[18-21]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-202</td><td  style="text-align:left">03</td></tr><tr><td>TINCO-CORTEZ-VICTOR HUGO</td><td >JU</td><td>[18-20]</td>
+						        <td>P</td><td></td>
+						        <td>PIF-202</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>31</td>
+			    <td>FO338AFO</td>
+			    <td>COSTOS Y VALORACIÓN FORESTAL</td><td></td>
+			    <td>04</td>
+			    <td>OFE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EC161</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>VALLE-TERRAZAS-RICHARD</td><td >MI</td><td>[14-16]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-201</td><td  style="text-align:left">02</td></tr><tr><td>VALLE-TERRAZAS-RICHARD</td><td >JU</td><td>[18-20]</td>
+						        <td>P</td><td></td>
+						        <td>PIF-201</td><td  style="text-align:left">02</td></tr><tr><td>VALLE-TERRAZAS-RICHARD</td><td >VI</td><td>[18-19]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-201</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>32</td>
+			    <td>FO333AFO</td>
+			    <td>DISEÑOS EXPERIMENTALES FORESTALES</td><td></td>
+			    <td>03</td>
+			    <td>OFE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">ME653</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CCAHUANA-ARONI-WILFREDO</td><td >MA</td><td>[16-18]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-101</td><td  style="text-align:left">02</td></tr><tr><td>CCAHUANA-ARONI-WILFREDO</td><td >JU</td><td>[16-18]</td>
+						        <td>P</td><td></td>
+						        <td>PIF-101</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>33</td>
+			    <td>FO906AFO</td>
+			    <td>FORESTERIA COMUNITARIA</td><td></td>
+			    <td>03</td>
+			    <td>OFE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>BALLON-GAMERO-ALFREDO JEFFERSON</td><td >LU</td><td>[16-18]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-202</td><td  style="text-align:left">02</td></tr><tr><td>BALLON-GAMERO-ALFREDO JEFFERSON</td><td >MI</td><td>[16-18]</td>
+						        <td>P</td><td></td>
+						        <td>PIF-202</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>34</td>
+			    <td>FO907AFO</td>
+			    <td>GESTION DE RIESGO Y ADAPTACION AL CAMBIO CLIMÁTICO</td><td></td>
+			    <td>03</td>
+			    <td>OFE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">GE160</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>SIGUAYRO-CRUZ-CRISTHIAN</td><td >VI</td><td>[20-22]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-102</td><td  style="text-align:left">02</td></tr><tr><td>SIGUAYRO-CRUZ-CRISTHIAN</td><td >SA</td><td>[18-20]</td>
+						        <td>P</td><td></td>
+						        <td>PIF-102</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>35</td>
+			    <td>FO335AFO</td>
+			    <td>ORDENAMIENTO E INVENTARIOS FORESTALES</td><td></td>
+			    <td>03</td>
+			    <td>OFE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FO327</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CCAHUANA-ARONI-WILFREDO</td><td >MA</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-201</td><td  style="text-align:left">02</td></tr><tr><td>CCAHUANA-ARONI-WILFREDO</td><td >JU</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>PIF-201</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>36</td>
+			    <td>FO334AFO</td>
+			    <td>SISTEMA DE INFORMACIÓN GEOGRÁFICA</td><td></td>
+			    <td>03</td>
+			    <td>OFE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FO328</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>BALLON-GAMERO-ALFREDO JEFFERSON</td><td >MA</td><td>[14-16]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-LSIG</td><td  style="text-align:left">02</td></tr><tr><td>BALLON-GAMERO-ALFREDO JEFFERSON</td><td >JU</td><td>[14-16]</td>
+						        <td>L</td><td></td>
+						        <td>PIF-LSIG</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>37</td>
+			    <td>FO401AFO</td>
+			    <td>TRANSFORMACIÓN FORESTAL MADERABLE</td><td></td>
+			    <td>03</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FO329</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>BERRIO-TERRAZAS-VICTOR ANTONIO</td><td >LU</td><td>[18-20]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-102</td><td  style="text-align:left">02</td></tr><tr><td>BERRIO-TERRAZAS-VICTOR ANTONIO</td><td >MI</td><td>[18-20]</td>
+						        <td>P</td><td></td>
+						        <td>PIF-102</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>38</td>
+			    <td>FO343AFO</td>
+			    <td>GESTION EMPRESARIAL FORESTAL</td><td></td>
+			    <td>03</td>
+			    <td>OFE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FO338</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td></td><td ></td><td>[00-00]</td>
+						        <td></td><td></td>
+						        <td></td><td  style="text-align:left">00</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>39</td>
+			    <td>FO913AFO</td>
+			    <td>MAQUINARIA Y EQUIPOS FORESTALES</td><td></td>
+			    <td>03</td>
+			    <td>OFE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>                                                                 </td><td >LU</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-301</td><td  style="text-align:left">02</td></tr><tr><td>                                                                 </td><td >MI</td><td>[11-13]</td>
+						        <td>L</td><td></td>
+						        <td>PIF-301</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>40</td>
+			    <td>FO339AFO</td>
+			    <td>FORMULACION Y EVALUACION DE PROYECTOS FORESTALES</td><td></td>
+			    <td>03</td>
+			    <td>OFE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FO340</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">9</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>VALLE-TERRAZAS-RICHARD</td><td >MA</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-301</td><td  style="text-align:left">02</td></tr><tr><td>VALLE-TERRAZAS-RICHARD</td><td >JU</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>PIF-301</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>41</td>
+			    <td>FO406AFO</td>
+			    <td>MANEJO DE FAUNA SILVESTRE</td><td></td>
+			    <td>02</td>
+			    <td>OFE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FO339</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">9</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>BACA-ROSADO-BENEDICTO</td><td >MA</td><td>[11-12]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-302</td><td  style="text-align:left">01</td></tr><tr><td>BACA-ROSADO-BENEDICTO</td><td >JU</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>PIF-302</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>42</td>
+			    <td>FO062AFO</td>
+			    <td>PRACTICAS PRE PROFESIONALES II INDUSTRIAS</td><td></td>
+			    <td>03</td>
+			    <td>PPP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FO061</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">9</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>TINCO-CORTEZ-VICTOR HUGO</td><td >MA</td><td>[16-18]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-302</td><td  style="text-align:left">02</td></tr><tr><td>TINCO-CORTEZ-VICTOR HUGO</td><td >JU</td><td>[16-18]</td>
+						        <td>P</td><td></td>
+						        <td>PIF-302</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>43</td>
+			    <td>FO912AFO</td>
+			    <td>SEGURIDAD OCUPACIONAL Y SEGURIDAD EN EL TRABAJO</td><td></td>
+			    <td>02</td>
+			    <td>OFE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">9</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>                                                                 </td><td >MA</td><td>[07-08]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-201</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>44</td>
+			    <td>FO332AFO</td>
+			    <td>SILVICULTURA TROPICAL</td><td></td>
+			    <td>03</td>
+			    <td>OFE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FO340</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">9</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>VALLE-TERRAZAS-RICHARD</td><td >LU</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-202</td><td  style="text-align:left">02</td></tr><tr><td>VALLE-TERRAZAS-RICHARD</td><td >MI</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>PIF-202</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>45</td>
+			    <td>FO908AFO</td>
+			    <td>SUPERVIVENCIA EN LA SELVA</td><td></td>
+			    <td>03</td>
+			    <td>OFE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FO328</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">9</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>SIGUAYRO-CRUZ-CRISTHIAN</td><td >VI</td><td>[18-20]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-101</td><td  style="text-align:left">02</td></tr><tr><td>SIGUAYRO-CRUZ-CRISTHIAN</td><td >SA</td><td>[16-18]</td>
+						        <td>P</td><td></td>
+						        <td>PIF-101</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>46</td>
+			    <td>FO407AFO</td>
+			    <td>DISEÑO Y CONSTRUCCIONES FERESTALES</td><td></td>
+			    <td>03</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FOX41</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">10</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>BERRIO-TERRAZAS-VICTOR ANTONIO</td><td >MA</td><td>[18-20]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-302</td><td  style="text-align:left">02</td></tr><tr><td>BERRIO-TERRAZAS-VICTOR ANTONIO</td><td >JU</td><td>[18-20]</td>
+						        <td>P</td><td></td>
+						        <td>PIF-302</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>47</td>
+			    <td>FO910AFO</td>
+			    <td>MANEJO DE AREAS NATURALES PROTEGIDAS</td><td></td>
+			    <td>03</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FO328</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">10</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>SIGUAYRO-CRUZ-CRISTHIAN</td><td >MA</td><td>[18-20]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-101</td><td  style="text-align:left">02</td></tr><tr><td>SIGUAYRO-CRUZ-CRISTHIAN</td><td >JU</td><td>[18-20]</td>
+						        <td>P</td><td></td>
+						        <td>PIF-101</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>48</td>
+			    <td>FO405ZFO</td>
+			    <td>MANEJO DE CUENCAS HIDROGRAFICAS</td><td></td>
+			    <td>03</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FO334</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">10</td>
+				<td>cambiados al grupo normal A</td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td></td><td ></td><td>[00-00]</td>
+						        <td></td><td></td>
+						        <td></td><td  style="text-align:left">00</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>49</td>
+			    <td>FO408AFO</td>
+			    <td>POLITICA Y LEGISLACION FORESTAL</td><td></td>
+			    <td>01</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">10</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PINTO-MONTOYA-LUIS ENRIQUE</td><td >LU</td><td>[14-16]</td>
+						        <td>P</td><td></td>
+						        <td>PIF-101</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>50</td>
+			    <td>FO410AFO</td>
+			    <td>SEMINARIO DE INVESTIGACION FORESTAL</td><td></td>
+			    <td>03</td>
+			    <td>OFE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">180 Creds.</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">10</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>BACA-ROSADO-BENEDICTO</td><td >MA</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>PIF-LAMB</td><td  style="text-align:left">02</td></tr><tr><td>BACA-ROSADO-BENEDICTO</td><td >JU</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>PIF-LAMB</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>51</td>
+			    <td>FO911ZFO</td>
+			    <td>TELEDETECCION FORESTAL</td><td></td>
+			    <td>03</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FO334</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">10</td>
+				<td>cambiados al grupo normal A</td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td></td><td ></td><td>[00-00]</td>
+						        <td></td><td></td>
+						        <td></td><td  style="text-align:left">00</td></tr></table>

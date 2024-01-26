@@ -1,0 +1,1410 @@
+
+
+<div style="text-align:center;color:#990000; font-size:16px;font-weight:bold">
+				CATALOGO SEMESTRE:2023-1<br/></div>
+				<div style="text-align:center;color:#990000; font-size:14px;font-weight:bold;text-decoration:underline"><br/>DETALLE DE ASIGNATURAS</div><table id="hor-minimalist-b" width="85%" >
+					<thead>
+						<tr>
+							<td >Nro</td><td>CURSO</td><td colspan="2">NOMBRE DE CURSO</td>
+							<td>CR</td><td>CAT</td><td>REQUISITO</td>
+							<td>N° SEM</td>
+							<td>OBS</td>
+							<td>CURRICULA</td>
+						</tr>
+					</thead><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>1</td>
+			    <td>IA608AIA</td>
+			    <td>ANALISIS SENSORIAL</td><td></td>
+			    <td>04</td>
+			    <td>EEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold"></td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ROQUE-ILLANES-VALERIO URBANO ELEAZAR</td><td>MA</td><td>[07-09]</td>
+						     <td>T</td><td></td>
+						     <td>IA-114</td><td  style="text-align:left">02</td></tr><tr><td>TITO-PAZ-ELIARYTH</td><td >JU</td><td>[07-09]</td>
+						        <td>L</td><td></td>
+						        <td>IA-114</td><td  style="text-align:left">02</td></tr><tr><td>ROQUE-ILLANES-VALERIO URBANO ELEAZAR</td><td >VI</td><td>[18-19]</td>
+						        <td>T</td><td></td>
+						        <td>IA-114</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>2</td>
+			    <td>IA602AIA</td>
+			    <td>NEGOCIOS INTERNACIONALES</td><td></td>
+			    <td>04</td>
+			    <td>EEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">160 Creds.</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">0</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>QUISPE-VALENZUELA-UBER</td><td >LU</td><td>[17-19]</td>
+						        <td>T</td><td></td>
+						        <td>IA-305</td><td  style="text-align:left">02</td></tr><tr><td>QUISPE-VALENZUELA-UBER</td><td >MI</td><td>[17-19]</td>
+						        <td>P</td><td></td>
+						        <td>IA-305</td><td  style="text-align:left">02</td></tr><tr><td>QUISPE-VALENZUELA-UBER</td><td >VI</td><td>[10-11]</td>
+						        <td>T</td><td></td>
+						        <td>IA-305</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>3</td>
+			    <td>IA604AIA</td>
+			    <td>TECNOLOGIA DE CEREALES Y LEGUMINOSAS</td><td></td>
+			    <td>03</td>
+			    <td>EEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">150 Creds.</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">0</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ZAVALETA-HUAMPA-PERCY</td><td >MA</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>IA-209</td><td  style="text-align:left">02</td></tr><tr><td>ZAVALETA-HUAMPA-PERCY</td><td >JU</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>IA-209</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>4</td>
+			    <td>IA605AIA</td>
+			    <td>TECNOLOGIA DE INDUSTRIAS CARNICAS</td><td></td>
+			    <td>03</td>
+			    <td>EEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">150 Creds.</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">0</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ROQUE-ILLANES-VALERIO URBANO ELEAZAR</td><td >MA</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>IA-304</td><td  style="text-align:left">02</td></tr><tr><td>PARI-HERENCIA-VILMA AYDEE</td><td >JU</td><td>[11-13]</td>
+						        <td>L</td><td></td>
+						        <td>IA-304</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>5</td>
+			    <td>IA606AIA</td>
+			    <td>TECNOLOGIA TEXTIL</td><td></td>
+			    <td>03</td>
+			    <td>EEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">120 Creds.</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">0</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ROQUE-ILLANES-VALERIO URBANO ELEAZAR</td><td >LU</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>IA-114</td><td  style="text-align:left">02</td></tr><tr><td>PARI-HERENCIA-VILMA AYDEE</td><td >VI</td><td>[07-09]</td>
+						        <td>L</td><td></td>
+						        <td>IA-114</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>6</td>
+			    <td>DE901AIA</td>
+			    <td>CONSTITUCION POLITICA Y DERECHOS HUMANOS</td><td></td>
+			    <td>03</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">1</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>APARICIO-ALARCON-JOSE RUBEN</td><td >MA</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>IA-404</td><td  style="text-align:left">02</td></tr><tr><td>APARICIO-ALARCON-JOSE RUBEN</td><td >JU</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>IA-404</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>7</td>
+			    <td>ED901AIA</td>
+			    <td>ESTRATEGIAS DE APRENDIZAJE AUTONOMO</td><td></td>
+			    <td>04</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">1</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MAMANI-CHOQUE-WILLIAN AMERICO</td><td >LU</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>IA-404</td><td  style="text-align:left">02</td></tr><tr><td>MAMANI-CHOQUE-WILLIAN AMERICO</td><td >MI</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>IA-404</td><td  style="text-align:left">02</td></tr><tr><td>MAMANI-CHOQUE-WILLIAN AMERICO</td><td >VI</td><td>[11-12]</td>
+						        <td>T</td><td></td>
+						        <td>IA-404</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>8</td>
+			    <td>FP901AIA</td>
+			    <td>FILOSOFIA Y ETICA</td><td></td>
+			    <td>03</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">1</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>APARICIO-ALARCON-JOSE RUBEN</td><td >MA</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>IA-404</td><td  style="text-align:left">02</td></tr><tr><td>APARICIO-ALARCON-JOSE RUBEN</td><td >JU</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>IA-404</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>9</td>
+			    <td>ME901AIA</td>
+			    <td>MATEMATICA I</td><td></td>
+			    <td>04</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">1</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CHUNGA-LOVON-WALTER</td><td >LU</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>IA-404</td><td  style="text-align:left">02</td></tr><tr><td>CHUNGA-LOVON-WALTER</td><td >MI</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>IA-404</td><td  style="text-align:left">02</td></tr><tr><td>CHUNGA-LOVON-WALTER</td><td >VI</td><td>[09-10]</td>
+						        <td>T</td><td></td>
+						        <td>IA-404</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>10</td>
+			    <td>LC901AIA</td>
+			    <td>REDACCION DE TEXTOS</td><td></td>
+			    <td>04</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">1</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MAMANI-CHOQUE-WILLIAN AMERICO</td><td >LU</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>IA-404</td><td  style="text-align:left">02</td></tr><tr><td>MAMANI-CHOQUE-WILLIAN AMERICO</td><td >MI</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>IA-404</td><td  style="text-align:left">02</td></tr><tr><td>MAMANI-CHOQUE-WILLIAN AMERICO</td><td >VI</td><td>[07-08]</td>
+						        <td>T</td><td></td>
+						        <td>IA-404</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>11</td>
+			    <td>AS901AIA</td>
+			    <td>SOCIEDAD Y CULTURA</td><td></td>
+			    <td>03</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">1</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>APARICIO-ALARCON-JOSE RUBEN</td><td >MA</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>IA-404</td><td  style="text-align:left">02</td></tr><tr><td>APARICIO-ALARCON-JOSE RUBEN</td><td >JU</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>IA-404</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>12</td>
+			    <td>ME903AIA</td>
+			    <td>CÁLCULO I</td><td></td>
+			    <td>04</td>
+			    <td>EGT</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">ME901</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CHUNGA-LOVON-WALTER</td><td >LU</td><td>[16-17]</td>
+						        <td>T</td><td></td>
+						        <td>IA-404</td><td  style="text-align:left">01</td></tr><tr><td>CHUNGA-LOVON-WALTER</td><td >MI</td><td>[16-18]</td>
+						        <td>T</td><td></td>
+						        <td>IA-404</td><td  style="text-align:left">02</td></tr><tr><td>CHUNGA-LOVON-WALTER</td><td >VI</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>IA-209</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>13</td>
+			    <td>FI902AIA</td>
+			    <td>FÍSICA I</td><td></td>
+			    <td>04</td>
+			    <td>EGT</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">ME901</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CHACON-ORMACHEA-MARIA ELENA</td><td >LU</td><td>[14-16]</td>
+						        <td>T</td><td></td>
+						        <td>IA-404</td><td  style="text-align:left">02</td></tr><tr><td>CHACON-ORMACHEA-MARIA ELENA</td><td >MI</td><td>[14-16]</td>
+						        <td>P</td><td></td>
+						        <td>IA-404</td><td  style="text-align:left">02</td></tr><tr><td>CHACON-ORMACHEA-MARIA ELENA</td><td >VI</td><td>[14-15]</td>
+						        <td>T</td><td></td>
+						        <td>IA-404</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>14</td>
+			    <td>FP902AIA</td>
+			    <td>LIDERAZGO Y HABILIDADES SOCIALES</td><td></td>
+			    <td>03</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">15 Creds.</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MAMANI-CHOQUE-WILLIAN AMERICO</td><td >MA</td><td>[16-18]</td>
+						        <td>T</td><td></td>
+						        <td>IA-404</td><td  style="text-align:left">02</td></tr><tr><td>MAMANI-CHOQUE-WILLIAN AMERICO</td><td >JU</td><td>[16-18]</td>
+						        <td>P</td><td></td>
+						        <td>IA-404</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>15</td>
+			    <td>CB202AIA</td>
+			    <td>MICROBIOLOGÍA AGROINDUSTRIAL</td><td></td>
+			    <td>04</td>
+			    <td>OEES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CALLAÑAUPA-MENDOZA-FRANCISCA</td><td >LU</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>IA-305</td><td  style="text-align:left">02</td></tr><tr><td>CALLAÑAUPA-MENDOZA-FRANCISCA</td><td >MI</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>IA-305</td><td  style="text-align:left">02</td></tr><tr><td>CALLAÑAUPA-MENDOZA-FRANCISCA</td><td >VI</td><td>[07-08]</td>
+						        <td>T</td><td></td>
+						        <td>IA-305</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>16</td>
+			    <td>QU201AIA</td>
+			    <td>QUÍMICA GENERAL Y ORGÁNICA</td><td></td>
+			    <td>04</td>
+			    <td>OEES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="5">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MONTUFAR-AVENDAÑO-JULIA</td><td >MA</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>IA-210</td><td  style="text-align:left">02</td></tr><tr><td>MONTUFAR-AVENDAÑO-JULIA</td><td >JU</td><td>[09-11]</td>
+						        <td>L</td><td>A</td>
+						        <td>IA-210</td><td  style="text-align:left">02</td></tr><tr><td>MONTUFAR-AVENDAÑO-JULIA</td><td >VI</td><td>[11-13]</td>
+						        <td>L</td><td>B</td>
+						        <td>IA-210</td><td  style="text-align:left">02</td></tr><tr><td>MONTUFAR-AVENDAÑO-JULIA</td><td >VI</td><td>[08-09]</td>
+						        <td>T</td><td></td>
+						        <td>IA-210</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>17</td>
+			    <td>IF902AIA</td>
+			    <td>TECNOLOGIAS DE LA INFORMACIÓN Y LA COMUNICACIÓN</td><td></td>
+			    <td>03</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">15 Creds.</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MAMANI-CHOQUE-WILLIAN AMERICO</td><td >MA</td><td>[14-16]</td>
+						        <td>T</td><td></td>
+						        <td>IA-404</td><td  style="text-align:left">02</td></tr><tr><td>MAMANI-CHOQUE-WILLIAN AMERICO</td><td >JU</td><td>[14-16]</td>
+						        <td>L</td><td></td>
+						        <td>IA-404</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>18</td>
+			    <td>IA206AIA</td>
+			    <td>DIBUJO EN INGENIERIA AGROINDUSTRIAL</td><td></td>
+			    <td>02</td>
+			    <td>EEES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">40 Creds.</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>JORGE-ROJAS-BERNARDO</td><td >MA</td><td>[15-17]</td>
+						        <td>P</td><td></td>
+						        <td>IA-210</td><td  style="text-align:left">02</td></tr><tr><td>JORGE-ROJAS-BERNARDO</td><td >VI</td><td>[08-09]</td>
+						        <td>T</td><td></td>
+						        <td>IA-205</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>19</td>
+			    <td>IA207AIA</td>
+			    <td>ESTADISTICA PARA INGENIEROS</td><td></td>
+			    <td>04</td>
+			    <td>OEES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">ME901</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>JORGE-ROJAS-BERNARDO</td><td >LU</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>IA-209</td><td  style="text-align:left">02</td></tr><tr><td>JORGE-ROJAS-BERNARDO</td><td >MI</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>LAB CC</td><td  style="text-align:left">02</td></tr><tr><td>JORGE-ROJAS-BERNARDO</td><td >VI</td><td>[07-08]</td>
+						        <td>T</td><td></td>
+						        <td>IA-209</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>20</td>
+			    <td>FI203AIA</td>
+			    <td>FISICA II</td><td></td>
+			    <td>04</td>
+			    <td>OEES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FI902</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td>RESOLUCIÓN N° 054-2023- VRAC-UNSAAC</td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CHACON-ORMACHEA-MARIA ELENA</td><td >MA</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>IA-305</td><td  style="text-align:left">02</td></tr><tr><td>CHACON-ORMACHEA-MARIA ELENA</td><td >JU</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>IA-305</td><td  style="text-align:left">02</td></tr><tr><td>CHACON-ORMACHEA-MARIA ELENA</td><td >VI</td><td>[09-10]</td>
+						        <td>T</td><td></td>
+						        <td>IA-305</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>21</td>
+			    <td>IA205AIA</td>
+			    <td>FISICOQUIMICA AGROINDUSTRIAL</td><td></td>
+			    <td>04</td>
+			    <td>OEES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FP902</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CALLAÑAUPA-QUISPE-JUAN</td><td >LU</td><td>[17-19]</td>
+						        <td>T</td><td></td>
+						        <td>IA-209</td><td  style="text-align:left">02</td></tr><tr><td>CALLAÑAUPA-QUISPE-JUAN</td><td >MA</td><td>[17-18]</td>
+						        <td>T</td><td></td>
+						        <td>IA-209</td><td  style="text-align:left">01</td></tr><tr><td>CALLAÑAUPA-QUISPE-JUAN</td><td >MI</td><td>[17-19]</td>
+						        <td>P</td><td></td>
+						        <td>IA-209</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>22</td>
+			    <td>IA208AIA</td>
+			    <td>INTRODUCCION A LA INGENIERIA AGROINDUSTRIAL</td><td></td>
+			    <td>04</td>
+			    <td>OEES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">CB202</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ZAVALETA-HUAMPA-PERCY</td><td >LU</td><td>[15-17]</td>
+						        <td>T</td><td></td>
+						        <td>IA-303</td><td  style="text-align:left">02</td></tr><tr><td>ZAVALETA-HUAMPA-PERCY</td><td >MA</td><td>[18-19]</td>
+						        <td>T</td><td></td>
+						        <td>IA-303</td><td  style="text-align:left">01</td></tr><tr><td>ZAVALETA-HUAMPA-PERCY</td><td >MI</td><td>[15-17]</td>
+						        <td>P</td><td></td>
+						        <td>IA-303</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>23</td>
+			    <td>IA209AIA</td>
+			    <td>BALANCE DE MATERIA Y ENERGIA</td><td></td>
+			    <td>04</td>
+			    <td>OEES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IA205</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">4</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ROQUE-ILLANES-VALERIO URBANO ELEAZAR</td><td >LU</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>IA-114</td><td  style="text-align:left">02</td></tr><tr><td>ROQUE-ILLANES-VALERIO URBANO ELEAZAR</td><td >MI</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>IA-114</td><td  style="text-align:left">02</td></tr><tr><td>ROQUE-ILLANES-VALERIO URBANO ELEAZAR</td><td >VI</td><td>[12-13]</td>
+						        <td>T</td><td></td>
+						        <td>IA-114</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>24</td>
+			    <td>IA213AIA</td>
+			    <td>BIOQUIMICA AGROINDUSTRIAL</td><td></td>
+			    <td>04</td>
+			    <td>OEES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">QU201</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">4</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MONTUFAR-AVENDAÑO-JULIA</td><td >LU</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>IA-304</td><td  style="text-align:left">02</td></tr><tr><td>MONTUFAR-AVENDAÑO-JULIA</td><td >MI</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>IA-304</td><td  style="text-align:left">02</td></tr><tr><td>MONTUFAR-AVENDAÑO-JULIA</td><td >VI</td><td>[10-11]</td>
+						        <td>T</td><td></td>
+						        <td>IA-304</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>25</td>
+			    <td>IA211AIA</td>
+			    <td>DISEÑO Y ANALISIS DE EXPERIMENTOS</td><td></td>
+			    <td>03</td>
+			    <td>OEES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IA207</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">4</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>QUISPE-AYALA-EVER</td><td >LU</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>LAB CC</td><td  style="text-align:left">02</td></tr><tr><td>QUISPE-AYALA-EVER</td><td >JU</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>LAB CC</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>26</td>
+			    <td>IA321AIA</td>
+			    <td>INGENIERIA DE LA POST COSECHA</td><td></td>
+			    <td>04</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IA208</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">4</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>JORGE-ROJAS-BERNARDO</td><td >LU</td><td>[15-17]</td>
+						        <td>T</td><td></td>
+						        <td>IA-209</td><td  style="text-align:left">02</td></tr><tr><td>JORGE-ROJAS-BERNARDO</td><td >MI</td><td>[15-16]</td>
+						        <td>T</td><td></td>
+						        <td>IA-209</td><td  style="text-align:left">01</td></tr><tr><td>JORGE-ROJAS-BERNARDO</td><td >JU</td><td>[15-17]</td>
+						        <td>P</td><td></td>
+						        <td>IA-209</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>27</td>
+			    <td>IA210AIA</td>
+			    <td>TERMODINAMICA PARA INGENIEROS</td><td></td>
+			    <td>04</td>
+			    <td>OEES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IA205</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">4</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>APARICIO-PEÑA-LUZ MARINA</td><td >MA</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>IA-304</td><td  style="text-align:left">02</td></tr><tr><td>APARICIO-PEÑA-LUZ MARINA</td><td >JU</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>IA-304</td><td  style="text-align:left">02</td></tr><tr><td>APARICIO-PEÑA-LUZ MARINA</td><td >VI</td><td>[09-10]</td>
+						        <td>T</td><td></td>
+						        <td>IA-304</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>28</td>
+			    <td>IA401AIA</td>
+			    <td>ACTIVIDADES EXTRACURRICULARES - I</td><td></td>
+			    <td>03</td>
+			    <td>AEX</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">80 Creds.</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>AMAHT-ARAOZ-CESAR</td><td >JU</td><td>[15-17]</td>
+						        <td>T</td><td></td>
+						        <td>IA-114</td><td  style="text-align:left">02</td></tr><tr><td>AMAHT-ARAOZ-CESAR</td><td >VI</td><td>[15-17]</td>
+						        <td>P</td><td></td>
+						        <td>IA-114</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>29</td>
+			    <td>IA214AIA</td>
+			    <td>ELECTROTECNIA AGROINDUSTRIAL</td><td></td>
+			    <td>03</td>
+			    <td>EEES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FI203</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CASA-QUISPE-FRANCISCO</td><td >LU</td><td>[17-19]</td>
+						        <td>T</td><td></td>
+						        <td>IA-210</td><td  style="text-align:left">02</td></tr><tr><td>CASA-QUISPE-FRANCISCO</td><td >MI</td><td>[17-19]</td>
+						        <td>P</td><td></td>
+						        <td>IA-210</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>30</td>
+			    <td>IA323AIA</td>
+			    <td>INVESTIGACIÓN OPERATIVA AGROINDUSTRIAL</td><td></td>
+			    <td>04</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IA211</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ZAVALETA-HUAMPA-PERCY</td><td >MA</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>IA-303</td><td  style="text-align:left">02</td></tr><tr><td>ZAVALETA-HUAMPA-PERCY</td><td >JU</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>IA-303</td><td  style="text-align:left">02</td></tr><tr><td>ZAVALETA-HUAMPA-PERCY</td><td >VI</td><td>[10-11]</td>
+						        <td>T</td><td></td>
+						        <td>IA-303</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>31</td>
+			    <td>IA322AIA</td>
+			    <td>OPERACIONES UNITARIAS AGROINDUSTRIALES - I</td><td></td>
+			    <td>04</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IA209</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>APARICIO-PEÑA-LUZ MARINA</td><td >LU</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>IA-303</td><td  style="text-align:left">02</td></tr><tr><td>APARICIO-PEÑA-LUZ MARINA</td><td >MI</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>IA-303</td><td  style="text-align:left">02</td></tr><tr><td>APARICIO-PEÑA-LUZ MARINA</td><td >VI</td><td>[07-08]</td>
+						        <td>T</td><td></td>
+						        <td>IA-303</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>32</td>
+			    <td>IA324AIA</td>
+			    <td>TRATAMIENTO DE AGUA PARA PROCESADO</td><td></td>
+			    <td>03</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IA213</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>TAIPE-FLOREZ-FRANKLIN</td><td >MA</td><td>[18-20]</td>
+						        <td>T</td><td></td>
+						        <td>IA-209</td><td  style="text-align:left">02</td></tr><tr><td>TITO-PAZ-ELIARYTH</td><td >JU</td><td>[11-13]</td>
+						        <td>L</td><td></td>
+						        <td>IA-209</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>33</td>
+			    <td>IA216AIA</td>
+			    <td>CONTROL Y AUTOMATIZACION DE PROCESOS</td><td></td>
+			    <td>04</td>
+			    <td>OEES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IA214</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>TAIPE-FLOREZ-FRANKLIN</td><td >LU</td><td>[18-20]</td>
+						        <td>T</td><td></td>
+						        <td>LAB CC</td><td  style="text-align:left">02</td></tr><tr><td>TAIPE-FLOREZ-FRANKLIN</td><td >MI</td><td>[18-20]</td>
+						        <td>P</td><td></td>
+						        <td>LAB CC</td><td  style="text-align:left">02</td></tr><tr><td>TAIPE-FLOREZ-FRANKLIN</td><td >VI</td><td>[18-19]</td>
+						        <td>T</td><td></td>
+						        <td>IA-305</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>34</td>
+			    <td>IA326AIA</td>
+			    <td>INGENIERÍA DE BIOPROCESOS</td><td></td>
+			    <td>04</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IA324</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>TACO-VELASQUEZ-CATHIA SILVIA</td><td >MA</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>IA-303</td><td  style="text-align:left">02</td></tr><tr><td>TACO-VELASQUEZ-CATHIA SILVIA</td><td >JU</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>IA-303</td><td  style="text-align:left">02</td></tr><tr><td>TACO-VELASQUEZ-CATHIA SILVIA</td><td >VI</td><td>[12-13]</td>
+						        <td>T</td><td></td>
+						        <td>IA-303</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>35</td>
+			    <td>IA327AIA</td>
+			    <td>METODOS DE ANALISIS AGROINDUSTRIAL</td><td></td>
+			    <td>03</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IA323</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>AMAHT-ARAOZ-CESAR</td><td >LU</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>IA-210</td><td  style="text-align:left">02</td></tr><tr><td>AMAHT-ARAOZ-CESAR</td><td >MI</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>IA-210</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>36</td>
+			    <td>IA325AIA</td>
+			    <td>OPERACIONES UNITARIAS AGROINDUSTRIALES - II</td><td></td>
+			    <td>04</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IA322</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CARRASCO-COLQUE-MARIA MERCEDES</td><td >MA</td><td>[15-17]</td>
+						        <td>T</td><td></td>
+						        <td>IA-305</td><td  style="text-align:left">02</td></tr><tr><td>CARRASCO-COLQUE-MARIA MERCEDES</td><td >MI</td><td>[15-17]</td>
+						        <td>P</td><td></td>
+						        <td>IA-305</td><td  style="text-align:left">02</td></tr><tr><td>CARRASCO-COLQUE-MARIA MERCEDES</td><td >JU</td><td>[12-13]</td>
+						        <td>T</td><td></td>
+						        <td>IA-305</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>37</td>
+			    <td>IA217AIA</td>
+			    <td>PRESERVACION Y CONSERVACION DE ALIMENTOS</td><td></td>
+			    <td>04</td>
+			    <td>OEES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IA215</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td> </td><td >LU</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>IA-210</td><td  style="text-align:left">02</td></tr><tr><td>TITO-PAZ-ELIARYTH</td><td >MI</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>IA-210</td><td  style="text-align:left">02</td></tr><tr><td>RICALDI-SARAPURA-JOSEPH OBED</td><td >VI</td><td>[07-08]</td>
+						        <td>T</td><td></td>
+						        <td>IA-210</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>38</td>
+			    <td>IA332AIA</td>
+			    <td>ALIMENTACION Y NUTRICION</td><td></td>
+			    <td>04</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IA327</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>AMAHT-ARAOZ-CESAR</td><td >MA</td><td>[15-17]</td>
+						        <td>T</td><td></td>
+						        <td>IA-303</td><td  style="text-align:left">02</td></tr><tr><td>PARI-HERENCIA-VILMA AYDEE</td><td >JU</td><td>[15-17]</td>
+						        <td>L</td><td></td>
+						        <td>IA-303</td><td  style="text-align:left">02</td></tr><tr><td>AMAHT-ARAOZ-CESAR</td><td >VI</td><td>[09-10]</td>
+						        <td>T</td><td></td>
+						        <td>IA-209</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>39</td>
+			    <td>IA330AIA</td>
+			    <td>CONTROL DE CALIDAD DE PRODUCTOS AGROINDUSTRIALES</td><td></td>
+			    <td>04</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IA327</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>QUISPE-VALENZUELA-UBER</td><td >LU</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>IA-114</td><td  style="text-align:left">02</td></tr><tr><td>QUISPE-VALENZUELA-UBER</td><td >MI</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>IA-114</td><td  style="text-align:left">02</td></tr><tr><td>QUISPE-VALENZUELA-UBER</td><td >VI</td><td>[11-12]</td>
+						        <td>T</td><td></td>
+						        <td>IA-114</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>40</td>
+			    <td>IA329AIA</td>
+			    <td>DISEÑO DE EQUIPOS AGROINDUSTRIALES</td><td></td>
+			    <td>03</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IA216</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CASA-QUISPE-FRANCISCO</td><td >LU</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>IA-304</td><td  style="text-align:left">02</td></tr><tr><td>CASA-QUISPE-FRANCISCO</td><td >MI</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>IA-304</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>41</td>
+			    <td>IA328AIA</td>
+			    <td>OPERACIONES UNITARIAS AGROINDUSTRIALES - III</td><td></td>
+			    <td>04</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IA325</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CARRASCO-COLQUE-MARIA MERCEDES</td><td >MA</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>IA-304</td><td  style="text-align:left">02</td></tr><tr><td>CARRASCO-COLQUE-MARIA MERCEDES</td><td >MI</td><td>[07-08]</td>
+						        <td>T</td><td></td>
+						        <td>IA-304</td><td  style="text-align:left">01</td></tr><tr><td>CARRASCO-COLQUE-MARIA MERCEDES</td><td >JU</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>IA-304</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>42</td>
+			    <td>IA331AIA</td>
+			    <td>SEGURIDAD ALIMENTARIA Y TRAZABILIDAD</td><td></td>
+			    <td>03</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">120 Creds.</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>TACO-VELASQUEZ-CATHIA SILVIA</td><td >LU</td><td>[17-19]</td>
+						        <td>T</td><td></td>
+						        <td>IA-303</td><td  style="text-align:left">02</td></tr><tr><td>TACO-VELASQUEZ-CATHIA SILVIA</td><td >MI</td><td>[17-19]</td>
+						        <td>P</td><td></td>
+						        <td>IA-303</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>43</td>
+			    <td>IA337AIA</td>
+			    <td>EMPRENDIMIENTO E INNOVACION AGROINDUSTRIAL</td><td></td>
+			    <td>03</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IA331</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>TACO-VELASQUEZ-CATHIA SILVIA</td><td >MA</td><td>[15-17]</td>
+						        <td>T</td><td></td>
+						        <td>IA-209</td><td  style="text-align:left">02</td></tr><tr><td>TACO-VELASQUEZ-CATHIA SILVIA</td><td >JU</td><td>[15-17]</td>
+						        <td>P</td><td></td>
+						        <td>IA-305</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>44</td>
+			    <td>IA335AIA</td>
+			    <td>ENVASES Y EMBALAJES DE PRODUCTOS AGROINDUSTRIALES</td><td></td>
+			    <td>03</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IA217</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PARI-HERENCIA-VILMA AYDEE</td><td >MI</td><td>[14-15]</td>
+						        <td>L</td><td></td>
+						        <td>IA-114</td><td  style="text-align:left">01</td></tr><tr><td>QUISPE-AYALA-EVER</td><td >MI</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>IA-114</td><td  style="text-align:left">02</td></tr><tr><td>PARI-HERENCIA-VILMA AYDEE</td><td >JU</td><td>[14-15]</td>
+						        <td>L</td><td></td>
+						        <td>IA-114</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>45</td>
+			    <td>IA333AIA</td>
+			    <td>INGENIERIA DE PROCESOS AGROINDUSTRIALES I</td><td></td>
+			    <td>04</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IA328</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ROQUE-ILLANES-VALERIO URBANO ELEAZAR</td><td >MA</td><td>[17-19]</td>
+						        <td>T</td><td></td>
+						        <td>IA-305</td><td  style="text-align:left">02</td></tr><tr><td>ROQUE-ILLANES-VALERIO URBANO ELEAZAR</td><td >JU</td><td>[17-19]</td>
+						        <td>P</td><td></td>
+						        <td>IA-305</td><td  style="text-align:left">02</td></tr><tr><td>ROQUE-ILLANES-VALERIO URBANO ELEAZAR</td><td >VI</td><td>[17-18]</td>
+						        <td>T</td><td></td>
+						        <td>IA-305</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>46</td>
+			    <td>IA334AIA</td>
+			    <td>INGENIERIA DE PROCESOS AGROINDUSTRIALES II</td><td></td>
+			    <td>04</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IA328</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MOJO-QUISANI-ANTONIETA</td><td >LU</td><td>[15-17]</td>
+						        <td>T</td><td></td>
+						        <td>IA-210</td><td  style="text-align:left">02</td></tr><tr><td>MOJO-QUISANI-ANTONIETA</td><td >MI</td><td>[15-17]</td>
+						        <td>L</td><td></td>
+						        <td>IA-210</td><td  style="text-align:left">02</td></tr><tr><td>MOJO-QUISANI-ANTONIETA</td><td >VI</td><td>[10-11]</td>
+						        <td>T</td><td></td>
+						        <td>IA-210</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>47</td>
+			    <td>IA336AIA</td>
+			    <td>SISTEMAS DE GESTION DE LA CALIDAD</td><td></td>
+			    <td>04</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IA330</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>RICALDI-SARAPURA-JOSEPH OBED</td><td >LU</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>IA-209</td><td  style="text-align:left">02</td></tr><tr><td>PARI-HERENCIA-VILMA AYDEE</td><td >MI</td><td>[07-09]</td>
+						        <td>L</td><td></td>
+						        <td>IA-209</td><td  style="text-align:left">02</td></tr><tr><td>RICALDI-SARAPURA-JOSEPH OBED</td><td >VI</td><td>[08-09]</td>
+						        <td>T</td><td></td>
+						        <td>IA-209</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>48</td>
+			    <td>IA340AIA</td>
+			    <td>FORMULACION Y EVALUACION DE PROYECTOS AGROINDUSTRIALES</td><td></td>
+			    <td>04</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IA329</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">9</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CALLAÑAUPA-QUISPE-JUAN</td><td >MA</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>IA-209</td><td  style="text-align:left">02</td></tr><tr><td>CALLAÑAUPA-QUISPE-JUAN</td><td >MI</td><td>[10-11]</td>
+						        <td>T</td><td></td>
+						        <td>IA-209</td><td  style="text-align:left">01</td></tr><tr><td>CALLAÑAUPA-QUISPE-JUAN</td><td >JU</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>IA-209</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>49</td>
+			    <td>IA339AIA</td>
+			    <td>GESTION AMBIENTAL DE LA AGROINDUSTRIA</td><td></td>
+			    <td>04</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IA336</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">9</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CALLAÑAUPA-MENDOZA-FRANCISCA</td><td >LU</td><td>[17-19]</td>
+						        <td>T</td><td></td>
+						        <td>IA-304</td><td  style="text-align:left">02</td></tr><tr><td>CALLAÑAUPA-MENDOZA-FRANCISCA</td><td >MI</td><td>[17-19]</td>
+						        <td>P</td><td></td>
+						        <td>IA-304</td><td  style="text-align:left">02</td></tr><tr><td>CALLAÑAUPA-MENDOZA-FRANCISCA</td><td >VI</td><td>[11-12]</td>
+						        <td>T</td><td></td>
+						        <td>IA-304</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>50</td>
+			    <td>IA338AIA</td>
+			    <td>INGENIERIA DE PROCESOS AGROINDUSTRIALES III</td><td></td>
+			    <td>04</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IA334</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">9</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>QUISPE-AYALA-EVER</td><td >LU</td><td>[15-17]</td>
+						        <td>T</td><td></td>
+						        <td>IA-304</td><td  style="text-align:left">02</td></tr><tr><td>QUISPE-AYALA-EVER</td><td >MI</td><td>[15-17]</td>
+						        <td>L</td><td></td>
+						        <td>IA-304</td><td  style="text-align:left">02</td></tr><tr><td>QUISPE-AYALA-EVER</td><td >VI</td><td>[15-16]</td>
+						        <td>T</td><td></td>
+						        <td>IA-304</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>51</td>
+			    <td>IA341AIA</td>
+			    <td>METODOLOGIA DE LA INVESTIGACION I</td><td></td>
+			    <td>04</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">170 Creds.</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">9</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CALLA-FLOREZ-MIRIAM</td><td >LU</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>LAB CC</td><td  style="text-align:left">02</td></tr><tr><td>CALLA-FLOREZ-MIRIAM</td><td >MI</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>LAB CC</td><td  style="text-align:left">02</td></tr><tr><td>CALLA-FLOREZ-MIRIAM</td><td >VI</td><td>[10-11]</td>
+						        <td>T</td><td></td>
+						        <td>LAB CC</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>52</td>
+			    <td>IA342AIA</td>
+			    <td>SEGURIDAD E HIGIENE INDUSTRIAL</td><td></td>
+			    <td>03</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IA336</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">9</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CASA-QUISPE-FRANCISCO</td><td >MA</td><td>[15-17]</td>
+						        <td>T</td><td></td>
+						        <td>IA-304</td><td  style="text-align:left">02</td></tr><tr><td>CASA-QUISPE-FRANCISCO</td><td >JU</td><td>[15-17]</td>
+						        <td>P</td><td></td>
+						        <td>IA-304</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>53</td>
+			    <td>IA344AIA</td>
+			    <td>DISEÑO DE PLANTAS AGROINDUSTRIALES</td><td></td>
+			    <td>04</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IA340</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">10</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>RICALDI-SARAPURA-JOSEPH OBED</td><td >LU</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>IA-205</td><td  style="text-align:left">02</td></tr><tr><td>RICALDI-SARAPURA-JOSEPH OBED</td><td >MI</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>IA-205</td><td  style="text-align:left">02</td></tr><tr><td>RICALDI-SARAPURA-JOSEPH OBED</td><td >VI</td><td>[12-13]</td>
+						        <td>T</td><td></td>
+						        <td>IA-205</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>54</td>
+			    <td>IA343AIA</td>
+			    <td>INGENIERIA DE PROCESOS AGROINDUSTRIALES IV</td><td></td>
+			    <td>04</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IA338</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">10</td>
+				<td>RES.  67 -2023-VRAC-UNSAAC</td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>TACO-VELASQUEZ-CATHIA SILVIA</td><td >LU</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>IA-305</td><td  style="text-align:left">02</td></tr><tr><td>                                                                 </td><td >MI</td><td>[07-09]</td>
+						        <td>L</td><td></td>
+						        <td>IA-305</td><td  style="text-align:left">02</td></tr><tr><td>TACO-VELASQUEZ-CATHIA SILVIA</td><td >VI</td><td>[11-12]</td>
+						        <td>T</td><td></td>
+						        <td>IA-305</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>55</td>
+			    <td>IA345AIA</td>
+			    <td>METODOLOGIA DE LA INVESTIGACION II</td><td></td>
+			    <td>04</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IA341</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">10</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>RICALDI-SARAPURA-JOSEPH OBED</td><td >MA</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>LAB CC</td><td  style="text-align:left">02</td></tr><tr><td>RICALDI-SARAPURA-JOSEPH OBED</td><td >JU</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>LAB CC</td><td  style="text-align:left">02</td></tr><tr><td>RICALDI-SARAPURA-JOSEPH OBED</td><td >VI</td><td>[09-10]</td>
+						        <td>T</td><td></td>
+						        <td>LAB CC</td><td  style="text-align:left">01</td></tr></table>

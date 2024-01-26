@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Mostrar tabla de archivo .xls</title>
+    <script src="https://unpkg.com/xlsx/dist/xlsx.full.min.js"></script>
+</head>
+<body>
+    <label for="catalogSelect">Seleccionar catálogo:</label>
+    <select id="catalogSelect" onchange="loadCatalog()">
+        <option value="">-- Seleccionar --</option>
+    </select>
+    <div id="tableContainer"></div>
+
+    <script>
+        function loadCatalog() {
+            var select = document.getElementById("catalogSelect");
+            var catalog = select.value;
+
+            if (catalog === "") {
+                return; // No se ha seleccionado ningún catálogo
+            }
+
+            var xhr = new XMLHttpRequest();
+            xhr.open("GET", catalog, true);
+            xhr.responseType = "arraybuffer";
+
+            xhr.onload = function(e) {
+                var data = new Uint8Array(xhr.response);
+                var workbook = XLSX.read(data, {type: 'array'});
+                var worksheet = workbook.Sheets[workbook.SheetNames[0]];
+
+                var jsonData = XLSX.utils.sheet_to_json(worksheet, {header: 1});
+                displayTable(jsonData);
+            };
+
+            xhr.send();
+        }
+
+        function displayTable(data) {
+            var table = document.createElement('table');
+
+            var thead = document.createElement('thead');
+            var headerRow = document.createElement('tr');
+            for (var i = 0; i < data[0].length; i++) {
+                var th = document.createElement('th');
+                th.textContent = data[0][i];
+                headerRow.appendChild(th);
+            }
+            thead.appendChild(headerRow);
+            table.appendChild(thead);
+
+            var tbody = document.createElement('tbody');
+            for (var i = 1; i < data.length; i++) {
+                var row = document.createElement('tr');
+                for (var j = 0; j < data[i].length; j++) {
+                    var td = document.createElement('td');
+                    td.textContent = data[i][j];
+                    row.appendChild(td);
+                }
+                tbody.appendChild(row);
+            }
+            table.appendChild(tbody);
+
+            var container = document.getElementById('tableContainer');
+            container.innerHTML = '';
+            container.appendChild(table);
+        }
+
+        // Popula el menú desplegable con los catálogos disponibles desde el servidor
+        function populateCatalogsSelect(catalogs) {
+            var select = document.getElementById("catalogSelect");
+
+            catalogs.forEach(catalog => {
+                var option = document.createElement("option");
+                option.value = catalog;
+                option.textContent = catalog;
+                select.appendChild(option);
+            });
+        }
+
+        // Cargar la lista de catálogos al cargar la página
+        window.onload = function() {
+            fetch("/archivos") // Obtener la lista de catálogos del servidor
+                .then(response => response.json())
+                .then(catalogsList => {
+                    populateCatalogsSelect(catalogsList);
+                })
+                .catch(error => console.error("Error:", error));
+        };
+    </script>
+</body>
+</html>

@@ -1,0 +1,2808 @@
+
+
+<div style="text-align:center;color:#990000; font-size:16px;font-weight:bold">
+				CATALOGO SEMESTRE:2023-1<br/></div>
+				<div style="text-align:center;color:#990000; font-size:14px;font-weight:bold;text-decoration:underline"><br/>DETALLE DE ASIGNATURAS</div><table id="hor-minimalist-b" width="85%" >
+					<thead>
+						<tr>
+							<td >Nro</td><td>CURSO</td><td colspan="2">NOMBRE DE CURSO</td>
+							<td>CR</td><td>CAT</td><td>REQUISITO</td>
+							<td>N° SEM</td>
+							<td>OBS</td>
+							<td>CURRICULA</td>
+						</tr>
+					</thead><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>1</td>
+			    <td>EL513ALI</td>
+			    <td>ANTENAS</td><td></td>
+			    <td>03</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold"></td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>VARGAS-MATEOS-WILLY</td><td>MA</td><td>[15-17]</td>
+						     <td>T</td><td></td>
+						     <td>EL-406</td><td  style="text-align:left">02</td></tr><tr><td>VARGAS-MATEOS-WILLY</td><td >JU</td><td>[15-17]</td>
+						        <td>P</td><td></td>
+						        <td>EL-406</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>2</td>
+			    <td>EL413ALI</td>
+			    <td>CONTROL III</td><td></td>
+			    <td>03</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL412</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">0</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ACUÑA-CHAVEZ-MELVIN</td><td >MA</td><td>[17-19]</td>
+						        <td>T</td><td></td>
+						        <td>EL-405</td><td  style="text-align:left">02</td></tr><tr><td>ACUÑA-CHAVEZ-MELVIN</td><td >JU</td><td>[17-19]</td>
+						        <td>P</td><td></td>
+						        <td>EL-405</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>3</td>
+			    <td>EL621ALI</td>
+			    <td>INSTRUMENTACION BIOMEDICA</td><td></td>
+			    <td>03</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL611</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">0</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>JIMENEZ-TRONCOSO-LUIS</td><td >MA</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>EL-406</td><td  style="text-align:left">02</td></tr><tr><td>JIMENEZ-TRONCOSO-LUIS</td><td >JU</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>EL-406</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>4</td>
+			    <td>EL431ALI</td>
+			    <td>INTELIGENCIA ARTIFICIAL</td><td></td>
+			    <td>03</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IF109 y EL411</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">0</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>VILLARES-HOLGUIN-CHRISTIAN DEYVI</td><td >MA</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>EL-406</td><td  style="text-align:left">02</td></tr><tr><td>VILLARES-HOLGUIN-CHRISTIAN DEYVI</td><td >VI</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>EL-406</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>5</td>
+			    <td>EL422ALI</td>
+			    <td>LABORATORIO DE CONTROL II</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL412</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">0</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>COAQUIRA-CASTILLO-ROGER JESUS</td><td >LU</td><td>[15-17]</td>
+						        <td>L</td><td></td>
+						        <td>EL-417</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>6</td>
+			    <td>EL552ALI</td>
+			    <td>LABORATORIO DE TELECOMUNICACIONES II</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL551 y EL541</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">0</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PALOMINO-PEÑA-CELSO</td><td >MI</td><td>[17-19]</td>
+						        <td>L</td><td></td>
+						        <td>EL-506</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>7</td>
+			    <td>EL552BLI</td>
+			    <td>LABORATORIO DE TELECOMUNICACIONES II</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL551 y EL541</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">0</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>APAZA-CANAZA-FELIPE</td><td >VI</td><td>[19-21]</td>
+						        <td>L</td><td></td>
+						        <td>EL-506</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>8</td>
+			    <td>EL552CLI</td>
+			    <td>LABORATORIO DE TELECOMUNICACIONES II</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL551 y EL541</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">0</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ARIZACA-CUSICUNA-JORGE LUIS</td><td >MA</td><td>[07-09]</td>
+						        <td>L</td><td></td>
+						        <td>EL-506</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>9</td>
+			    <td>EL416ZLI</td>
+			    <td>REDES INDUSTRIALES</td><td></td>
+			    <td>03</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL415</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">0</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td></td><td ></td><td>[00-00]</td>
+						        <td></td><td></td>
+						        <td></td><td  style="text-align:left">00</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>10</td>
+			    <td>EL545ALI</td>
+			    <td>SISTEMAS DE COMUNICACION I</td><td></td>
+			    <td>03</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL542</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">0</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ARIZACA-CUSICUNA-JORGE LUIS</td><td >LU</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>EL-405</td><td  style="text-align:left">02</td></tr><tr><td>ARIZACA-CUSICUNA-JORGE LUIS</td><td >MI</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>EL-405</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>11</td>
+			    <td>EL546ALI</td>
+			    <td>SISTEMAS DE COMUNICACION II</td><td></td>
+			    <td>03</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL545</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">0</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>HERRERA-LEVANO-JULIO CESAR</td><td >MA</td><td>[19-21]</td>
+						        <td>T</td><td></td>
+						        <td>EL-405</td><td  style="text-align:left">02</td></tr><tr><td>HERRERA-LEVANO-JULIO CESAR</td><td >JU</td><td>[19-21]</td>
+						        <td>P</td><td></td>
+						        <td>EL-405</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>12</td>
+			    <td>EL543ALI</td>
+			    <td>TRANSMISION DE DATOS Y REDES</td><td></td>
+			    <td>03</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL542</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">0</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>VELASQUEZ-CURO-MILTON JHON</td><td >MA</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>EL-506</td><td  style="text-align:left">02</td></tr><tr><td>VELASQUEZ-CURO-MILTON JHON</td><td >JU</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>EL-506</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>13</td>
+			    <td>DE901ALI</td>
+			    <td>CONSTITUCION POLITICA Y DERECHOS HUMANOS</td><td></td>
+			    <td>03</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">1</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>DIAZ-SILVA-ANSELMO</td><td >MA</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>EL-205</td><td  style="text-align:left">02</td></tr><tr><td>DIAZ-SILVA-ANSELMO</td><td >JU</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>EL-205</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>14</td>
+			    <td>ED901ALI</td>
+			    <td>ESTRATEGIAS DE APRENDIZAJE AUTONOMO</td><td></td>
+			    <td>04</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">1</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MENDOZA-TORREN-LUZ MARLENE</td><td >LU</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>EL-205</td><td  style="text-align:left">02</td></tr><tr><td>MENDOZA-TORREN-LUZ MARLENE</td><td >MI</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>EL-205</td><td  style="text-align:left">02</td></tr><tr><td>MENDOZA-TORREN-LUZ MARLENE</td><td >VI</td><td>[07-08]</td>
+						        <td>T</td><td></td>
+						        <td>EL-205</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>15</td>
+			    <td>FP901ALI</td>
+			    <td>FILOSOFIA Y ETICA</td><td></td>
+			    <td>03</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">1</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>                                                                 </td><td >MA</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>EL-205</td><td  style="text-align:left">02</td></tr><tr><td>                                                                 </td><td >JU</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>EL-205</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>16</td>
+			    <td>ME901ALI</td>
+			    <td>MATEMATICA I</td><td></td>
+			    <td>04</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">1</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>TTITO-TTICA-ELEUTERIA</td><td >LU</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>EL-205</td><td  style="text-align:left">02</td></tr><tr><td>TTITO-TTICA-ELEUTERIA</td><td >MI</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>EL-205</td><td  style="text-align:left">02</td></tr><tr><td>TTITO-TTICA-ELEUTERIA</td><td >VI</td><td>[11-12]</td>
+						        <td>T</td><td></td>
+						        <td>EL-205</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>17</td>
+			    <td>LC901ALI</td>
+			    <td>REDACCION DE TEXTOS</td><td></td>
+			    <td>04</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">1</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CONDORI-PAUCCARA-JOSE</td><td >LU</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>EL-205</td><td  style="text-align:left">02</td></tr><tr><td>CONDORI-PAUCCARA-JOSE</td><td >MI</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>EL-205</td><td  style="text-align:left">02</td></tr><tr><td>CONDORI-PAUCCARA-JOSE</td><td >VI</td><td>[09-10]</td>
+						        <td>T</td><td></td>
+						        <td>EL-205</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>18</td>
+			    <td>AS901ALI</td>
+			    <td>SOCIEDAD Y CULTURA</td><td></td>
+			    <td>03</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">1</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>NUÑEZ DEL PRADO-MORVELY-KAREN MABEL</td><td >MA</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>EL-205</td><td  style="text-align:left">02</td></tr><tr><td>NUÑEZ DEL PRADO-MORVELY-KAREN MABEL</td><td >JU</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>EL-205</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>19</td>
+			    <td>ME903ALI</td>
+			    <td>CÁLCULO I</td><td></td>
+			    <td>04</td>
+			    <td>EGT</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">ME901</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>QUISPE-CJUIRO-GINA</td><td >LU</td><td>[16-18]</td>
+						        <td>T</td><td></td>
+						        <td>EL-205</td><td  style="text-align:left">02</td></tr><tr><td>QUISPE-CJUIRO-GINA</td><td >MI</td><td>[16-18]</td>
+						        <td>P</td><td></td>
+						        <td>EL-205</td><td  style="text-align:left">02</td></tr><tr><td>QUISPE-CJUIRO-GINA</td><td >VI</td><td>[16-17]</td>
+						        <td>T</td><td></td>
+						        <td>EL-205</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>20</td>
+			    <td>FI902ALI</td>
+			    <td>FÍSICA I</td><td></td>
+			    <td>04</td>
+			    <td>EGT</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">15 Creds.</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CCOLLATUPA-BALLON-VENANCIA</td><td >LU</td><td>[14-16]</td>
+						        <td>T</td><td></td>
+						        <td>EL-205</td><td  style="text-align:left">02</td></tr><tr><td>CCOLLATUPA-BALLON-VENANCIA</td><td >MI</td><td>[14-16]</td>
+						        <td>P</td><td></td>
+						        <td>EL-205</td><td  style="text-align:left">02</td></tr><tr><td>CCOLLATUPA-BALLON-VENANCIA</td><td >VI</td><td>[14-15]</td>
+						        <td>T</td><td></td>
+						        <td>EL-205</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>21</td>
+			    <td>AR151ALI</td>
+			    <td>GEOMETRÍA DESCRIPTIVA</td><td></td>
+			    <td>04</td>
+			    <td>OEFE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>LOAYZA-VDA. DE MIRANDA- LUZ IVE</td><td >MA</td><td>[18-20]</td>
+						        <td>T</td><td></td>
+						        <td>EL-205</td><td  style="text-align:left">02</td></tr><tr><td>LOAYZA-VDA. DE MIRANDA- LUZ IVE</td><td >JU</td><td>[18-20]</td>
+						        <td>P</td><td></td>
+						        <td>EL-205</td><td  style="text-align:left">02</td></tr><tr><td>LOAYZA-VDA. DE MIRANDA- LUZ IVE</td><td >VI</td><td>[17-18]</td>
+						        <td>T</td><td></td>
+						        <td>EL-205</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>22</td>
+			    <td>FP902ALI</td>
+			    <td>LIDERAZGO Y HABILIDADES SOCIALES</td><td></td>
+			    <td>03</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">15 Creds.</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>LUNA-CCOA-VERÓNICA</td><td >MA</td><td>[16-18]</td>
+						        <td>T</td><td></td>
+						        <td>EL-205</td><td  style="text-align:left">02</td></tr><tr><td>LUNA-CCOA-VERÓNICA</td><td >JU</td><td>[16-18]</td>
+						        <td>P</td><td></td>
+						        <td>EL-205</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>23</td>
+			    <td>ME174ALI</td>
+			    <td>MATEMÁTICA II</td><td></td>
+			    <td>04</td>
+			    <td>OEFE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">ME901</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>RIOS-QUISPICHO-ZAIDINA</td><td >LU</td><td>[18-20]</td>
+						        <td>T</td><td></td>
+						        <td>EL-205</td><td  style="text-align:left">02</td></tr><tr><td>LIMA-RODRIGUEZ-MIJAEL ANDREE</td><td >MI</td><td>[18-20]</td>
+						        <td>P</td><td></td>
+						        <td>EL-205</td><td  style="text-align:left">02</td></tr><tr><td>RIOS-QUISPICHO-ZAIDINA</td><td >VI</td><td>[18-19]</td>
+						        <td>T</td><td></td>
+						        <td>EL-205</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>24</td>
+			    <td>IF902ALI</td>
+			    <td>TECNOLOGIAS DE LA INFORMACIÓN Y LA COMUNICACIÓN</td><td></td>
+			    <td>03</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">15 Creds.</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>LAVILLA-ALVAREZ-VANESA</td><td >MA</td><td>[14-16]</td>
+						        <td>L</td><td></td>
+						        <td>IN309</td><td  style="text-align:left">02</td></tr><tr><td>ABARCA-MORA-RAIMAR</td><td >JU</td><td>[14-16]</td>
+						        <td>T</td><td></td>
+						        <td>EL-205</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>25</td>
+			    <td>ME202ALI</td>
+			    <td>CALCULO II</td><td></td>
+			    <td>05</td>
+			    <td>EE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">ME903</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>VELASQUEZ-HACHA-IGNACIO</td><td >LU</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>EL-206</td><td  style="text-align:left">02</td></tr><tr><td>VELASQUEZ-HACHA-IGNACIO</td><td >MI</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>EL-206</td><td  style="text-align:left">02</td></tr><tr><td>VELASQUEZ-HACHA-IGNACIO</td><td >VI</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>EL-206</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>26</td>
+			    <td>FI106ALI</td>
+			    <td>FISICA II</td><td></td>
+			    <td>05</td>
+			    <td>EE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FI902</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CCARITA-CCARITA-FELIX</td><td >LU</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>EL-206</td><td  style="text-align:left">02</td></tr><tr><td>CCARITA-CCARITA-FELIX</td><td >MI</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>EL-206</td><td  style="text-align:left">02</td></tr><tr><td>CCARITA-CCARITA-FELIX</td><td >VI</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>EL-206</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>27</td>
+			    <td>FI107ALI</td>
+			    <td>FISICA III</td><td></td>
+			    <td>05</td>
+			    <td>EE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FI902</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>TELLO-YARIN-JONNY</td><td >LU</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>EL-206</td><td  style="text-align:left">02</td></tr><tr><td>TELLO-YARIN-JONNY</td><td >MI</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>EL-206</td><td  style="text-align:left">02</td></tr><tr><td>TELLO-YARIN-JONNY</td><td >VI</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>EL-206</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>28</td>
+			    <td>FI107BLI</td>
+			    <td>FISICA III</td><td></td>
+			    <td>05</td>
+			    <td>EE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FI902</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PEREZ-HUALLPA-JUVENAL</td><td >LU</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>K-101</td><td  style="text-align:left">02</td></tr><tr><td>PEREZ-HUALLPA-JUVENAL</td><td >MI</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>K-101</td><td  style="text-align:left">02</td></tr><tr><td>PEREZ-HUALLPA-JUVENAL</td><td >VI</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>K-101</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>29</td>
+			    <td>AD188ALI</td>
+			    <td>GESTION EMPRESARIAL</td><td></td>
+			    <td>03</td>
+			    <td>EE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">40 Creds.</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>BORDA-PILINCO-MANRIQUE</td><td >MA</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>EL-206</td><td  style="text-align:left">02</td></tr><tr><td>                                                                 </td><td >JU</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>EL-206</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>30</td>
+			    <td>IF107ALI</td>
+			    <td>PROGRAMACION DIGITAL I</td><td></td>
+			    <td>03</td>
+			    <td>EE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">ME174</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MONZON-CONDORI-LUIS ALVARO</td><td >MA</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>EL-206</td><td  style="text-align:left">02</td></tr><tr><td>ROZAS-DÁVILA-ALFREDO</td><td >JU</td><td>[11-13]</td>
+						        <td>P</td><td>A</td>
+						        <td>IN-301</td><td  style="text-align:left">02</td></tr><tr><td>CUTIPA-ARAPA-EFRAINA GLADYS</td><td >JU</td><td>[11-13]</td>
+						        <td>P</td><td>B</td>
+						        <td>IN-306</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>31</td>
+			    <td>IE151ALI</td>
+			    <td>ANALISIS DE CIRCUITOS ELECTRICOS I</td><td></td>
+			    <td>04</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">ME202 y FI107</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">4</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>TAPIA-RIVAS-VICTORIO</td><td >LU</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>EL-207</td><td  style="text-align:left">02</td></tr><tr><td>TAPIA-RIVAS-VICTORIO</td><td >MI</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>EL-207</td><td  style="text-align:left">02</td></tr><tr><td>TAPIA-RIVAS-VICTORIO</td><td >VI</td><td>[10-11]</td>
+						        <td>T</td><td></td>
+						        <td>EL-207</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>32</td>
+			    <td>ME203ALI</td>
+			    <td>CALCULO III</td><td></td>
+			    <td>05</td>
+			    <td>EE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">ME202</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">4</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CHILLITUPA-CARRASCO-MONICA VIVIANA</td><td >LU</td><td>[13-15]</td>
+						        <td>T</td><td></td>
+						        <td>EL-206</td><td  style="text-align:left">02</td></tr><tr><td>CHILLITUPA-CARRASCO-MONICA VIVIANA</td><td >MI</td><td>[13-15]</td>
+						        <td>T</td><td></td>
+						        <td>EL-206</td><td  style="text-align:left">02</td></tr><tr><td>CHILLITUPA-CARRASCO-MONICA VIVIANA</td><td >VI</td><td>[13-15]</td>
+						        <td>P</td><td></td>
+						        <td>EL-206</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>33</td>
+			    <td>ME610ALI</td>
+			    <td>ESTADISTICA Y PROBABILIDADES</td><td></td>
+			    <td>03</td>
+			    <td>EE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">ME202</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">4</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>RODRIGUEZ-QUISPE-DAVID</td><td >MA</td><td>[15-17]</td>
+						        <td>T</td><td></td>
+						        <td>EL-206</td><td  style="text-align:left">02</td></tr><tr><td>RODRIGUEZ-QUISPE-DAVID</td><td >JU</td><td>[15-17]</td>
+						        <td>P</td><td></td>
+						        <td>EL-206</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>34</td>
+			    <td>FI108ALI</td>
+			    <td>FÍSICA IV</td><td></td>
+			    <td>04</td>
+			    <td>EE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FI106 y FI107</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">4</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>TTITO-GUZMAN-PEDRO</td><td >LU</td><td>[15-17]</td>
+						        <td>T</td><td></td>
+						        <td>EL-206</td><td  style="text-align:left">02</td></tr><tr><td>TTITO-GUZMAN-PEDRO</td><td >MI</td><td>[15-17]</td>
+						        <td>P</td><td></td>
+						        <td>EL-206</td><td  style="text-align:left">02</td></tr><tr><td>TTITO-GUZMAN-PEDRO</td><td >VI</td><td>[16-17]</td>
+						        <td>T</td><td></td>
+						        <td>EL-206</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>35</td>
+			    <td>MC271ALI</td>
+			    <td>MECANICA DEL CUERPO RIGIDO</td><td></td>
+			    <td>03</td>
+			    <td>EE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FI902</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">4</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>FERNÁNDEZ BACA-PÉREZ-MARCOS</td><td >MA</td><td>[13-15]</td>
+						        <td>T</td><td></td>
+						        <td>EL-206</td><td  style="text-align:left">02</td></tr><tr><td>FERNÁNDEZ BACA-PÉREZ-MARCOS</td><td >JU</td><td>[13-15]</td>
+						        <td>P</td><td></td>
+						        <td>EL-206</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>36</td>
+			    <td>IF109ALI</td>
+			    <td>PROGRAMACIÓN DIGITAL II</td><td></td>
+			    <td>03</td>
+			    <td>EE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IF107</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">4</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>QUISPE-SOTA-JULIO VLADIMIR</td><td >MA</td><td>[17-19]</td>
+						        <td>T</td><td></td>
+						        <td>EL-206</td><td  style="text-align:left">02</td></tr><tr><td>ANDRADE-CARI-JOSE GUILLERMO</td><td >JU</td><td>[17-19]</td>
+						        <td>P</td><td></td>
+						        <td>IN-207</td><td  style="text-align:left">02</td></tr><tr><td>QUISPE-SOTA-JULIO VLADIMIR</td><td >JU</td><td>[17-19]</td>
+						        <td>P</td><td></td>
+						        <td>IN-306</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>37</td>
+			    <td>IE152ALI</td>
+			    <td>ANALISIS DE CIRCUITOS ELECTRICOS II</td><td></td>
+			    <td>03</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IE151</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>RIOS-TORBISCO-ALFREDO</td><td >LU</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>EL-106</td><td  style="text-align:left">02</td></tr><tr><td>RIOS-TORBISCO-ALFREDO</td><td >MI</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>EL-106</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>38</td>
+			    <td>MC272ALI</td>
+			    <td>DINAMICA DE FLUIDOS</td><td></td>
+			    <td>02</td>
+			    <td>EE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FI106</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>HOLGUINO-BORDA-ALEX GUIDO</td><td >LU</td><td>[15-17]</td>
+						        <td>T</td><td></td>
+						        <td>EL-207</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>39</td>
+			    <td>ME204ALI</td>
+			    <td>ECUACIONES DIFERENCIALES</td><td></td>
+			    <td>04</td>
+			    <td>EE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">ME203</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CHAPARRO-LAZO-FELIPE</td><td >LU</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>EL-207</td><td  style="text-align:left">02</td></tr><tr><td>CHAPARRO-LAZO-FELIPE</td><td >MI</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>EL-207</td><td  style="text-align:left">02</td></tr><tr><td>CHAPARRO-LAZO-FELIPE</td><td >VI</td><td>[07-08]</td>
+						        <td>T</td><td></td>
+						        <td>EL-207</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>40</td>
+			    <td>EL211ALI</td>
+			    <td>FUNDAMENTOS DE LA ELECTRONICA</td><td></td>
+			    <td>03</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FI108 y IE151</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>UTRILLA-MEGO-LIMBERG WALTER</td><td >MA</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>EL-106</td><td  style="text-align:left">02</td></tr><tr><td>UTRILLA-MEGO-LIMBERG WALTER</td><td >JU</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>EL-106</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>41</td>
+			    <td>EL211BLI</td>
+			    <td>FUNDAMENTOS DE LA ELECTRONICA</td><td></td>
+			    <td>03</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FI108 y IE151</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>UTRILLA-MEGO-LIMBERG WALTER</td><td >LU</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>EL-207</td><td  style="text-align:left">02</td></tr><tr><td>UTRILLA-MEGO-LIMBERG WALTER</td><td >VI</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>EL-107</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>42</td>
+			    <td>IE191ALI</td>
+			    <td>LABORATORIO DE CIRCUITOS ELECTRICOS I</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IE151</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>                                                                 </td><td >LU</td><td>[11-13]</td>
+						        <td>L</td><td></td>
+						        <td>PIE-209</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>43</td>
+			    <td>IE191BLI</td>
+			    <td>LABORATORIO DE CIRCUITOS ELECTRICOS I</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IE151</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>BUSTAMANTE-CUTIPA-CINTYA INDIRA</td><td >VI</td><td>[13-15]</td>
+						        <td>L</td><td></td>
+						        <td>PIE-209</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>44</td>
+			    <td>IE191CLI</td>
+			    <td>LABORATORIO DE CIRCUITOS ELECTRICOS I</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IE151</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>                                                                 </td><td >MI</td><td>[13-15]</td>
+						        <td>L</td><td></td>
+						        <td>PIE-209</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>45</td>
+			    <td>IE191DLI</td>
+			    <td>LABORATORIO DE CIRCUITOS ELECTRICOS I</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IE151</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>BUSTAMANTE-CUTIPA-CINTYA INDIRA</td><td >JU</td><td>[13-15]</td>
+						        <td>L</td><td></td>
+						        <td>PIE-209</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>46</td>
+			    <td>IE191ELI</td>
+			    <td>LABORATORIO DE CIRCUITOS ELECTRICOS I</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IE151</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>                                                                 </td><td >MA</td><td>[11-13]</td>
+						        <td>L</td><td></td>
+						        <td>PIE-209</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>47</td>
+			    <td>EL221ALI</td>
+			    <td>LABORATORIO DE FUNDAMENTOS DE ELECTRONICA</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FI108 y IE151</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>UTRILLA-MEGO-LIMBERG WALTER</td><td >MA</td><td>[11-13]</td>
+						        <td>L</td><td></td>
+						        <td>EL-316</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>48</td>
+			    <td>EL221BLI</td>
+			    <td>LABORATORIO DE FUNDAMENTOS DE ELECTRONICA</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FI108 y IE151</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>VELASQUEZ-CURO-MILTON JHON</td><td >JU</td><td>[11-13]</td>
+						        <td>L</td><td></td>
+						        <td>EL-316</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>49</td>
+			    <td>EL221CLI</td>
+			    <td>LABORATORIO DE FUNDAMENTOS DE ELECTRONICA</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FI108 y IE151</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>UTRILLA-MEGO-LIMBERG WALTER</td><td >MA</td><td>[15-17]</td>
+						        <td>L</td><td></td>
+						        <td>EL-316</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>50</td>
+			    <td>EL221DLI</td>
+			    <td>LABORATORIO DE FUNDAMENTOS DE ELECTRONICA</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FI108 y IE151</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>UTRILLA-MEGO-LIMBERG WALTER</td><td >MA</td><td>[17-19]</td>
+						        <td>L</td><td></td>
+						        <td>EL-316</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>51</td>
+			    <td>ME206ALI</td>
+			    <td>METODOS NUMERICOS</td><td></td>
+			    <td>03</td>
+			    <td>EE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">ME203</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>SARCCO USTO ABEL</td><td >MI</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>EL-207</td><td  style="text-align:left">02</td></tr><tr><td>SARCCO USTO ABEL</td><td >VI</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>EL-207</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>52</td>
+			    <td>FI109ALI</td>
+			    <td>TEORIA DE CAMPOS ELECTROMAGNETICOS</td><td></td>
+			    <td>04</td>
+			    <td>EE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FI108 y ME203</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>GARCIA-ROCA-SAYRI TUPAC</td><td >MA</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>EL-207</td><td  style="text-align:left">02</td></tr><tr><td>GARCIA-ROCA-SAYRI TUPAC</td><td >JU</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>EL-207</td><td  style="text-align:left">02</td></tr><tr><td>GARCIA-ROCA-SAYRI TUPAC</td><td >VI</td><td>[08-09]</td>
+						        <td>T</td><td></td>
+						        <td>EL-207</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>53</td>
+			    <td>EL212ALI</td>
+			    <td>CIRCUITOS ELECTRÓNICOS I</td><td></td>
+			    <td>04</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL211 y EL221</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>VILLARES-HOLGUIN-CHRISTIAN DEYVI</td><td >MA</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>EL-406</td><td  style="text-align:left">02</td></tr><tr><td>VILLARES-HOLGUIN-CHRISTIAN DEYVI</td><td >MI</td><td>[11-12]</td>
+						        <td>T</td><td></td>
+						        <td>EL-106</td><td  style="text-align:left">01</td></tr><tr><td>VILLARES-HOLGUIN-CHRISTIAN DEYVI</td><td >JU</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>EL-406</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>54</td>
+			    <td>EL212BLI</td>
+			    <td>CIRCUITOS ELECTRÓNICOS I</td><td></td>
+			    <td>04</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL211 y EL221</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PALOMINO-LOPEZ-ALEXANDER</td><td >MA</td><td>[07-08]</td>
+						        <td>T</td><td></td>
+						        <td>EL-107</td><td  style="text-align:left">01</td></tr><tr><td>PALOMINO-LOPEZ-ALEXANDER</td><td >JU</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>EL-107</td><td  style="text-align:left">02</td></tr><tr><td>PALOMINO-LOPEZ-ALEXANDER</td><td >VI</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>EL-107</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>55</td>
+			    <td>EL500ALI</td>
+			    <td>FUNDAMENTOS DE SEÑALES Y SISTEMAS</td><td></td>
+			    <td>04</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">ME204</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CAMPANA-VARGAS-RICARDO</td><td >LU</td><td>[17-19]</td>
+						        <td>T</td><td></td>
+						        <td>EL-406</td><td  style="text-align:left">02</td></tr><tr><td>CAMPANA-VARGAS-RICARDO</td><td >MI</td><td>[17-19]</td>
+						        <td>P</td><td></td>
+						        <td>EL-406</td><td  style="text-align:left">02</td></tr><tr><td>CAMPANA-VARGAS-RICARDO</td><td >VI</td><td>[08-09]</td>
+						        <td>T</td><td></td>
+						        <td>EL-106</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>56</td>
+			    <td>IE192ALI</td>
+			    <td>LABORATORIO DE CIRCUITOS ELÉCTRICOS II</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IE152 y IE191</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>BUSTAMANTE-CUTIPA-CINTYA INDIRA</td><td >LU</td><td>[13-15]</td>
+						        <td>L</td><td></td>
+						        <td>PIE-105</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>57</td>
+			    <td>IE192BLI</td>
+			    <td>LABORATORIO DE CIRCUITOS ELÉCTRICOS II</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IE152 y IE191</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>                                                                 </td><td >MA</td><td>[13-15]</td>
+						        <td>L</td><td></td>
+						        <td>PIE-105</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>58</td>
+			    <td>IE192CLI</td>
+			    <td>LABORATORIO DE CIRCUITOS ELÉCTRICOS II</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IE152 y IE191</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>BUSTAMANTE-CUTIPA-CINTYA INDIRA</td><td >MI</td><td>[13-15]</td>
+						        <td>L</td><td></td>
+						        <td>PIE-105</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>59</td>
+			    <td>IE192DLI</td>
+			    <td>LABORATORIO DE CIRCUITOS ELÉCTRICOS II</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IE152 y IE191</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>                                                                 </td><td >JU</td><td>[13-15]</td>
+						        <td>L</td><td></td>
+						        <td>PIE-105</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>60</td>
+			    <td>IE192ELI</td>
+			    <td>LABORATORIO DE CIRCUITOS ELÉCTRICOS II</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IE152 y IE191</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>                                                                 </td><td >VI</td><td>[11-13]</td>
+						        <td>L</td><td></td>
+						        <td>PIE-105</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>61</td>
+			    <td>EL222BLI</td>
+			    <td>LABORATORIO DE CIRCUITOS ELECTRÓNICOS I</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL211 y EL221</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>VELASQUEZ-CURO-MILTON JHON</td><td >VI</td><td>[09-11]</td>
+						        <td>L</td><td></td>
+						        <td>EL-313</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>62</td>
+			    <td>EL222CLI</td>
+			    <td>LABORATORIO DE CIRCUITOS ELECTRÓNICOS I</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL211 y EL221</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PALOMINO-PEÑA-CELSO</td><td >MI</td><td>[19-21]</td>
+						        <td>L</td><td></td>
+						        <td>EL-313</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>63</td>
+			    <td>EL222DLI</td>
+			    <td>LABORATORIO DE CIRCUITOS ELECTRÓNICOS I</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL211 y EL221</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PALOMINO-PEÑA-CELSO</td><td >LU</td><td>[19-21]</td>
+						        <td>L</td><td></td>
+						        <td>EL-313</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>64</td>
+			    <td>IE356ALI</td>
+			    <td>LABORATORIO DE MÁQUINAS ELÉCTRICAS</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IE152</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ENCISO-HUARCAYA-JESUS BRADIL</td><td >MA</td><td>[09-11]</td>
+						        <td>L</td><td></td>
+						        <td>PIE-213</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>65</td>
+			    <td>IE356BLI</td>
+			    <td>LABORATORIO DE MÁQUINAS ELÉCTRICAS</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IE152</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ENCISO-HUARCAYA-JESUS BRADIL</td><td >VI</td><td>[09-11]</td>
+						        <td>L</td><td></td>
+						        <td>PIE-213</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>66</td>
+			    <td>IE356CLI</td>
+			    <td>LABORATORIO DE MÁQUINAS ELÉCTRICAS</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IE152</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>VILLAGRA-ALVAREZ-YURI</td><td >MI</td><td>[15-17]</td>
+						        <td>L</td><td></td>
+						        <td>PIE-213</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>67</td>
+			    <td>IE356DLI</td>
+			    <td>LABORATORIO DE MÁQUINAS ELÉCTRICAS</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IE152</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>VILLAGRA-ALVAREZ-YURI</td><td >JU</td><td>[15-17]</td>
+						        <td>L</td><td></td>
+						        <td>PIE-213</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>68</td>
+			    <td>IE355ALI</td>
+			    <td>MÁQUINAS ELÉCTRICAS</td><td></td>
+			    <td>03</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">IE152</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>LIMA-MEDINA-GIOVANNI</td><td >LU</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>EL-106</td><td  style="text-align:left">02</td></tr><tr><td>LIMA-MEDINA-GIOVANNI</td><td >MI</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>EL-106</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>69</td>
+			    <td>EL511ALI</td>
+			    <td>PROPAGACIÓN ELECTROMAGNETICA</td><td></td>
+			    <td>04</td>
+			    <td>EE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">ME204 y FI109</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>VILLARES-HOLGUIN-CHRISTIAN DEYVI</td><td >MA</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>EL-207</td><td  style="text-align:left">02</td></tr><tr><td>VILLARES-HOLGUIN-CHRISTIAN DEYVI</td><td >JU</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>EL-207</td><td  style="text-align:left">02</td></tr><tr><td>VILLARES-HOLGUIN-CHRISTIAN DEYVI</td><td >VI</td><td>[09-10]</td>
+						        <td>T</td><td></td>
+						        <td>EL-207</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>70</td>
+			    <td>EL511BLI</td>
+			    <td>PROPAGACIÓN ELECTROMAGNETICA</td><td></td>
+			    <td>04</td>
+			    <td>EE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">ME204 y FI109</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>HUICHO-MENDIGURE-ALFZ</td><td >MI</td><td>[17-18]</td>
+						        <td>T</td><td></td>
+						        <td>EL-207</td><td  style="text-align:left">01</td></tr><tr><td>HUICHO-MENDIGURE-ALFZ</td><td >JU</td><td>[17-19]</td>
+						        <td>T</td><td></td>
+						        <td>EL-207</td><td  style="text-align:left">02</td></tr><tr><td>HUICHO-MENDIGURE-ALFZ</td><td >VI</td><td>[17-19]</td>
+						        <td>P</td><td></td>
+						        <td>EL-207</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>71</td>
+			    <td>EL311ALI</td>
+			    <td>SISTEMAS DIGITALES I</td><td></td>
+			    <td>03</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL211</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PALOMINO-PEÑA-CELSO</td><td >LU</td><td>[15-17]</td>
+						        <td>T</td><td></td>
+						        <td>EL-405</td><td  style="text-align:left">02</td></tr><tr><td>PALOMINO-PEÑA-CELSO</td><td >MI</td><td>[15-17]</td>
+						        <td>P</td><td></td>
+						        <td>EL-405</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>72</td>
+			    <td>EL311BLI</td>
+			    <td>SISTEMAS DIGITALES I</td><td></td>
+			    <td>03</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL211</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>VALDEZ-MONZON-ANGHELA NIEVES</td><td >MA</td><td>[15-17]</td>
+						        <td>T</td><td></td>
+						        <td>EL-106</td><td  style="text-align:left">02</td></tr><tr><td>VALDEZ-MONZON-ANGHELA NIEVES</td><td >VI</td><td>[15-17]</td>
+						        <td>P</td><td></td>
+						        <td>EL-106</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>73</td>
+			    <td>EL213ALI</td>
+			    <td>CIRCUITOS ELECTRÓNICOS II</td><td></td>
+			    <td>04</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL212 y EL222</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CHILLITUPA-CARRASCO-MIGUEL ANGEL</td><td >MA</td><td>[08-09]</td>
+						        <td>T</td><td></td>
+						        <td>EL-305</td><td  style="text-align:left">01</td></tr><tr><td>CHILLITUPA-CARRASCO-MIGUEL ANGEL</td><td >JU</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>EL-305</td><td  style="text-align:left">02</td></tr><tr><td>CHILLITUPA-CARRASCO-MIGUEL ANGEL</td><td >VI</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>EL-305</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>74</td>
+			    <td>EL213BLI</td>
+			    <td>CIRCUITOS ELECTRÓNICOS II</td><td></td>
+			    <td>04</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL212 y EL222</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PALOMINO-LOPEZ-ALEXANDER</td><td >MA</td><td>[08-09]</td>
+						        <td>T</td><td></td>
+						        <td>EL-107</td><td  style="text-align:left">01</td></tr><tr><td>PALOMINO-LOPEZ-ALEXANDER</td><td >MI</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>EL-107</td><td  style="text-align:left">02</td></tr><tr><td>PALOMINO-LOPEZ-ALEXANDER</td><td >VI</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>EL-107</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>75</td>
+			    <td>EL411ALI</td>
+			    <td>CONTROL I</td><td></td>
+			    <td>04</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL500 y EL212</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PALOMINO-QUISPE-FACUNDO</td><td >LU</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>EL-305</td><td  style="text-align:left">02</td></tr><tr><td>PALOMINO-QUISPE-FACUNDO</td><td >MA</td><td>[07-08]</td>
+						        <td>T</td><td></td>
+						        <td>EL-305</td><td  style="text-align:left">01</td></tr><tr><td>PALOMINO-QUISPE-FACUNDO</td><td >MI</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>EL-305</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>76</td>
+			    <td>EL223ALI</td>
+			    <td>LABORATORIO DE CIRCUITOS ELECTRÓNICOS II</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL212 y EL222</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>VILLARES-HOLGUIN-CHRISTIAN DEYVI</td><td >LU</td><td>[15-17]</td>
+						        <td>L</td><td></td>
+						        <td>EL-316</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>77</td>
+			    <td>EL223BLI</td>
+			    <td>LABORATORIO DE CIRCUITOS ELECTRÓNICOS II</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL212 y EL222</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>VARGAS-MATEOS-WILLY</td><td >MI</td><td>[15-17]</td>
+						        <td>L</td><td></td>
+						        <td>EL-316</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>78</td>
+			    <td>EL223CLI</td>
+			    <td>LABORATORIO DE CIRCUITOS ELECTRÓNICOS II</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL212 y EL222</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>TAGLE-CARBAJAL-FERNANDO</td><td >VI</td><td>[09-11]</td>
+						        <td>L</td><td></td>
+						        <td>EL-316</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>79</td>
+			    <td>EL223DLI</td>
+			    <td>LABORATORIO DE CIRCUITOS ELECTRÓNICOS II</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL212 y EL222</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>VILLARES-HOLGUIN-CHRISTIAN DEYVI</td><td >JU</td><td>[19-21]</td>
+						        <td>L</td><td></td>
+						        <td>EL-316</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>80</td>
+			    <td>EL321ALI</td>
+			    <td>LABORATORIO DE SISTEMAS DIGITALES I</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL311</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>COAQUIRA-CASTILLO-ROGER JESUS</td><td >MA</td><td>[15-17]</td>
+						        <td>L</td><td></td>
+						        <td>EL-412</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>81</td>
+			    <td>EL321CLI</td>
+			    <td>LABORATORIO DE SISTEMAS DIGITALES I</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL311</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>HERRERA-LEVANO-JULIO CESAR</td><td >JU</td><td>[17-19]</td>
+						        <td>L</td><td></td>
+						        <td>EL-412</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>82</td>
+			    <td>EL551ALI</td>
+			    <td>LABORATORIO DE TELECOMUNICACIONES I</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL500 y EL511</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PALOMINO-LOPEZ-ALEXANDER</td><td >LU</td><td>[19-21]</td>
+						        <td>L</td><td></td>
+						        <td>EL-506</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>83</td>
+			    <td>EL551BLI</td>
+			    <td>LABORATORIO DE TELECOMUNICACIONES I</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL500 y EL511</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PALOMINO-LOPEZ-ALEXANDER</td><td >LU</td><td>[17-19]</td>
+						        <td>L</td><td></td>
+						        <td>EL-506</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>84</td>
+			    <td>EL551CLI</td>
+			    <td>LABORATORIO DE TELECOMUNICACIONES I</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL500 y EL511</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PALOMINO-LOPEZ-ALEXANDER</td><td >MI</td><td>[17-19]</td>
+						        <td>L</td><td></td>
+						        <td>EL-507</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>85</td>
+			    <td>EL501ALI</td>
+			    <td>SEÑALES Y SISTEMAS</td><td></td>
+			    <td>04</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL500</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>TAGLE-CARBAJAL-FERNANDO</td><td >MA</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>EL-305</td><td  style="text-align:left">02</td></tr><tr><td>TAGLE-CARBAJAL-FERNANDO</td><td >JU</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>EL-305</td><td  style="text-align:left">02</td></tr><tr><td>TAGLE-CARBAJAL-FERNANDO</td><td >VI</td><td>[07-08]</td>
+						        <td>T</td><td></td>
+						        <td>EL-305</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>86</td>
+			    <td>EL312ALI</td>
+			    <td>SISTEMAS DIGITALES II</td><td></td>
+			    <td>03</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL311</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>VARGAS-MATEOS-WILLY</td><td >MA</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>EL-305</td><td  style="text-align:left">02</td></tr><tr><td>VARGAS-MATEOS-WILLY</td><td >JU</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>EL-305</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>87</td>
+			    <td>EL312BLI</td>
+			    <td>SISTEMAS DIGITALES II</td><td></td>
+			    <td>03</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL311</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>JANCCO-CHARA-JHOHAN</td><td >LU</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>EL-107</td><td  style="text-align:left">02</td></tr><tr><td>JANCCO-CHARA-JHOHAN</td><td >MI</td><td>[13-15]</td>
+						        <td>P</td><td></td>
+						        <td>EL-107</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>88</td>
+			    <td>EL541ALI</td>
+			    <td>TELECOMUNICACIONES I</td><td></td>
+			    <td>04</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL500 y EL511</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>TAGLE-CARBAJAL-FERNANDO</td><td >LU</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>EL-305</td><td  style="text-align:left">02</td></tr><tr><td>TAGLE-CARBAJAL-FERNANDO</td><td >MI</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>EL-305</td><td  style="text-align:left">02</td></tr><tr><td>TAGLE-CARBAJAL-FERNANDO</td><td >VI</td><td>[08-09]</td>
+						        <td>T</td><td></td>
+						        <td>EL-305</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>89</td>
+			    <td>EL313ALI</td>
+			    <td>ARQUITECTURA DE MICROPROCESADORES Y MICROCONTROLADORES</td><td></td>
+			    <td>03</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL312 y EL321</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>QUISPE-MESCCO-ALEX JHON</td><td >JU</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>EL-405</td><td  style="text-align:left">02</td></tr><tr><td>QUISPE-MESCCO-ALEX JHON</td><td >VI</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>EL-405</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>90</td>
+			    <td>EL214ALI</td>
+			    <td>CIRCUITOS ELECTRONICOS III</td><td></td>
+			    <td>04</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL213 y EL223</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PALOMINO-PEÑA-CELSO</td><td >MA</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>EL-405</td><td  style="text-align:left">02</td></tr><tr><td>PALOMINO-PEÑA-CELSO</td><td >JU</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>EL-405</td><td  style="text-align:left">02</td></tr><tr><td>PALOMINO-PEÑA-CELSO</td><td >VI</td><td>[15-16]</td>
+						        <td>T</td><td></td>
+						        <td>EL-405</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>91</td>
+			    <td>EL412ALI</td>
+			    <td>CONTROL II</td><td></td>
+			    <td>04</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL411</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CHILLITUPA-CARRASCO-MIGUEL ANGEL</td><td >LU</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>EL-405</td><td  style="text-align:left">02</td></tr><tr><td>CHILLITUPA-CARRASCO-MIGUEL ANGEL</td><td >MI</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>EL-405</td><td  style="text-align:left">02</td></tr><tr><td>CHILLITUPA-CARRASCO-MIGUEL ANGEL</td><td >VI</td><td>[11-12]</td>
+						        <td>T</td><td></td>
+						        <td>EL-405</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>92</td>
+			    <td>EL412BLI</td>
+			    <td>CONTROL II</td><td></td>
+			    <td>04</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL411</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>COAQUIRA-CASTILLO-ROGER JESUS</td><td >LU</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>EL-406</td><td  style="text-align:left">02</td></tr><tr><td>COAQUIRA-CASTILLO-ROGER JESUS</td><td >MA</td><td>[13-14]</td>
+						        <td>T</td><td></td>
+						        <td>EL-406</td><td  style="text-align:left">01</td></tr><tr><td>COAQUIRA-CASTILLO-ROGER JESUS</td><td >MI</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>EL-406</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>93</td>
+			    <td>EL224BLI</td>
+			    <td>LABORATORIO DE CIRCUITOS ELECTRÓNICOS III</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL213 y EL223</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>JANCCO-CHARA-JHOHAN</td><td >VI</td><td>[13-15]</td>
+						        <td>L</td><td></td>
+						        <td>EL-417</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>94</td>
+			    <td>EL224CLI</td>
+			    <td>LABORATORIO DE CIRCUITOS ELECTRÓNICOS III</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL213 y EL223</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>JANCCO-CHARA-JHOHAN</td><td >LU</td><td>[13-15]</td>
+						        <td>L</td><td></td>
+						        <td>EL-316</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>95</td>
+			    <td>EL421ALI</td>
+			    <td>LABORATORIO DE CONTROL I</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL411</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CHILLITUPA-CARRASCO-MIGUEL ANGEL</td><td >MA</td><td>[17-19]</td>
+						        <td>L</td><td></td>
+						        <td>EL-417</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>96</td>
+			    <td>EL421BLI</td>
+			    <td>LABORATORIO DE CONTROL I</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL411</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>HUICHO-MENDIGURE-ALFZ</td><td >VI</td><td>[19-21]</td>
+						        <td>L</td><td></td>
+						        <td>EL-417</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>97</td>
+			    <td>EL421CLI</td>
+			    <td>LABORATORIO DE CONTROL I</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL411</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CHILLITUPA-CARRASCO-MIGUEL ANGEL</td><td >MI</td><td>[19-21]</td>
+						        <td>L</td><td></td>
+						        <td>EL-417</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>98</td>
+			    <td>EL421DLI</td>
+			    <td>LABORATORIO DE CONTROL I</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL411</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>APAZA-CANAZA-FELIPE</td><td >MI</td><td>[13-15]</td>
+						        <td>L</td><td></td>
+						        <td>EL-417</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>99</td>
+			    <td>EL322ALI</td>
+			    <td>LABORATORIO DE SISTEMAS DIGITALES II</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL311 y EL321</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>APAZA-CANAZA-FELIPE</td><td >LU</td><td>[11-13]</td>
+						        <td>L</td><td></td>
+						        <td>EL-412</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>100</td>
+			    <td>EL322BLI</td>
+			    <td>LABORATORIO DE SISTEMAS DIGITALES II</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL311 y EL321</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CHILLITUPA-CARRASCO-MIGUEL ANGEL</td><td >MI</td><td>[15-17]</td>
+						        <td>L</td><td></td>
+						        <td>EL-412</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>101</td>
+			    <td>EL322CLI</td>
+			    <td>LABORATORIO DE SISTEMAS DIGITALES II</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL311 y EL321</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PALOMINO-QUISPE-FACUNDO</td><td >LU</td><td>[17-19]</td>
+						        <td>L</td><td></td>
+						        <td>EL-412</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>102</td>
+			    <td>EL322DLI</td>
+			    <td>LABORATORIO DE SISTEMAS DIGITALES II</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL311 y EL321</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PALOMINO-QUISPE-FACUNDO</td><td >MI</td><td>[17-19]</td>
+						        <td>L</td><td></td>
+						        <td>EL-412</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>103</td>
+			    <td>EL331ALI</td>
+			    <td>PROCESAMIENTO DIGITAL DE SEÑALES</td><td></td>
+			    <td>03</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL501 y IF109</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CAMPANA-VARGAS-RICARDO</td><td >MA</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>EL-405</td><td  style="text-align:left">02</td></tr><tr><td>CAMPANA-VARGAS-RICARDO</td><td >JU</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>EL-405</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>104</td>
+			    <td>EL542ALI</td>
+			    <td>TELECOMUNICACIONES II</td><td></td>
+			    <td>04</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL541 y EL551</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PALOMINO-PEÑA-CELSO</td><td >MA</td><td>[15-17]</td>
+						        <td>T</td><td></td>
+						        <td>EL-405</td><td  style="text-align:left">02</td></tr><tr><td>PALOMINO-PEÑA-CELSO</td><td >JU</td><td>[15-17]</td>
+						        <td>P</td><td></td>
+						        <td>EL-405</td><td  style="text-align:left">02</td></tr><tr><td>PALOMINO-PEÑA-CELSO</td><td >VI</td><td>[16-17]</td>
+						        <td>T</td><td></td>
+						        <td>EL-405</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>105</td>
+			    <td>EL611ALI</td>
+			    <td>FUNDAMENTOS DE BIOINGENIERIA</td><td></td>
+			    <td>03</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL331</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">9</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>USCAMAITA-QUISPETUPA-ROSSY</td><td >JU</td><td>[15-17]</td>
+						        <td>T</td><td></td>
+						        <td>EL-305</td><td  style="text-align:left">02</td></tr><tr><td>USCAMAITA-QUISPETUPA-ROSSY</td><td >VI</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>EL-305</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>106</td>
+			    <td>EL231ALI</td>
+			    <td>INSTRUMENTACION ELECTRONICA</td><td></td>
+			    <td>03</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL213 y EL411</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">9</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>JIMENEZ-TRONCOSO-LUIS</td><td >LU</td><td>[15-17]</td>
+						        <td>T</td><td></td>
+						        <td>EL-406</td><td  style="text-align:left">02</td></tr><tr><td>JIMENEZ-TRONCOSO-LUIS</td><td >MI</td><td>[15-17]</td>
+						        <td>P</td><td></td>
+						        <td>EL-406</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>107</td>
+			    <td>EL415ALI</td>
+			    <td>SISTEMAS DE CONTROL INDUSTRIAL</td><td></td>
+			    <td>03</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL412</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">9</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>USCAMAITA-QUISPETUPA-ROSSY</td><td >MA</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>EL-405</td><td  style="text-align:left">02</td></tr><tr><td>USCAMAITA-QUISPETUPA-ROSSY</td><td >VI</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>EL-405</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>108</td>
+			    <td>EL215ALI</td>
+			    <td>SISTEMAS ELECTRONICOS</td><td></td>
+			    <td>03</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL214 y EL224</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">9</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CAMPANA-VARGAS-RICARDO</td><td >MA</td><td>[17-19]</td>
+						        <td>T</td><td></td>
+						        <td>EL-406</td><td  style="text-align:left">02</td></tr><tr><td>CAMPANA-VARGAS-RICARDO</td><td >JU</td><td>[17-19]</td>
+						        <td>P</td><td></td>
+						        <td>EL-406</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>109</td>
+			    <td>EL507ALI</td>
+			    <td>FORMULACION Y GESTION DE PROYECTOS DE INGENIERIA ELECTRONICA</td><td></td>
+			    <td>03</td>
+			    <td>EE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">ME610 y 190</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">10</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>HERRERA-LEVANO-JULIO CESAR</td><td >LU</td><td>[19-21]</td>
+						        <td>T</td><td></td>
+						        <td>EL-405</td><td  style="text-align:left">02</td></tr><tr><td>HERRERA-LEVANO-JULIO CESAR</td><td >MI</td><td>[19-21]</td>
+						        <td>P</td><td></td>
+						        <td>EL-405</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>110</td>
+			    <td>EL623ALI</td>
+			    <td>LABORATORIO DE BIOINGENIERIA</td><td></td>
+			    <td>02</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL611</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">10</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>JIMENEZ-TRONCOSO-LUIS</td><td >LU</td><td>[17-19]</td>
+						        <td>L</td><td></td>
+						        <td>EL-317</td><td  style="text-align:left">02</td></tr><tr><td>JIMENEZ-TRONCOSO-LUIS</td><td >LU</td><td>[19-20]</td>
+						        <td>T</td><td></td>
+						        <td>EL-317</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>111</td>
+			    <td>EL623BLI</td>
+			    <td>LABORATORIO DE BIOINGENIERIA</td><td></td>
+			    <td>02</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL611</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">10</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>APAZA-CANAZA-FELIPE</td><td >MI</td><td>[17-19]</td>
+						        <td>L</td><td></td>
+						        <td>EL-317</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>112</td>
+			    <td>EL232ALI</td>
+			    <td>LABORATORIO DE INSTRUMENTACION ELECTRONICA</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL231</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">10</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>VARGAS-MATEOS-WILLY</td><td >MA</td><td>[17-19]</td>
+						        <td>L</td><td></td>
+						        <td>EL-313</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>113</td>
+			    <td>EL232CLI</td>
+			    <td>LABORATORIO DE INSTRUMENTACION ELECTRONICA</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL231</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">10</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>HUICHO-MENDIGURE-ALFZ</td><td >VI</td><td>[13-15]</td>
+						        <td>L</td><td></td>
+						        <td>EL-313</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>114</td>
+			    <td>EL243ALI</td>
+			    <td>LABORATORIO DE SISTEMAS ELECTRONICOS DE POTENCIA</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL241</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">10</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>JANCCO-CHARA-JHOHAN</td><td >MI</td><td>[09-11]</td>
+						        <td>L</td><td></td>
+						        <td>EL-316</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>115</td>
+			    <td>EL243BLI</td>
+			    <td>LABORATORIO DE SISTEMAS ELECTRONICOS DE POTENCIA</td><td></td>
+			    <td>01</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL241</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">10</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>JANCCO-CHARA-JHOHAN</td><td >LU</td><td>[09-11]</td>
+						        <td>L</td><td></td>
+						        <td>EL-316</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>116</td>
+			    <td>EL323ALI</td>
+			    <td>LABORATORIO DE SISTEMAS EMBEBIDOS</td><td></td>
+			    <td>02</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL322 y EL313</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">10</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>QUISPE-MESCCO-ALEX JHON</td><td >JU</td><td>[09-11]</td>
+						        <td>L</td><td></td>
+						        <td>EL-412</td><td  style="text-align:left">02</td></tr><tr><td>QUISPE-MESCCO-ALEX JHON</td><td >VI</td><td>[09-11]</td>
+						        <td>L</td><td></td>
+						        <td>EL-412</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>117</td>
+			    <td>EL323BLI</td>
+			    <td>LABORATORIO DE SISTEMAS EMBEBIDOS</td><td></td>
+			    <td>02</td>
+			    <td>ES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">EL322 y EL313</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">10</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>QUISPE-MESCCO-ALEX JHON</td><td >JU</td><td>[15-17]</td>
+						        <td>L</td><td></td>
+						        <td>EL-412</td><td  style="text-align:left">02</td></tr><tr><td>QUISPE-MESCCO-ALEX JHON</td><td >VI</td><td>[15-17]</td>
+						        <td>L</td><td></td>
+						        <td>EL-412</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>118</td>
+			    <td>EL701ALI</td>
+			    <td>SEMINARIO DE INVESTIGACION APLICADA</td><td></td>
+			    <td>03</td>
+			    <td>EE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">ME610 y 180</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">10</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>VELASQUEZ-CURO-MILTON JHON</td><td >LU</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>EL-406</td><td  style="text-align:left">02</td></tr><tr><td>VELASQUEZ-CURO-MILTON JHON</td><td >VI</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>EL-406</td><td  style="text-align:left">02</td></tr></table>
