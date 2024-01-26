@@ -1,0 +1,1600 @@
+
+
+<div style="text-align:center;color:#990000; font-size:16px;font-weight:bold">
+				CATALOGO SEMESTRE:2023-1<br/></div>
+				<div style="text-align:center;color:#990000; font-size:14px;font-weight:bold;text-decoration:underline"><br/>DETALLE DE ASIGNATURAS</div><table id="hor-minimalist-b" width="85%" >
+					<thead>
+						<tr>
+							<td >Nro</td><td>CURSO</td><td colspan="2">NOMBRE DE CURSO</td>
+							<td>CR</td><td>CAT</td><td>REQUISITO</td>
+							<td>N° SEM</td>
+							<td>OBS</td>
+							<td>CURRICULA</td>
+						</tr>
+					</thead><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>1</td>
+			    <td>DE901AVS</td>
+			    <td>CONSTITUCION POLITICA Y DERECHOS HUMANOS</td><td></td>
+			    <td>03</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold"></td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>TTITO-TTICA-ANTONIA</td><td>MA</td><td>[07-09]</td>
+						     <td>T</td><td></td>
+						     <td>AS-101</td><td  style="text-align:left">02</td></tr><tr><td>TTITO-TTICA-ANTONIA</td><td >JU</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>AS-101</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>2</td>
+			    <td>ED901AVS</td>
+			    <td>ESTRATEGIAS DE APRENDIZAJE AUTONOMO</td><td></td>
+			    <td>04</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">1</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>TTITO-TTICA-ANTONIA</td><td >LU</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>AS-101</td><td  style="text-align:left">02</td></tr><tr><td>TTITO-TTICA-ANTONIA</td><td >MI</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>AS-101</td><td  style="text-align:left">02</td></tr><tr><td>TTITO-TTICA-ANTONIA</td><td >VI</td><td>[11-12]</td>
+						        <td>T</td><td></td>
+						        <td>AS-101</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>3</td>
+			    <td>FP901AVS</td>
+			    <td>FILOSOFIA Y ETICA</td><td></td>
+			    <td>03</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">1</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CALDERON-RUIZ-SANTOS WILTON</td><td >MA</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>AS-101</td><td  style="text-align:left">02</td></tr><tr><td>CALDERON-RUIZ-SANTOS WILTON</td><td >JU</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>AS-101</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>4</td>
+			    <td>ME901AVS</td>
+			    <td>MATEMATICA I</td><td></td>
+			    <td>04</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">1</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CAHUANA-HUAYLLAPUMA-GABRIELA ROCIO</td><td >LU</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>AS-101</td><td  style="text-align:left">02</td></tr><tr><td>CAHUANA-HUAYLLAPUMA-GABRIELA ROCIO</td><td >MI</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>AS-101</td><td  style="text-align:left">02</td></tr><tr><td>CAHUANA-HUAYLLAPUMA-GABRIELA ROCIO</td><td >VI</td><td>[09-10]</td>
+						        <td>T</td><td></td>
+						        <td>AS-101</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>5</td>
+			    <td>LC901AVS</td>
+			    <td>REDACCION DE TEXTOS</td><td></td>
+			    <td>04</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">1</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>TTITO-TTICA-ANTONIA</td><td >LU</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>AS-101</td><td  style="text-align:left">02</td></tr><tr><td>TTITO-TTICA-ANTONIA</td><td >MI</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>AS-101</td><td  style="text-align:left">02</td></tr><tr><td>TTITO-TTICA-ANTONIA</td><td >VI</td><td>[07-08]</td>
+						        <td>T</td><td></td>
+						        <td>AS-101</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>6</td>
+			    <td>AS901AVS</td>
+			    <td>SOCIEDAD Y CULTURA</td><td></td>
+			    <td>03</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">1</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>TTITO-TTICA-ANTONIA</td><td >MA</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>AS-101</td><td  style="text-align:left">02</td></tr><tr><td>TTITO-TTICA-ANTONIA</td><td >JU</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>AS-101</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>7</td>
+			    <td>MV107AVS</td>
+			    <td>ANATOMÍA DESCRIPTIVA</td><td></td>
+			    <td>04</td>
+			    <td>OEFE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">15 Creds.</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="5">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CONDORI-CAHUATA-OSCAR</td><td >MA</td><td>[09-11]</td>
+						        <td>P</td><td>A</td>
+						        <td>LA-MARAN</td><td  style="text-align:left">02</td></tr><tr><td>CONDORI-CAHUATA-OSCAR</td><td >JU</td><td>[09-11]</td>
+						        <td>P</td><td>B</td>
+						        <td>LA-MARAN</td><td  style="text-align:left">02</td></tr><tr><td>CONDORI-CAHUATA-OSCAR</td><td >JU</td><td>[14-16]</td>
+						        <td>T</td><td></td>
+						        <td>AS-101</td><td  style="text-align:left">02</td></tr><tr><td>CONDORI-CAHUATA-OSCAR</td><td >VI</td><td>[10-11]</td>
+						        <td>T</td><td></td>
+						        <td>AS-101</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>8</td>
+			    <td>MV108AVS</td>
+			    <td>BIOLOGÍA CELULAR Y MOLECULAR</td><td></td>
+			    <td>04</td>
+			    <td>OEFE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">15 Creds.</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="5">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PAREDES-CHACNAMA-DIANA</td><td >LU</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>AS-301</td><td  style="text-align:left">02</td></tr><tr><td>PAREDES-CHACNAMA-DIANA</td><td >MA</td><td>[12-13]</td>
+						        <td>T</td><td></td>
+						        <td>AS-202</td><td  style="text-align:left">01</td></tr><tr><td>PAREDES-CHACNAMA-DIANA</td><td >MI</td><td>[09-11]</td>
+						        <td>P</td><td>A</td>
+						        <td>LA-HISTO</td><td  style="text-align:left">02</td></tr><tr><td>PAREDES-CHACNAMA-DIANA</td><td >MI</td><td>[11-13]</td>
+						        <td>P</td><td>B</td>
+						        <td>LA-HISTO</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>9</td>
+			    <td>FP902AVS</td>
+			    <td>LIDERAZGO Y HABILIDADES SOCIALES</td><td></td>
+			    <td>03</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">ED901</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MAMANI-ORDOÑEZ-VIRGILIO ALEJANDRO</td><td >MA</td><td>[16-18]</td>
+						        <td>T</td><td></td>
+						        <td>AS-101</td><td  style="text-align:left">02</td></tr><tr><td>MAMANI-ORDOÑEZ-VIRGILIO ALEJANDRO</td><td >JU</td><td>[16-18]</td>
+						        <td>P</td><td></td>
+						        <td>AS-101</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>10</td>
+			    <td>ME902AVS</td>
+			    <td>MATEMÁTICA II</td><td></td>
+			    <td>04</td>
+			    <td>EGT</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">ME901</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CAHUANA-HUAYLLAPUMA-GABRIELA ROCIO</td><td >LU</td><td>[16-18]</td>
+						        <td>T</td><td></td>
+						        <td>AS-101</td><td  style="text-align:left">02</td></tr><tr><td>CAHUANA-HUAYLLAPUMA-GABRIELA ROCIO</td><td >MI</td><td>[16-18]</td>
+						        <td>P</td><td></td>
+						        <td>AS-101</td><td  style="text-align:left">02</td></tr><tr><td>CAHUANA-HUAYLLAPUMA-GABRIELA ROCIO</td><td >VI</td><td>[16-17]</td>
+						        <td>T</td><td></td>
+						        <td>AS-101</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>11</td>
+			    <td>QU902AVS</td>
+			    <td>QUÍMICA GENERAL E INORGÁNICA</td><td></td>
+			    <td>04</td>
+			    <td>EGT</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">15 Creds.</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>NINA-ZÚÑIGA-JUAN ARMANDO</td><td >LU</td><td>[14-16]</td>
+						        <td>T</td><td></td>
+						        <td>AS-101</td><td  style="text-align:left">02</td></tr><tr><td>NINA-ZÚÑIGA-JUAN ARMANDO</td><td >MI</td><td>[14-16]</td>
+						        <td>P</td><td></td>
+						        <td>LA-PARAS</td><td  style="text-align:left">02</td></tr><tr><td>NINA-ZÚÑIGA-JUAN ARMANDO</td><td >JU</td><td>[07-08]</td>
+						        <td>T</td><td></td>
+						        <td>AS-202</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>12</td>
+			    <td>IF902AVS</td>
+			    <td>TECNOLOGIAS DE LA INFORMACIÓN Y LA COMUNICACIÓN</td><td></td>
+			    <td>03</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">15 Creds.</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CALDERON-ANTEZANA-DARCY YACUF</td><td >MA</td><td>[14-16]</td>
+						        <td>T</td><td></td>
+						        <td>AS-101</td><td  style="text-align:left">02</td></tr><tr><td>CALDERON-ANTEZANA-DARCY YACUF</td><td >JU</td><td>[14-16]</td>
+						        <td>P</td><td></td>
+						        <td>AS-CC</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>13</td>
+			    <td>ME205AVS</td>
+			    <td>ANÁLISIS MATEMÁTICO</td><td></td>
+			    <td>04</td>
+			    <td>FTB</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">ME902</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CAHUANA-HUAYLLAPUMA-GABRIELA ROCIO</td><td >LU</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>AS-202</td><td  style="text-align:left">02</td></tr><tr><td>CAHUANA-HUAYLLAPUMA-GABRIELA ROCIO</td><td >MI</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>AS-202</td><td  style="text-align:left">02</td></tr><tr><td>CAHUANA-HUAYLLAPUMA-GABRIELA ROCIO</td><td >VI</td><td>[07-08]</td>
+						        <td>T</td><td></td>
+						        <td>AS-202</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>14</td>
+			    <td>MV201AVS</td>
+			    <td>ANATOMÍA VETERINARIA COMPARADA</td><td></td>
+			    <td>04</td>
+			    <td>FTB</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MV107</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="5">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CONDORI-CHUCHI-ELOY AMADOR</td><td >LU</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>AS-202</td><td  style="text-align:left">02</td></tr><tr><td>CONDORI-CHUCHI-ELOY AMADOR</td><td >MA</td><td>[09-10]</td>
+						        <td>T</td><td></td>
+						        <td>AS-202</td><td  style="text-align:left">01</td></tr><tr><td>CONDORI-CHUCHI-ELOY AMADOR</td><td >MI</td><td>[11-13]</td>
+						        <td>P</td><td>A</td>
+						        <td>LA-MARAN</td><td  style="text-align:left">02</td></tr><tr><td>CONDORI-CHUCHI-ELOY AMADOR</td><td >JU</td><td>[14-16]</td>
+						        <td>P</td><td>B</td>
+						        <td>LA-MARAN</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>15</td>
+			    <td>FI203AVS</td>
+			    <td>BIOFÍSICA</td><td></td>
+			    <td>03</td>
+			    <td>FTB</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MV108</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>LLACSA-MAMANI-JAVIER</td><td >MI</td><td>[14-16]</td>
+						        <td>T</td><td></td>
+						        <td>AS-101</td><td  style="text-align:left">02</td></tr><tr><td>LLACSA-MAMANI-JAVIER</td><td >JU</td><td>[11-13]</td>
+						        <td>P</td><td>A</td>
+						        <td>LA-HISTO</td><td  style="text-align:left">02</td></tr><tr><td>LLACSA-MAMANI-JAVIER</td><td >VI</td><td>[11-13]</td>
+						        <td>P</td><td>B</td>
+						        <td>LA-FISIO</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>16</td>
+			    <td>QU204AVS</td>
+			    <td>BIOQUÍMICA I</td><td></td>
+			    <td>04</td>
+			    <td>FTB</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">QU902</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="5">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>LLACSA-MAMANI-JAVIER</td><td >LU</td><td>[14-16]</td>
+						        <td>P</td><td></td>
+						        <td>LA-PARAS</td><td  style="text-align:left">02</td></tr><tr><td>LLACSA-MAMANI-JAVIER</td><td >MA</td><td>[11-13]</td>
+						        <td>P</td><td>B</td>
+						        <td>LA-PARAS</td><td  style="text-align:left">02</td></tr><tr><td>LLACSA-MAMANI-JAVIER</td><td >MA</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>AS-202</td><td  style="text-align:left">02</td></tr><tr><td>LLACSA-MAMANI-JAVIER</td><td >MI</td><td>[09-10]</td>
+						        <td>T</td><td></td>
+						        <td>AS-202</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>17</td>
+			    <td>MV207AVS</td>
+			    <td>HISTOLOGÍA VETERINARIA I</td><td></td>
+			    <td>03</td>
+			    <td>FTB</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MV107</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="5">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PAREDES-CHACNAMA-DIANA</td><td >LU</td><td>[16-18]</td>
+						        <td>P</td><td>A</td>
+						        <td>LA-HISTO</td><td  style="text-align:left">02</td></tr><tr><td>PAREDES-CHACNAMA-DIANA</td><td >MA</td><td>[16-18]</td>
+						        <td>P</td><td>B</td>
+						        <td>LA-HISTO</td><td  style="text-align:left">02</td></tr><tr><td>PAREDES-CHACNAMA-DIANA</td><td >JU</td><td>[08-10]</td>
+						        <td>T</td><td></td>
+						        <td>AS-202</td><td  style="text-align:left">02</td></tr><tr><td>PAREDES-CHACNAMA-DIANA</td><td >JU</td><td>[16-18]</td>
+						        <td>P</td><td>C</td>
+						        <td>LA-HISTO</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>18</td>
+			    <td>MV206AVS</td>
+			    <td>MICROBIOLOGÍA VETERINARIA</td><td></td>
+			    <td>04</td>
+			    <td>FTB</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MV108</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="6">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>SANCHEZ-HERENCIA-DIANA</td><td >MA</td><td>[10-11]</td>
+						        <td>T</td><td></td>
+						        <td>AS-202</td><td  style="text-align:left">01</td></tr><tr><td>SANCHEZ-HERENCIA-DIANA</td><td >MI</td><td>[16-18]</td>
+						        <td>P</td><td>A</td>
+						        <td>LA-MICRO</td><td  style="text-align:left">02</td></tr><tr><td>SANCHEZ-HERENCIA-DIANA</td><td >JU</td><td>[10-11]</td>
+						        <td>T</td><td></td>
+						        <td>AS-202</td><td  style="text-align:left">01</td></tr><tr><td>SANCHEZ-HERENCIA-DIANA</td><td >VI</td><td>[14-16]</td>
+						        <td>P</td><td>B</td>
+						        <td>LA-MICRO</td><td  style="text-align:left">02</td></tr><tr><td>SANCHEZ-HERENCIA-DIANA</td><td >VI</td><td>[08-09]</td>
+						        <td>T</td><td></td>
+						        <td>AS-201</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>19</td>
+			    <td>ME306AVS</td>
+			    <td>BIOESTADÍSTICA</td><td></td>
+			    <td>04</td>
+			    <td>FTB</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">ME205</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">4</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CAHUANA-HUAYLLAPUMA-GABRIELA ROCIO</td><td >MA</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>AS-201</td><td  style="text-align:left">02</td></tr><tr><td>CAHUANA-HUAYLLAPUMA-GABRIELA ROCIO</td><td >JU</td><td>[12-13]</td>
+						        <td>T</td><td></td>
+						        <td>AS-301</td><td  style="text-align:left">01</td></tr><tr><td>CAHUANA-HUAYLLAPUMA-GABRIELA ROCIO</td><td >VI</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>AS-202</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>20</td>
+			    <td>QU304AVS</td>
+			    <td>BIOQUÍMICA II</td><td></td>
+			    <td>04</td>
+			    <td>FTB</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">QU204</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">4</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>LLACSA-MAMANI-JAVIER</td><td >MA</td><td>[16-18]</td>
+						        <td>P</td><td></td>
+						        <td>LA-PARAS</td><td  style="text-align:left">02</td></tr><tr><td>LLACSA-MAMANI-JAVIER</td><td >MI</td><td>[07-08]</td>
+						        <td>T</td><td></td>
+						        <td>AS-201</td><td  style="text-align:left">01</td></tr><tr><td>LLACSA-MAMANI-JAVIER</td><td >VI</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>AS-201</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>21</td>
+			    <td>MV302AVS</td>
+			    <td>EMBRIOLOGÍA VETERINARIA</td><td></td>
+			    <td>03</td>
+			    <td>FTB</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MV207</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">4</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MAMANI-MANGO-GUIULFO DURIEL</td><td >LU</td><td>[11-12]</td>
+						        <td>T</td><td></td>
+						        <td>AS-201</td><td  style="text-align:left">01</td></tr><tr><td>MAMANI-MANGO-GUIULFO DURIEL</td><td >LU</td><td>[14-16]</td>
+						        <td>P</td><td>B</td>
+						        <td>LA-MARAN</td><td  style="text-align:left">02</td></tr><tr><td>MAMANI-MANGO-GUIULFO DURIEL</td><td >MI</td><td>[08-09]</td>
+						        <td>T</td><td></td>
+						        <td>AS-201</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>22</td>
+			    <td>MV301AVS</td>
+			    <td>FISIOLOGÍA VETERINARIA I</td><td></td>
+			    <td>04</td>
+			    <td>FTB</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MV201</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">4</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="5">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ZAPANA-PINEDA-JAPHET DEMETRIO</td><td >LU</td><td>[08-09]</td>
+						        <td>T</td><td></td>
+						        <td>AS-301</td><td  style="text-align:left">01</td></tr><tr><td>ZAPANA-PINEDA-JAPHET DEMETRIO</td><td >MI</td><td>[10-11]</td>
+						        <td>T</td><td></td>
+						        <td>AS-201</td><td  style="text-align:left">01</td></tr><tr><td>ZAPANA-PINEDA-JAPHET DEMETRIO</td><td >JU</td><td>[14-16]</td>
+						        <td>P</td><td></td>
+						        <td>LA-FISIO</td><td  style="text-align:left">02</td></tr><tr><td>ZAPANA-PINEDA-JAPHET DEMETRIO</td><td >VI</td><td>[07-08]</td>
+						        <td>T</td><td></td>
+						        <td>AS-201</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>23</td>
+			    <td>MV303AVS</td>
+			    <td>HISTOLOGÍA VETERINARIA II</td><td></td>
+			    <td>04</td>
+			    <td>FTB</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MV207</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">4</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="5">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>RAMIREZ-HUANCA-JULIO ENRIQUE</td><td >MA</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>AS-201</td><td  style="text-align:left">02</td></tr><tr><td>RAMIREZ-HUANCA-JULIO ENRIQUE</td><td >MA</td><td>[14-16]</td>
+						        <td>P</td><td>A</td>
+						        <td>LA-HISTO</td><td  style="text-align:left">02</td></tr><tr><td>RAMIREZ-HUANCA-JULIO ENRIQUE</td><td >MI</td><td>[16-18]</td>
+						        <td>P</td><td>B</td>
+						        <td>LA-HISTO</td><td  style="text-align:left">02</td></tr><tr><td>RAMIREZ-HUANCA-JULIO ENRIQUE</td><td >JU</td><td>[07-08]</td>
+						        <td>T</td><td></td>
+						        <td>AS-201</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>24</td>
+			    <td>MV305AVS</td>
+			    <td>INMUNOLOGÍA</td><td></td>
+			    <td>03</td>
+			    <td>FTB</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MV206</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">4</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="5">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MELO-ROJAS-CAROLA TRINIDAD</td><td >LU</td><td>[09-11]</td>
+						        <td>P</td><td>A</td>
+						        <td>LA-MICRO</td><td  style="text-align:left">02</td></tr><tr><td>MELO-ROJAS-CAROLA TRINIDAD</td><td >MI</td><td>[09-10]</td>
+						        <td>T</td><td></td>
+						        <td>AS-301</td><td  style="text-align:left">01</td></tr><tr><td>MELO-ROJAS-CAROLA TRINIDAD</td><td >MI</td><td>[14-16]</td>
+						        <td>P</td><td>B</td>
+						        <td>LA-MICRO</td><td  style="text-align:left">02</td></tr><tr><td>MELO-ROJAS-CAROLA TRINIDAD</td><td >JU</td><td>[10-11]</td>
+						        <td>T</td><td></td>
+						        <td>AS-201</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>25</td>
+			    <td>MV401AVS</td>
+			    <td>ANIMALES EXÓTICOS Y SILVESTRES</td><td></td>
+			    <td>02</td>
+			    <td>FE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MV201</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CHOQUE-CHACOLLA-YUDIT VERONICA</td><td >LU</td><td>[18-19]</td>
+						        <td>T</td><td></td>
+						        <td>AS-101</td><td  style="text-align:left">01</td></tr><tr><td>CHOQUE-CHACOLLA-YUDIT VERONICA</td><td >MA</td><td>[18-19]</td>
+						        <td>T</td><td></td>
+						        <td>AS-101</td><td  style="text-align:left">01</td></tr><tr><td>CHOQUE-CHACOLLA-YUDIT VERONICA</td><td >MA</td><td>[16-18]</td>
+						        <td>P</td><td></td>
+						        <td>LA-FISIO</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>26</td>
+			    <td>MV405AVS</td>
+			    <td>DISEÑOS EXPERIMENTALES</td><td></td>
+			    <td>04</td>
+			    <td>FTB</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">ME306</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CALDERON-ANTEZANA-DARCY YACUF</td><td >LU</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>AS-201</td><td  style="text-align:left">02</td></tr><tr><td>CALDERON-ANTEZANA-DARCY YACUF</td><td >MI</td><td>[09-10]</td>
+						        <td>T</td><td></td>
+						        <td>AS-201</td><td  style="text-align:left">01</td></tr><tr><td>CALDERON-ANTEZANA-DARCY YACUF</td><td >JU</td><td>[10-12]</td>
+						        <td>P</td><td></td>
+						        <td>AS-301</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>27</td>
+			    <td>MV403AVS</td>
+			    <td>FISIOLOGÍA VETERINARIA II</td><td></td>
+			    <td>04</td>
+			    <td>FE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MV301</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="5">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PINARES-HUAMANI-RUBEN</td><td >MA</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>AS-301</td><td  style="text-align:left">02</td></tr><tr><td>PINARES-HUAMANI-RUBEN</td><td >MI</td><td>[14-16]</td>
+						        <td>P</td><td>A</td>
+						        <td>LA-FISIO</td><td  style="text-align:left">02</td></tr><tr><td>PINARES-HUAMANI-RUBEN</td><td >JU</td><td>[08-09]</td>
+						        <td>T</td><td></td>
+						        <td>AS-301</td><td  style="text-align:left">01</td></tr><tr><td>PINARES-HUAMANI-RUBEN</td><td >VI</td><td>[14-16]</td>
+						        <td>P</td><td>B</td>
+						        <td>LA-FISIO</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>28</td>
+			    <td>MV406AVS</td>
+			    <td>GENÉTICA VETERINARIA</td><td></td>
+			    <td>04</td>
+			    <td>FTB</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MV301</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="5">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MELO-ROJAS-CAROLA TRINIDAD</td><td >MA</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>AS-301</td><td  style="text-align:left">02</td></tr><tr><td>MELO-ROJAS-CAROLA TRINIDAD</td><td >MA</td><td>[11-13]</td>
+						        <td>P</td><td>A</td>
+						        <td>AS-CC</td><td  style="text-align:left">02</td></tr><tr><td>MELO-ROJAS-CAROLA TRINIDAD</td><td >MI</td><td>[10-12]</td>
+						        <td>P</td><td>B</td>
+						        <td>AS-CC</td><td  style="text-align:left">02</td></tr><tr><td>MELO-ROJAS-CAROLA TRINIDAD</td><td >JU</td><td>[09-10]</td>
+						        <td>T</td><td></td>
+						        <td>AS-301</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>29</td>
+			    <td>MV402AVS</td>
+			    <td>PARASITOLOGÍA VETERINARIA I</td><td></td>
+			    <td>04</td>
+			    <td>FTB</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MV305</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>VARGAS-PARRA-RUT BETSAIDA</td><td >LU</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>AS-301</td><td  style="text-align:left">02</td></tr><tr><td>VARGAS-PARRA-RUT BETSAIDA</td><td >MI</td><td>[08-09]</td>
+						        <td>T</td><td></td>
+						        <td>AS-301</td><td  style="text-align:left">01</td></tr><tr><td>VARGAS-PARRA-RUT BETSAIDA</td><td >JU</td><td>[14-16]</td>
+						        <td>P</td><td></td>
+						        <td>LA-PARAS</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>30</td>
+			    <td>MV404AVS</td>
+			    <td>PATOLOGÍA VETERINARIA I</td><td></td>
+			    <td>04</td>
+			    <td>FE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MV303</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="5">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ZAPANA-PINEDA-JAPHET DEMETRIO</td><td >LU</td><td>[14-16]</td>
+						        <td>P</td><td></td>
+						        <td>LA-HISTO</td><td  style="text-align:left">02</td></tr><tr><td>ZAPANA-PINEDA-JAPHET DEMETRIO</td><td >LU</td><td>[07-08]</td>
+						        <td>T</td><td></td>
+						        <td>AS-301</td><td  style="text-align:left">01</td></tr><tr><td>ZAPANA-PINEDA-JAPHET DEMETRIO</td><td >JU</td><td>[07-08]</td>
+						        <td>T</td><td></td>
+						        <td>AS-301</td><td  style="text-align:left">01</td></tr><tr><td>ZAPANA-PINEDA-JAPHET DEMETRIO</td><td >VI</td><td>[08-09]</td>
+						        <td>T</td><td></td>
+						        <td>AS-301</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>31</td>
+			    <td>MV506AVS</td>
+			    <td>ETOLOGÍA Y CINOLOGÍA</td><td></td>
+			    <td>03</td>
+			    <td>FE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MV403</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CHOQUE-CHACOLLA-YUDIT VERONICA</td><td >LU</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>LA-PARAS</td><td  style="text-align:left">02</td></tr><tr><td>CHOQUE-CHACOLLA-YUDIT VERONICA</td><td >LU</td><td>[11-12]</td>
+						        <td>T</td><td></td>
+						        <td>AS-202</td><td  style="text-align:left">01</td></tr><tr><td>CHOQUE-CHACOLLA-YUDIT VERONICA</td><td >JU</td><td>[10-11]</td>
+						        <td>T</td><td></td>
+						        <td>LA-PARAS</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>32</td>
+			    <td>MV507AVS</td>
+			    <td>FARMACOLOGÍA Y FARMACIA VETERINARIA</td><td></td>
+			    <td>03</td>
+			    <td>FTB</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MV403</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CALDERON-ANTEZANA-DARWIN WASHINGTON</td><td >MI</td><td>[16-18]</td>
+						        <td>T</td><td></td>
+						        <td>AS-301</td><td  style="text-align:left">02</td></tr><tr><td>CALDERON-ANTEZANA-DARWIN WASHINGTON</td><td >JU</td><td>[16-18]</td>
+						        <td>P</td><td></td>
+						        <td>LA-FISIO</td><td  style="text-align:left">02</td></tr><tr><td>CALDERON-ANTEZANA-DARWIN WASHINGTON</td><td >VI</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>LA-FISIO</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>33</td>
+			    <td>MV505AVS</td>
+			    <td>LEGISLACIÓN Y DEONTOLOGÍA VETERINARIAS</td><td></td>
+			    <td>02</td>
+			    <td>FE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MV401</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MAMANI-MANGO-GUIULFO DURIEL</td><td >LU</td><td>[12-13]</td>
+						        <td>T</td><td></td>
+						        <td>AS-201</td><td  style="text-align:left">01</td></tr><tr><td>MAMANI-MANGO-GUIULFO DURIEL</td><td >MA</td><td>[17-19]</td>
+						        <td>P</td><td></td>
+						        <td>AS-201</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>34</td>
+			    <td>MV503AVS</td>
+			    <td>PARASITOLOGÍA VETERINARIA II</td><td></td>
+			    <td>04</td>
+			    <td>FTB</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MV402</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>SANCHEZ-HERENCIA-DIANA</td><td >MA</td><td>[11-12]</td>
+						        <td>T</td><td></td>
+						        <td>AS-202</td><td  style="text-align:left">01</td></tr><tr><td>SANCHEZ-HERENCIA-DIANA</td><td >MI</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>AS-202</td><td  style="text-align:left">02</td></tr><tr><td>SANCHEZ-HERENCIA-DIANA</td><td >JU</td><td>[16-18]</td>
+						        <td>P</td><td></td>
+						        <td>LA-PARAS</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>35</td>
+			    <td>MV501AVS</td>
+			    <td>PATOLOGÍA VETERINARIA II</td><td></td>
+			    <td>04</td>
+			    <td>FE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MV404</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="5">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MAMANI-ORDOÑEZ-VIRGILIO ALEJANDRO</td><td >MI</td><td>[18-19]</td>
+						        <td>T</td><td></td>
+						        <td>AS-101</td><td  style="text-align:left">01</td></tr><tr><td>MAMANI-ORDOÑEZ-VIRGILIO ALEJANDRO</td><td >JU</td><td>[18-19]</td>
+						        <td>T</td><td></td>
+						        <td>AS-101</td><td  style="text-align:left">01</td></tr><tr><td>MAMANI-ORDOÑEZ-VIRGILIO ALEJANDRO</td><td >VI</td><td>[18-19]</td>
+						        <td>T</td><td></td>
+						        <td>AS-101</td><td  style="text-align:left">01</td></tr><tr><td>MAMANI-ORDOÑEZ-VIRGILIO ALEJANDRO</td><td >VI</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>LA-HISTO</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>36</td>
+			    <td>MV504AVS</td>
+			    <td>SEMIOLOGIA VETERINARIA</td><td></td>
+			    <td>03</td>
+			    <td>FE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MV403</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CALDERON-ANTEZANA-DARWIN WASHINGTON</td><td >MA</td><td>[07-08]</td>
+						        <td>T</td><td></td>
+						        <td>AS-201</td><td  style="text-align:left">01</td></tr><tr><td>CALDERON-ANTEZANA-DARWIN WASHINGTON</td><td >MI</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>LA-LARAYA</td><td  style="text-align:left">02</td></tr><tr><td>CALDERON-ANTEZANA-DARWIN WASHINGTON</td><td >JU</td><td>[12-13]</td>
+						        <td>T</td><td></td>
+						        <td>AS-201</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>37</td>
+			    <td>MV602AVS</td>
+			    <td>FARMACOLOGÍA CLÍNICA Y TERAPEÚTICA VETERINARIA</td><td></td>
+			    <td>04</td>
+			    <td>FE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MV507</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CALDERON-RUIZ-SANTOS WILTON</td><td >MA</td><td>[14-16]</td>
+						        <td>T</td><td></td>
+						        <td>AS-301</td><td  style="text-align:left">02</td></tr><tr><td>CALDERON-RUIZ-SANTOS WILTON</td><td >MI</td><td>[08-10]</td>
+						        <td>P</td><td></td>
+						        <td>LA-FISIO</td><td  style="text-align:left">02</td></tr><tr><td>CALDERON-RUIZ-SANTOS WILTON</td><td >MI</td><td>[12-13]</td>
+						        <td>T</td><td></td>
+						        <td>AS-301</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>38</td>
+			    <td>MV601AVS</td>
+			    <td>FISIOPATOLOGÍA VETERINARIA</td><td></td>
+			    <td>04</td>
+			    <td>FE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MV501</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CONDORI-CHUCHI-ELOY AMADOR</td><td >LU</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>LA-HISTO</td><td  style="text-align:left">02</td></tr><tr><td>CONDORI-CHUCHI-ELOY AMADOR</td><td >MA</td><td>[17-18]</td>
+						        <td>T</td><td></td>
+						        <td>AS-301</td><td  style="text-align:left">01</td></tr><tr><td>CONDORI-CHUCHI-ELOY AMADOR</td><td >VI</td><td>[10-12]</td>
+						        <td>T</td><td></td>
+						        <td>AS-301</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>39</td>
+			    <td>MV604AVS</td>
+			    <td>PATOLOGÍA CLÍNICA VETERINARIA</td><td></td>
+			    <td>04</td>
+			    <td>FE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MV504</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>NINA-ZÚÑIGA-JUAN ARMANDO</td><td >LU</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>LA-HISTO</td><td  style="text-align:left">02</td></tr><tr><td>NINA-ZÚÑIGA-JUAN ARMANDO</td><td >LU</td><td>[16-17]</td>
+						        <td>T</td><td></td>
+						        <td>AS-301</td><td  style="text-align:left">01</td></tr><tr><td>NINA-ZÚÑIGA-JUAN ARMANDO</td><td >MI</td><td>[10-12]</td>
+						        <td>T</td><td></td>
+						        <td>AS-301</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>40</td>
+			    <td>MV605AVS</td>
+			    <td>TERIOGENOLOGÍA ANIMAL</td><td></td>
+			    <td>04</td>
+			    <td>FE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MV403</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>BRAVO-MATHEUS-PEDRO WALTER</td><td >JU</td><td>[11-12]</td>
+						        <td>T</td><td></td>
+						        <td>AS-202</td><td  style="text-align:left">01</td></tr><tr><td>BRAVO-MATHEUS-PEDRO WALTER</td><td >JU</td><td>[16-18]</td>
+						        <td>P</td><td></td>
+						        <td>LA-LARAYA</td><td  style="text-align:left">02</td></tr><tr><td>BRAVO-MATHEUS-PEDRO WALTER</td><td >VI</td><td>[08-10]</td>
+						        <td>T</td><td></td>
+						        <td>AS-202</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>41</td>
+			    <td>MV705AVS</td>
+			    <td>ANALGESIA Y ANESTESIA VETERINARIA</td><td></td>
+			    <td>03</td>
+			    <td>FE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MV602</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CALDERON-RUIZ-SANTOS WILTON</td><td >MA</td><td>[08-10]</td>
+						        <td>P</td><td></td>
+						        <td>LA-FISIO</td><td  style="text-align:left">02</td></tr><tr><td>                                                                 </td><td >MA</td><td>[10-12]</td>
+						        <td>P</td><td>B</td>
+						        <td>LA-FISIO</td><td  style="text-align:left">02</td></tr><tr><td>CALDERON-RUIZ-SANTOS WILTON</td><td >VI</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>AS-201</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>42</td>
+			    <td>MV701AVS</td>
+			    <td>EPIDEMIOLOGÍA VETERINARIA Y SALUD PÚBLICA</td><td></td>
+			    <td>04</td>
+			    <td>FTB</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MV604</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MENDOZA-LUQUE-RONY IVAN</td><td >LU</td><td>[14-16]</td>
+						        <td>T</td><td></td>
+						        <td>AS-202</td><td  style="text-align:left">02</td></tr><tr><td>MENDOZA-LUQUE-RONY IVAN</td><td >MA</td><td>[14-16]</td>
+						        <td>P</td><td></td>
+						        <td>AS-202</td><td  style="text-align:left">02</td></tr><tr><td>MENDOZA-LUQUE-RONY IVAN</td><td >MI</td><td>[16-17]</td>
+						        <td>T</td><td></td>
+						        <td>AS-202</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>43</td>
+			    <td>MV702AVS</td>
+			    <td>GINECO OBSTETRICIA Y NEONATOLOGÍA VETERINARIA</td><td></td>
+			    <td>03</td>
+			    <td>FE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MV605</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ZAPANA-PINEDA-JAPHET DEMETRIO</td><td >MI</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>LA-MARAN</td><td  style="text-align:left">02</td></tr><tr><td>ZAPANA-PINEDA-JAPHET DEMETRIO</td><td >MI</td><td>[14-16]</td>
+						        <td>T</td><td></td>
+						        <td>AS-202</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>44</td>
+			    <td>MV704AVS</td>
+			    <td>INVESTIGACIÓN CIENTÍFICA</td><td></td>
+			    <td>03</td>
+			    <td>FTB</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MV405</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CALDERON-ANTEZANA-DARWIN WASHINGTON</td><td >LU</td><td>[16-18]</td>
+						        <td>T</td><td></td>
+						        <td>AS-202</td><td  style="text-align:left">02</td></tr><tr><td>CALDERON-ANTEZANA-DARWIN WASHINGTON</td><td >VI</td><td>[16-18]</td>
+						        <td>P</td><td></td>
+						        <td>AS-301</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>45</td>
+			    <td>MV703AVS</td>
+			    <td>MEDICINA INTERNA MENORES 1</td><td></td>
+			    <td>04</td>
+			    <td>FE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MV601</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="5">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CONDORI-CAHUATA-OSCAR</td><td >LU</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>LA-FISIO</td><td  style="text-align:left">02</td></tr><tr><td>CONDORI-CAHUATA-OSCAR</td><td >MA</td><td>[16-17]</td>
+						        <td>T</td><td></td>
+						        <td>AS-202</td><td  style="text-align:left">01</td></tr><tr><td>CONDORI-CAHUATA-OSCAR</td><td >MI</td><td>[17-18]</td>
+						        <td>T</td><td></td>
+						        <td>AS-202</td><td  style="text-align:left">01</td></tr><tr><td>CONDORI-CAHUATA-OSCAR</td><td >JU</td><td>[16-17]</td>
+						        <td>T</td><td></td>
+						        <td>AS-202</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>46</td>
+			    <td>MV706AVS</td>
+			    <td>RADIOLOGÍA Y ECOGRAFÍA VETERINARIA</td><td></td>
+			    <td>03</td>
+			    <td>FE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MV604</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="5">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CHOQUE-CHACOLLA-YUDIT VERONICA</td><td >MI</td><td>[09-11]</td>
+						        <td>P</td><td>A</td>
+						        <td>LA-MICRO</td><td  style="text-align:left">02</td></tr><tr><td>CHOQUE-CHACOLLA-YUDIT VERONICA</td><td >MI</td><td>[11-13]</td>
+						        <td>P</td><td>B</td>
+						        <td>LA-FISIO</td><td  style="text-align:left">02</td></tr><tr><td>CHOQUE-CHACOLLA-YUDIT VERONICA</td><td >MI</td><td>[18-19]</td>
+						        <td>T</td><td></td>
+						        <td>AS-301</td><td  style="text-align:left">01</td></tr><tr><td>CHOQUE-CHACOLLA-YUDIT VERONICA</td><td >JU</td><td>[18-19]</td>
+						        <td>T</td><td></td>
+						        <td>AS-301</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>47</td>
+			    <td>MV707AVS</td>
+			    <td>TALLER DE PREPARACION PARA FERIAS</td><td></td>
+			    <td>02</td>
+			    <td>AEX</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MV603</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MENDOZA-LUQUE-RONY IVAN</td><td >JU</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>AS-CAMPO</td><td  style="text-align:left">02</td></tr><tr><td>MENDOZA-LUQUE-RONY IVAN</td><td >VI</td><td>[14-15]</td>
+						        <td>T</td><td></td>
+						        <td>AS-202</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>48</td>
+			    <td>MV802AVS</td>
+			    <td>CIRUGIA VETERINARIA ANIMALES MENORES</td><td></td>
+			    <td>03</td>
+			    <td>FE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MV705</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">9</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MAMANI-ORDOÑEZ-VIRGILIO ALEJANDRO</td><td >LU</td><td>[14-16]</td>
+						        <td>T</td><td></td>
+						        <td>AS-201</td><td  style="text-align:left">02</td></tr><tr><td>MAMANI-ORDOÑEZ-VIRGILIO ALEJANDRO</td><td >JU</td><td>[09-11]</td>
+						        <td>P</td><td>A</td>
+						        <td>LA-FISIO</td><td  style="text-align:left">02</td></tr><tr><td>MAMANI-ORDOÑEZ-VIRGILIO ALEJANDRO</td><td >JU</td><td>[11-13]</td>
+						        <td>P</td><td>B</td>
+						        <td>LA-FISIO</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>49</td>
+			    <td>MV804AVS</td>
+			    <td>GESTION Y ADMINISTRACION DE NEGOCIOS VETERINARIOS</td><td></td>
+			    <td>03</td>
+			    <td>FE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MV704</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">9</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MENDOZA-LUQUE-RONY IVAN</td><td >MA</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>AS-301</td><td  style="text-align:left">02</td></tr><tr><td>MENDOZA-LUQUE-RONY IVAN</td><td >MI</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>AS-201</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>50</td>
+			    <td>MV801AVS</td>
+			    <td>INSPECCION E INOCUIDAD VETERINARIA</td><td></td>
+			    <td>03</td>
+			    <td>FE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MV701</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">9</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PAREDES-CHACNAMA-DIANA</td><td >MI</td><td>[14-16]</td>
+						        <td>T</td><td></td>
+						        <td>AS-201</td><td  style="text-align:left">02</td></tr><tr><td>PAREDES-CHACNAMA-DIANA</td><td >VI</td><td>[10-12]</td>
+						        <td>P</td><td></td>
+						        <td>LA-MICRO</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>51</td>
+			    <td>MV803AVS</td>
+			    <td>MEDICINA INTERNA ANIMALES MAYORES</td><td></td>
+			    <td>04</td>
+			    <td>FE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MV706</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">9</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="5">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CONDORI-CHUCHI-ELOY AMADOR</td><td >LU</td><td>[16-17]</td>
+						        <td>T</td><td></td>
+						        <td>AS-201</td><td  style="text-align:left">01</td></tr><tr><td>CONDORI-CHUCHI-ELOY AMADOR</td><td >MA</td><td>[16-17]</td>
+						        <td>T</td><td></td>
+						        <td>AS-201</td><td  style="text-align:left">01</td></tr><tr><td>CONDORI-CHUCHI-ELOY AMADOR</td><td >MI</td><td>[16-17]</td>
+						        <td>T</td><td></td>
+						        <td>AS-201</td><td  style="text-align:left">01</td></tr><tr><td>CONDORI-CHUCHI-ELOY AMADOR</td><td >MI</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>AS-CAMPO</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>52</td>
+			    <td>MV806AVS</td>
+			    <td>MEDICINA INTERNA DE ANIMALES MENORES II</td><td></td>
+			    <td>03</td>
+			    <td>FE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MV703</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">9</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MENDOZA-LUQUE-RONY IVAN</td><td >JU</td><td>[14-16]</td>
+						        <td>T</td><td></td>
+						        <td>AS-201</td><td  style="text-align:left">02</td></tr><tr><td>MENDOZA-LUQUE-RONY IVAN</td><td >VI</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>LA-FISIO</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>53</td>
+			    <td>MV805AVS</td>
+			    <td>MEDICINA Y BIOTECNOLOGIA REPRODUCTIVA</td><td></td>
+			    <td>03</td>
+			    <td>FE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MV702</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">9</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MAMANI-MANGO-GUIULFO DURIEL</td><td >MA</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>AS-CAMPO</td><td  style="text-align:left">02</td></tr><tr><td>MAMANI-MANGO-GUIULFO DURIEL</td><td >JU</td><td>[16-18]</td>
+						        <td>T</td><td></td>
+						        <td>AS-201</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>54</td>
+			    <td>MV808AVS</td>
+			    <td>ONCOLOGIA VETERINARIA</td><td></td>
+			    <td>03</td>
+			    <td>EE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MV703</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">9</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>VARGAS-PARRA-RUT BETSAIDA</td><td >LU</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>LA-HISTO</td><td  style="text-align:left">02</td></tr><tr><td>VARGAS-PARRA-RUT BETSAIDA</td><td >MA</td><td>[14-16]</td>
+						        <td>T</td><td></td>
+						        <td>AS-201</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>55</td>
+			    <td>MV807AVS</td>
+			    <td>TALLER DE ELABORACION DE PROYECTOS</td><td></td>
+			    <td>03</td>
+			    <td>AEX</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MV801</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">9</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ZAPANA-PINEDA-JAPHET DEMETRIO</td><td >LU</td><td>[12-13]</td>
+						        <td>T</td><td></td>
+						        <td>AS-202</td><td  style="text-align:left">01</td></tr><tr><td>ZAPANA-PINEDA-JAPHET DEMETRIO</td><td >JU</td><td>[12-13]</td>
+						        <td>T</td><td></td>
+						        <td>AS-202</td><td  style="text-align:left">01</td></tr><tr><td>ZAPANA-PINEDA-JAPHET DEMETRIO</td><td >VI</td><td>[16-18]</td>
+						        <td>P</td><td></td>
+						        <td>AS-201</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>56</td>
+			    <td>MV902AVS</td>
+			    <td>CIRUGIA VETERINARIA ANIMALES MAYORES</td><td></td>
+			    <td>03</td>
+			    <td>FE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MV802</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">10</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MAMANI-ORDOÑEZ-VIRGILIO ALEJANDRO</td><td >LU</td><td>[17-19]</td>
+						        <td>T</td><td></td>
+						        <td>AS-201</td><td  style="text-align:left">02</td></tr><tr><td>MAMANI-ORDOÑEZ-VIRGILIO ALEJANDRO</td><td >MA</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>LA-LARAYA</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>57</td>
+			    <td>MV907AVS</td>
+			    <td>PRACTICAS PRE PROFESIONALES</td><td></td>
+			    <td>04</td>
+			    <td>PPP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MV802</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">10</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CHOQUE-CHACOLLA-YUDIT VERONICA</td><td >JU</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>AS-CC</td><td  style="text-align:left">02</td></tr><tr><td>CHOQUE-CHACOLLA-YUDIT VERONICA</td><td >VI</td><td>[10-13]</td>
+						        <td>T</td><td></td>
+						        <td>AS-CC</td><td  style="text-align:left">03</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>58</td>
+			    <td>MV906AVS</td>
+			    <td>SALUD Y MEDICINA DE CUYES Y CONEJOS</td><td></td>
+			    <td>03</td>
+			    <td>FE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MV806</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">10</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CALDERON-ANTEZANA-DARCY YACUF</td><td >MI</td><td>[17-19]</td>
+						        <td>T</td><td></td>
+						        <td>AS-201</td><td  style="text-align:left">02</td></tr><tr><td>CALDERON-ANTEZANA-DARCY YACUF</td><td >VI</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>AS-CAMPO</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>59</td>
+			    <td>MV901AVS</td>
+			    <td>SALUD Y MEDICINA DE EQUIDOS</td><td></td>
+			    <td>03</td>
+			    <td>FE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MV803</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">10</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>RAMIREZ-HUANCA-JULIO ENRIQUE</td><td >LU</td><td>[19-20]</td>
+						        <td>T</td><td></td>
+						        <td>AS-201</td><td  style="text-align:left">01</td></tr><tr><td>RAMIREZ-HUANCA-JULIO ENRIQUE</td><td >MA</td><td>[19-20]</td>
+						        <td>T</td><td></td>
+						        <td>AS-201</td><td  style="text-align:left">01</td></tr><tr><td>RAMIREZ-HUANCA-JULIO ENRIQUE</td><td >MI</td><td>[12-14]</td>
+						        <td>P</td><td></td>
+						        <td>AS-CAMPO</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>60</td>
+			    <td>MV904AVS</td>
+			    <td>SALUD Y MEDICINA DE OVINOS Y CAMELIDOS SUDAMERICANOS</td><td></td>
+			    <td>03</td>
+			    <td>FE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MV803</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">10</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CALDERON-ANTEZANA-DARWIN WASHINGTON</td><td >JU</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>LA-LARAYA</td><td  style="text-align:left">02</td></tr><tr><td>CALDERON-ANTEZANA-DARWIN WASHINGTON</td><td >JU</td><td>[18-19]</td>
+						        <td>T</td><td></td>
+						        <td>AS-201</td><td  style="text-align:left">01</td></tr><tr><td>CALDERON-ANTEZANA-DARWIN WASHINGTON</td><td >VI</td><td>[18-19]</td>
+						        <td>T</td><td></td>
+						        <td>AS-201</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>61</td>
+			    <td>MV905AVS</td>
+			    <td>SALUD Y MEDICINA DE PORCINOS Y AVES</td><td></td>
+			    <td>03</td>
+			    <td>FE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">MV806</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">10</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CALDERON-ANTEZANA-DARCY YACUF</td><td >LU</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>AS-CAMPO</td><td  style="text-align:left">02</td></tr><tr><td>CALDERON-ANTEZANA-DARCY YACUF</td><td >MI</td><td>[19-20]</td>
+						        <td>T</td><td></td>
+						        <td>AS-201</td><td  style="text-align:left">01</td></tr><tr><td>CALDERON-ANTEZANA-DARCY YACUF</td><td >JU</td><td>[19-20]</td>
+						        <td>T</td><td></td>
+						        <td>AS-201</td><td  style="text-align:left">01</td></tr></table>

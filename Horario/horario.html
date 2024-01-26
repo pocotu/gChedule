@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Generador de Horarios</title>
+    <style>
+        table {
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid #ddd;
+        }
+        th, td {
+            padding: 8px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <label for="csvFile">Selecciona un archivo CSV:</label>
+    <input type="file" id="csvFile" accept=".csv" onchange="handleFile(this.files)">
+    <div id="schedule"></div>
+        
+    <script>
+        /*Ejecuta cuando se selecciona un archivo CSV */
+        function handleFile(files) {
+            /* Obtener el archivo seleccionado */
+            const file = files[0]; /* files es un arreglo (array) de archivos */
+            const reader = new FileReader(); /* Objeto para leer el archivo */
+
+            /* Leer el contenido del archivo y mostrarlo en consola */
+            reader.onload = function(event) {
+                /* El contenido del archivo se almacena en la propiedad result */
+                const text = event.target.result;
+                /* Mostrar el contenido del archivo en consola */
+                const courses = parseCSV(text);
+                const schedule = generateSchedule(courses);
+                displaySchedule(schedule);
+            };
+
+            reader.readAsText(file);
+        }
+
+        function parseCSV(csvText) {
+            const lines = csvText.split('\n');
+            const courses = [];
+
+            for (const line of lines) {
+                const [course, day, startTime, endTime] = line.split(',');
+                if (course && day && startTime && endTime) {
+                    courses.push({ course, day, startTime, endTime });
+                }
+            }
+
+            return courses;
+        }
+
+        function generateSchedule(courses) {
+            // Implement your scheduling logic here
+            // You'll need to avoid course time overlaps
+            // and allocate time slots as needed
+            // This example will just display courses as they are
+
+            return courses;
+        }
+
+        function displaySchedule(schedule) {
+            const scheduleDiv = document.getElementById('schedule');
+            scheduleDiv.innerHTML = '';
+
+            if (schedule.length === 0) {
+                scheduleDiv.textContent = 'No se encontraron cursos.';
+                return;
+            }
+
+            const table = document.createElement('table');
+            const headerRow = document.createElement('tr');
+            const headers = ['Curso', 'Día', 'Hora de Inicio', 'Hora de Fin'];
+
+            for (const header of headers) {
+                const th = document.createElement('th');
+                th.textContent = header;
+                headerRow.appendChild(th);
+            }
+
+            table.appendChild(headerRow);
+
+            for (const course of schedule) {
+                const row = document.createElement('tr');
+                const { course: courseName, day, startTime, endTime } = course;
+
+                const data = [courseName, day, startTime, endTime];
+
+                for (const value of data) {
+                    const td = document.createElement('td');
+                    td.textContent = value;
+                    row.appendChild(td);
+                }
+
+                table.appendChild(row);
+            }
+
+            scheduleDiv.appendChild(table);
+        }
+    </script>
+</body>
+</html>

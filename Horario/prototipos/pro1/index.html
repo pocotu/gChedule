@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visualizar CSV en HTML</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Contenido del archivo CSV</h1>
+    <table id="csvTable">
+        <!-- La tabla se llenará con JavaScript -->
+    </table>
+    <script>
+        // Función para cargar y mostrar el archivo CSV
+        function loadCSV() {
+            // Ruta al archivo CSV
+            const archivoCSV = 'DR.csv';
+
+            // Realiza una solicitud HTTP para cargar el archivo CSV
+            fetch(archivoCSV)
+                .then(response => response.text())
+                .then(data => {
+                    const rows = data.split('\n');
+                    const table = document.getElementById('csvTable');
+
+                    for (let i = 0; i < rows.length; i++) {
+                        const row = document.createElement('tr');
+                        const cells = rows[i].split(',');
+
+                        for (let j = 0; j < cells.length; j++) {
+                            const cell = document.createElement(i === 0 ? 'th' : 'td');
+                            cell.textContent = cells[j];
+                            row.appendChild(cell);
+                        }
+
+                        table.appendChild(row);
+                    }
+                })
+                .catch(error => console.error('Error al cargar el archivo CSV:', error));
+        }
+
+        // Cargar el archivo CSV al cargar la página
+        window.addEventListener('load', loadCSV);
+    </script>
+</body>
+</html>

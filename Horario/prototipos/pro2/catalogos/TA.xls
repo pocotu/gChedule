@@ -1,0 +1,132 @@
+
+
+<div style="text-align:center;color:#990000; font-size:16px;font-weight:bold">
+				CATALOGO SEMESTRE:2023-1<br/></div>
+				<div style="text-align:center;color:#990000; font-size:14px;font-weight:bold;text-decoration:underline"><br/>DETALLE DE ASIGNATURAS</div><table id="hor-minimalist-b" width="85%" >
+					<thead>
+						<tr>
+							<td >Nro</td><td>CURSO</td><td colspan="2">NOMBRE DE CURSO</td>
+							<td>CR</td><td>CAT</td><td>REQUISITO</td>
+							<td>N° SEM</td>
+							<td>OBS</td>
+							<td>CURRICULA</td>
+						</tr>
+					</thead><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>1</td>
+			    <td>AS603ZTA</td>
+			    <td>ANTROPOLOGIA SOCIAL DEL PERU</td><td></td>
+			    <td>03</td>
+			    <td>FGH</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold"></td>
+				<td></td>
+				<td>PLAN CURRICULAR 2005</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td></td><td></td><td>[00-00]</td>
+						     <td></td><td></td>
+						     <td></td><td  style="text-align:left">00</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>2</td>
+			    <td>CB212ATA</td>
+			    <td>BOTANICA SISTEMATICA</td><td></td>
+			    <td>04</td>
+			    <td>FCB</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">CB211</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2005</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CASTELO-HERMOZA-DOMINGO GUIDO</td><td >LU</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>K-208</td><td  style="text-align:left">02</td></tr><tr><td>CASTELO-HERMOZA-DOMINGO GUIDO</td><td >MI</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>K-208</td><td  style="text-align:left">02</td></tr><tr><td>CASTELO-HERMOZA-DOMINGO GUIDO</td><td >VI</td><td>[10-11]</td>
+						        <td>T</td><td></td>
+						        <td>K-208</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>3</td>
+			    <td>TA325ATA</td>
+			    <td>MANEJO INTEGRADO DE PLAGAS</td><td></td>
+			    <td>04</td>
+			    <td>FE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">TA121</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2005</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CATALAN-BAZAN-WILFREDO</td><td >MA</td><td>[13-15]</td>
+						        <td>T</td><td></td>
+						        <td>K-206</td><td  style="text-align:left">02</td></tr><tr><td>CATALAN-BAZAN-WILFREDO</td><td >JU</td><td>[13-15]</td>
+						        <td>P</td><td></td>
+						        <td>K-206</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>4</td>
+			    <td>AD301ATA</td>
+			    <td>ADMINISTRACION Y GESTION EMPRESARIAL</td><td></td>
+			    <td>03</td>
+			    <td>FTB</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">TA142</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">9</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2005</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>GONZALES-GALLEGOS-DOMINGO</td><td >MA</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>K-302</td><td  style="text-align:left">02</td></tr><tr><td>GONZALES-GALLEGOS-DOMINGO</td><td >JU</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>K-302</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>5</td>
+			    <td>TA841ATA</td>
+			    <td>PRACTICAS PRE PROFESIONALES II</td><td></td>
+			    <td>03</td>
+			    <td>PPP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">TA840</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">10</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2005</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td></td><td ></td><td>[00-00]</td>
+						        <td></td><td></td>
+						        <td></td><td  style="text-align:left">00</td></tr></table>

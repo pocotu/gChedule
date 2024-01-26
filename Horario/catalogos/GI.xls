@@ -1,0 +1,1642 @@
+
+
+<div style="text-align:center;color:#990000; font-size:16px;font-weight:bold">
+				CATALOGO SEMESTRE:2023-1<br/></div>
+				<div style="text-align:center;color:#990000; font-size:14px;font-weight:bold;text-decoration:underline"><br/>DETALLE DE ASIGNATURAS</div><table id="hor-minimalist-b" width="85%" >
+					<thead>
+						<tr>
+							<td >Nro</td><td>CURSO</td><td colspan="2">NOMBRE DE CURSO</td>
+							<td>CR</td><td>CAT</td><td>REQUISITO</td>
+							<td>N° SEM</td>
+							<td>OBS</td>
+							<td>CURRICULA</td>
+						</tr>
+					</thead><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>1</td>
+			    <td>AD191AGI</td>
+			    <td>ADMINISTRACIÓN DE EMPRESAS</td><td></td>
+			    <td>03</td>
+			    <td>EEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold"></td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>                                                                 </td><td>LU</td><td>[16-18]</td>
+						     <td>T</td><td></td>
+						     <td>LAB-5</td><td  style="text-align:left">02</td></tr><tr><td>YANQUI-QUISPE-MIGUEL ANGEL</td><td >MA</td><td>[16-18]</td>
+						        <td>L</td><td></td>
+						        <td>LAB-5</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>2</td>
+			    <td>GO718AGI</td>
+			    <td>GEOINFORMATICA</td><td></td>
+			    <td>04</td>
+			    <td>EEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">GO512</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">0</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ROLDAN-GUEVARA-JUL DAYFER</td><td >LU</td><td>[18-19]</td>
+						        <td>T</td><td></td>
+						        <td>IG-214</td><td  style="text-align:left">01</td></tr><tr><td> </td><td >MA</td><td>[18-20]</td>
+						        <td>P</td><td></td>
+						        <td>IG-214</td><td  style="text-align:left">02</td></tr><tr><td>ROLDAN-GUEVARA-JUL DAYFER</td><td >JU</td><td>[08-10]</td>
+						        <td>T</td><td></td>
+						        <td>IG-214</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>3</td>
+			    <td>GO915AGI</td>
+			    <td>GEOLOGIA DEL CUATERNARIO</td><td></td>
+			    <td>03</td>
+			    <td>EEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">GO610</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">0</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>URDAY-CHAVEZ-JOSE DANIEL</td><td >LU</td><td>[13-15]</td>
+						        <td>T</td><td></td>
+						        <td>IG-312</td><td  style="text-align:left">02</td></tr><tr><td>URDAY-CHAVEZ-JOSE DANIEL</td><td >MI</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>IG-312</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>4</td>
+			    <td>ML259AGI</td>
+			    <td>METALURGIA GENERAL</td><td></td>
+			    <td>04</td>
+			    <td>EEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">GO317</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">0</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>SEGOVIA-HERMOZA-MILNER</td><td >LU</td><td>[18-20]</td>
+						        <td>T</td><td></td>
+						        <td>IG-115</td><td  style="text-align:left">02</td></tr><tr><td>SEGOVIA-HERMOZA-MILNER</td><td >MA</td><td>[18-20]</td>
+						        <td>P</td><td></td>
+						        <td>IG-115</td><td  style="text-align:left">02</td></tr><tr><td>SEGOVIA-HERMOZA-MILNER</td><td >MI</td><td>[18-19]</td>
+						        <td>T</td><td></td>
+						        <td>IG-115</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>5</td>
+			    <td>GO717AGI</td>
+			    <td>MICROPALEONTOLOGIA</td><td></td>
+			    <td>03</td>
+			    <td>EEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">GO518</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">0</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>URDAY-CHAVEZ-JOSE DANIEL</td><td >LU</td><td>[11-12]</td>
+						        <td>P</td><td></td>
+						        <td>IG-312</td><td  style="text-align:left">01</td></tr><tr><td>URDAY-CHAVEZ-JOSE DANIEL</td><td >JU</td><td>[15-17]</td>
+						        <td>T</td><td></td>
+						        <td>IG-312</td><td  style="text-align:left">02</td></tr><tr><td>URDAY-CHAVEZ-JOSE DANIEL</td><td >VI</td><td>[10-11]</td>
+						        <td>P</td><td></td>
+						        <td>IG-312</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>6</td>
+			    <td>IM421AGI</td>
+			    <td>MINERIA GENERAL</td><td></td>
+			    <td>04</td>
+			    <td>EEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">GO811</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">0</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>SALAS-ACEVEDO-JULIO CESAR</td><td >LU</td><td>[17-19]</td>
+						        <td>T</td><td></td>
+						        <td>IG-114</td><td  style="text-align:left">02</td></tr><tr><td>SALAS-ACEVEDO-JULIO CESAR</td><td >MI</td><td>[18-20]</td>
+						        <td>P</td><td></td>
+						        <td>IG-114</td><td  style="text-align:left">02</td></tr><tr><td>SALAS-ACEVEDO-JULIO CESAR</td><td >VI</td><td>[17-18]</td>
+						        <td>T</td><td></td>
+						        <td>IG-114</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>7</td>
+			    <td>GO719AGI</td>
+			    <td>MODELAMIENTO GEOLÓGICO</td><td></td>
+			    <td>04</td>
+			    <td>EEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">GO713</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">0</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ROLDAN-GUEVARA-JUL DAYFER</td><td >LU</td><td>[20-21]</td>
+						        <td>T</td><td></td>
+						        <td>IG-214</td><td  style="text-align:left">01</td></tr><tr><td>ROLDAN-GUEVARA-JUL DAYFER</td><td >MA</td><td>[19-20]</td>
+						        <td>T</td><td></td>
+						        <td>IG-403</td><td  style="text-align:left">01</td></tr><tr><td>ROLDAN-GUEVARA-JUL DAYFER</td><td >MI</td><td>[19-21]</td>
+						        <td>P</td><td></td>
+						        <td>IG-214</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>8</td>
+			    <td>GO819AGI</td>
+			    <td>PETROLOGIA SEDIMENTARIA</td><td></td>
+			    <td>03</td>
+			    <td>EEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">GO513</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">0</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MELENDEZ-MORVELI-LUIS ANTONIO</td><td >MI</td><td>[12-14]</td>
+						        <td>T</td><td></td>
+						        <td>IG-403</td><td  style="text-align:left">02</td></tr><tr><td>MELENDEZ-MORVELI-LUIS ANTONIO</td><td >JU</td><td>[09-11]</td>
+						        <td>L</td><td></td>
+						        <td>LAB-7</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>9</td>
+			    <td>GO820AGI</td>
+			    <td>YACIMIENTOS DE MINERALES NO METALICOS</td><td></td>
+			    <td>04</td>
+			    <td>EEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">GO911</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">0</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CUENCA-SANCHEZ-JORGE HENRRY</td><td >MI</td><td>[10-12]</td>
+						        <td>T</td><td></td>
+						        <td>IG-306</td><td  style="text-align:left">02</td></tr><tr><td>CUENCA-SANCHEZ-JORGE HENRRY</td><td >MI</td><td>[16-18]</td>
+						        <td>P</td><td></td>
+						        <td>IG-306</td><td  style="text-align:left">02</td></tr><tr><td>CUENCA-SANCHEZ-JORGE HENRRY</td><td >JU</td><td>[11-12]</td>
+						        <td>T</td><td></td>
+						        <td>IG-201</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>10</td>
+			    <td>DE901AGI</td>
+			    <td>CONSTITUCION POLITICA Y DERECHOS HUMANOS</td><td></td>
+			    <td>03</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">1</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CHEVARRIA-MONTESINOS-JIM FRANZ</td><td >MA</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>IG-202</td><td  style="text-align:left">02</td></tr><tr><td>CHEVARRIA-MONTESINOS-JIM FRANZ</td><td >JU</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>IG-202</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>11</td>
+			    <td>ED901AGI</td>
+			    <td>ESTRATEGIAS DE APRENDIZAJE AUTONOMO</td><td></td>
+			    <td>04</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">1</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PAREDES-VALVERDE-VICTORIA</td><td >LU</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>IG-202</td><td  style="text-align:left">02</td></tr><tr><td>PAREDES-VALVERDE-VICTORIA</td><td >MI</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>IG-202</td><td  style="text-align:left">02</td></tr><tr><td>PAREDES-VALVERDE-VICTORIA</td><td >VI</td><td>[09-10]</td>
+						        <td>T</td><td></td>
+						        <td>IG-202</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>12</td>
+			    <td>FP901AGI</td>
+			    <td>FILOSOFIA Y ETICA</td><td></td>
+			    <td>03</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">1</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>                                                                 </td><td >MA</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>IG-202</td><td  style="text-align:left">02</td></tr><tr><td>                                                                 </td><td >JU</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>IG-202</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>13</td>
+			    <td>ME901AGI</td>
+			    <td>MATEMATICA I</td><td></td>
+			    <td>04</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">1</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>NEGRON-CALVO-LISARDO</td><td >LU</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>IG-202</td><td  style="text-align:left">02</td></tr><tr><td>NEGRON-CALVO-LISARDO</td><td >MI</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>IG-202</td><td  style="text-align:left">02</td></tr><tr><td>NEGRON-CALVO-LISARDO</td><td >VI</td><td>[07-08]</td>
+						        <td>T</td><td></td>
+						        <td>IG-202</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>14</td>
+			    <td>LC901AGI</td>
+			    <td>REDACCION DE TEXTOS</td><td></td>
+			    <td>04</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">1</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>LLERENA-CERVANTES-CARLA</td><td >LU</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>IG-202</td><td  style="text-align:left">02</td></tr><tr><td>LLERENA-CERVANTES-CARLA</td><td >MI</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>IG-202</td><td  style="text-align:left">02</td></tr><tr><td>LLERENA-CERVANTES-CARLA</td><td >VI</td><td>[11-12]</td>
+						        <td>T</td><td></td>
+						        <td>IG-202</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>15</td>
+			    <td>AS901AGI</td>
+			    <td>SOCIEDAD Y CULTURA</td><td></td>
+			    <td>03</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">1</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>TTITO-TICA-ALEJANDRA</td><td >MA</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>IG-202</td><td  style="text-align:left">02</td></tr><tr><td>TTITO-TICA-ALEJANDRA</td><td >JU</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>IG-202</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>16</td>
+			    <td>GO204AGI</td>
+			    <td>CRISTALOGRAFÍA</td><td></td>
+			    <td>04</td>
+			    <td>OEFE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CACERES-ANGULO-IVAN</td><td >LU</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>IG-201</td><td  style="text-align:left">02</td></tr><tr><td>CACERES-ANGULO-IVAN</td><td >MA</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>IG-212</td><td  style="text-align:left">02</td></tr><tr><td>CACERES-ANGULO-IVAN</td><td >VI</td><td>[10-11]</td>
+						        <td>T</td><td></td>
+						        <td>IG-404</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>17</td>
+			    <td>ME203ZGI</td>
+			    <td>ESTADISTICA Y PROBABILIDADES</td><td></td>
+			    <td>04</td>
+			    <td>FCB</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">ME105</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2011</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td></td><td ></td><td>[00-00]</td>
+						        <td></td><td></td>
+						        <td></td><td  style="text-align:left">00</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>18</td>
+			    <td>FI902AGI</td>
+			    <td>FÍSICA I</td><td></td>
+			    <td>04</td>
+			    <td>EGT</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">15 Creds.</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CARRILLO-SEGURA-SALINOVA</td><td >LU</td><td>[16-18]</td>
+						        <td>T</td><td></td>
+						        <td>IG-202</td><td  style="text-align:left">02</td></tr><tr><td>CARRILLO-SEGURA-SALINOVA</td><td >MI</td><td>[16-18]</td>
+						        <td>P</td><td></td>
+						        <td>IG-202</td><td  style="text-align:left">02</td></tr><tr><td>CARRILLO-SEGURA-SALINOVA</td><td >VI</td><td>[16-17]</td>
+						        <td>T</td><td></td>
+						        <td>IG-202</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>19</td>
+			    <td>GO102AGI</td>
+			    <td>GEOLOGÍA GENERAL</td><td></td>
+			    <td>04</td>
+			    <td>OEFE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MIRANDA-GASTANAGA-FELIX ALEJO LEON</td><td >LU</td><td>[15-17]</td>
+						        <td>P</td><td></td>
+						        <td>IN311</td><td  style="text-align:left">02</td></tr><tr><td>BUSTAMANTE-PRADO-FREDY VICTOR</td><td >LU</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>IN312</td><td  style="text-align:left">02</td></tr><tr><td>BUSTAMANTE-PRADO-FREDY VICTOR</td><td >MA</td><td>[11-12]</td>
+						        <td>T</td><td></td>
+						        <td>IG-403</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>20</td>
+			    <td>FP902AGI</td>
+			    <td>LIDERAZGO Y HABILIDADES SOCIALES</td><td></td>
+			    <td>03</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">15 Creds.</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CARREON-SUTEC-ALAIN GUNNAR</td><td >MA</td><td>[18-20]</td>
+						        <td>T</td><td></td>
+						        <td>IG-202</td><td  style="text-align:left">02</td></tr><tr><td>CARREON-SUTEC-ALAIN GUNNAR</td><td >JU</td><td>[18-20]</td>
+						        <td>P</td><td></td>
+						        <td>IG-202</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>21</td>
+			    <td>ME902AGI</td>
+			    <td>MATEMÁTICA II</td><td></td>
+			    <td>04</td>
+			    <td>EGT</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">ME901</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>HUANCA-CHECCA-FERNANDO</td><td >LU</td><td>[18-20]</td>
+						        <td>T</td><td></td>
+						        <td>IG-202</td><td  style="text-align:left">02</td></tr><tr><td>HUANCA-CHECCA-FERNANDO</td><td >MI</td><td>[18-20]</td>
+						        <td>P</td><td></td>
+						        <td>IG-202</td><td  style="text-align:left">02</td></tr><tr><td>HUANCA-CHECCA-FERNANDO</td><td >VI</td><td>[18-19]</td>
+						        <td>T</td><td></td>
+						        <td>IG-202</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>22</td>
+			    <td>IF902AGI</td>
+			    <td>TECNOLOGIAS DE LA INFORMACIÓN Y LA COMUNICACIÓN</td><td></td>
+			    <td>03</td>
+			    <td>EG</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">15 Creds.</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">2</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>DIAZ-CACERES-LISHA SABAH</td><td >MA</td><td>[16-18]</td>
+						        <td>L</td><td>A</td>
+						        <td>IN311</td><td  style="text-align:left">02</td></tr><tr><td>ANDRADE-CARI-JOSE GUILLERMO</td><td >MA</td><td>[16-18]</td>
+						        <td>L</td><td></td>
+						        <td>IN312</td><td  style="text-align:left">02</td></tr><tr><td>SEGUNDO-CARPIO-LISETH URPY</td><td >JU</td><td>[16-18]</td>
+						        <td>T</td><td></td>
+						        <td>IG-202</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>23</td>
+			    <td>ME318AGI</td>
+			    <td>ANALISIS MATEMATICO I</td><td></td>
+			    <td>04</td>
+			    <td>OEES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">ME902</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>HOLGUIN-SEGOVIA-DONATO</td><td >LU</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>IG-115</td><td  style="text-align:left">02</td></tr><tr><td>HOLGUIN-SEGOVIA-DONATO</td><td >MI</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>IG-115</td><td  style="text-align:left">02</td></tr><tr><td>HOLGUIN-SEGOVIA-DONATO</td><td >VI</td><td>[09-10]</td>
+						        <td>T</td><td></td>
+						        <td>IG-115</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>24</td>
+			    <td>ME313AGI</td>
+			    <td>ESTADISTICA Y PROBABILIDADES</td><td></td>
+			    <td>03</td>
+			    <td>OEES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">ME902</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>RIOS-QUISPICHO-ZAIDINA</td><td >LU</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>IG-115</td><td  style="text-align:left">02</td></tr><tr><td>RIOS-QUISPICHO-ZAIDINA</td><td >MA</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>IG-115</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>25</td>
+			    <td>FI311AGI</td>
+			    <td>FISICA II</td><td></td>
+			    <td>04</td>
+			    <td>OEES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FI902</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CCOLLATUPA-BALLON-VENANCIA</td><td >LU</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>IG-201</td><td  style="text-align:left">02</td></tr><tr><td>CCOLLATUPA-BALLON-VENANCIA</td><td >MA</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>IG-201</td><td  style="text-align:left">02</td></tr><tr><td>CCOLLATUPA-BALLON-VENANCIA</td><td >JU</td><td>[07-08]</td>
+						        <td>T</td><td></td>
+						        <td>IG-201</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>26</td>
+			    <td>GO317AGI</td>
+			    <td>MINERALOGIA DESCRIPTIVA</td><td></td>
+			    <td>04</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">GO102</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>BUSTAMANTE-PRADO-FREDY VICTOR</td><td >MI</td><td>[09-10]</td>
+						        <td>T</td><td></td>
+						        <td>IG-403</td><td  style="text-align:left">01</td></tr><tr><td>BUSTAMANTE-PRADO-FREDY VICTOR</td><td >MI</td><td>[15-17]</td>
+						        <td>P</td><td></td>
+						        <td>IG-212</td><td  style="text-align:left">02</td></tr><tr><td>BUSTAMANTE-PRADO-FREDY VICTOR</td><td >VI</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>IG-201</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>27</td>
+			    <td>QU315AGI</td>
+			    <td>QUIMICA GENERAL E INORGANICA</td><td></td>
+			    <td>03</td>
+			    <td>OEES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"> </td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>HUAHUASONCCO-CONDORI-WILBER</td><td >MA</td><td>[16-18]</td>
+						        <td>T</td><td></td>
+						        <td>IG-115</td><td  style="text-align:left">02</td></tr><tr><td>                                                                 </td><td >JU</td><td>[16-18]</td>
+						        <td>P</td><td></td>
+						        <td>IG-115</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>28</td>
+			    <td>GE267ZGI</td>
+			    <td>RECURSOS NATURALES DEL PERU Y DEL MUNDO</td><td></td>
+			    <td>02</td>
+			    <td>ECGH</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold"></td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2011</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td></td><td ></td><td>[00-00]</td>
+						        <td></td><td></td>
+						        <td></td><td  style="text-align:left">00</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>29</td>
+			    <td>GO312AGI</td>
+			    <td>TOPOGRAFIA GEOLOGICA GENERAL</td><td></td>
+			    <td>04</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">GO102</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">3</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MACEDO-GUZMAN-NICOLAS</td><td >LU</td><td>[14-16]</td>
+						        <td>P</td><td></td>
+						        <td>LAB-9</td><td  style="text-align:left">02</td></tr><tr><td>MACEDO-GUZMAN-NICOLAS</td><td >MA</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>IG-403</td><td  style="text-align:left">02</td></tr><tr><td>MACEDO-GUZMAN-NICOLAS</td><td >JU</td><td>[07-08]</td>
+						        <td>T</td><td></td>
+						        <td>LAB-9</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>30</td>
+			    <td>ME419AGI</td>
+			    <td>ANALISIS MATEMATICO II</td><td></td>
+			    <td>04</td>
+			    <td>OEES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">ME318</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">4</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>VELASQUEZ-HACHA-IGNACIO</td><td >MA</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>IG-115</td><td  style="text-align:left">02</td></tr><tr><td>VELASQUEZ-HACHA-IGNACIO</td><td >JU</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>IG-115</td><td  style="text-align:left">02</td></tr><tr><td>                                                                 </td><td >VI</td><td>[10-11]</td>
+						        <td>T</td><td></td>
+						        <td>IG-115</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>31</td>
+			    <td>GO411AGI</td>
+			    <td>ESTRATIGRAFIA</td><td></td>
+			    <td>03</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">GO312</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">4</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ESCALANTE-GUTIERREZ-JOSEFINA</td><td >MA</td><td>[14-16]</td>
+						        <td>T</td><td></td>
+						        <td>IG-114</td><td  style="text-align:left">02</td></tr><tr><td>ESCALANTE-GUTIERREZ-JOSEFINA</td><td >JU</td><td>[17-19]</td>
+						        <td>P</td><td></td>
+						        <td>IN312</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>32</td>
+			    <td>FI412AGI</td>
+			    <td>FISICA III</td><td></td>
+			    <td>04</td>
+			    <td>OEES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">ME311  ó  FI311</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">4</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PINARES-GAMARRA-CARLOS ENRIQUE</td><td >LU</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>IG-115</td><td  style="text-align:left">02</td></tr><tr><td>PINARES-GAMARRA-CARLOS ENRIQUE</td><td >MA</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>IG-115</td><td  style="text-align:left">02</td></tr><tr><td>PINARES-GAMARRA-CARLOS ENRIQUE</td><td >JU</td><td>[07-08]</td>
+						        <td>T</td><td></td>
+						        <td>IG-115</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>33</td>
+			    <td>QU416AGI</td>
+			    <td>FISICOQUIMICA</td><td></td>
+			    <td>04</td>
+			    <td>OEES</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">QU315</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">4</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td> </td><td >LU</td><td>[16-18]</td>
+						        <td>T</td><td></td>
+						        <td>IG-115</td><td  style="text-align:left">02</td></tr><tr><td>                                                                 </td><td >MI</td><td>[16-18]</td>
+						        <td>P</td><td></td>
+						        <td>IG-114</td><td  style="text-align:left">02</td></tr><tr><td> </td><td >VI</td><td>[16-17]</td>
+						        <td>T</td><td></td>
+						        <td>IG-114</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>34</td>
+			    <td>GO410AGI</td>
+			    <td>GEOMORFOLOGIA</td><td></td>
+			    <td>04</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">GO102</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">4</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PEÑA-CHÁVEZ-EVELYNG</td><td >LU</td><td>[20-21]</td>
+						        <td>T</td><td></td>
+						        <td>IG-201</td><td  style="text-align:left">01</td></tr><tr><td>PEÑA-CHÁVEZ-EVELYNG</td><td >JU</td><td>[19-21]</td>
+						        <td>T</td><td></td>
+						        <td>IG-201</td><td  style="text-align:left">02</td></tr><tr><td>PEÑA-CHÁVEZ-EVELYNG</td><td >VI</td><td>[14-16]</td>
+						        <td>P</td><td></td>
+						        <td>IG-201</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>35</td>
+			    <td>GO412AGI</td>
+			    <td>MINERALOGIA OPTICA</td><td></td>
+			    <td>03</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">GO317</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">4</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CARDENAS-ROQUE-JOSE DIONICIO</td><td >LU</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>IG-306</td><td  style="text-align:left">02</td></tr><tr><td>CARDENAS-ROQUE-JOSE DIONICIO</td><td >LU</td><td>[15-17]</td>
+						        <td>P</td><td></td>
+						        <td>LAB-2</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>36</td>
+			    <td>GO512AGI</td>
+			    <td>GEOESTADÍSTICA</td><td></td>
+			    <td>04</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">GO412</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PACHECO-ROMÁN-ROCÍO</td><td >MI</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>IG-201</td><td  style="text-align:left">02</td></tr><tr><td>PACHECO-ROMÁN-ROCÍO</td><td >JU</td><td>[08-09]</td>
+						        <td>P</td><td></td>
+						        <td>IG-404</td><td  style="text-align:left">01</td></tr><tr><td>PACHECO-ROMÁN-ROCÍO</td><td >JU</td><td>[07-08]</td>
+						        <td>T</td><td></td>
+						        <td>IG-404</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>37</td>
+			    <td>GO511AGI</td>
+			    <td>GEOLOGÍA ESTRUCTURAL</td><td></td>
+			    <td>04</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">GO411</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MERCADO-TEJADA-EDDIE EDGARD</td><td >LU</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>IG-306</td><td  style="text-align:left">02</td></tr><tr><td>MERCADO-TEJADA-EDDIE EDGARD</td><td >JU</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>IG-306</td><td  style="text-align:left">02</td></tr><tr><td>MERCADO-TEJADA-EDDIE EDGARD</td><td >VI</td><td>[09-10]</td>
+						        <td>T</td><td></td>
+						        <td>IG-306</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>38</td>
+			    <td>GO510AGI</td>
+			    <td>GEOTECTÓNICA</td><td></td>
+			    <td>03</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">GO410</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PACHECO-ROMÁN-ROCÍO</td><td >LU</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>IG-306</td><td  style="text-align:left">02</td></tr><tr><td>PACHECO-ROMÁN-ROCÍO</td><td >MA</td><td>[16-18]</td>
+						        <td>P</td><td></td>
+						        <td>IG-306</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>39</td>
+			    <td>GO518AGI</td>
+			    <td>PALEONTOLOGÍA</td><td></td>
+			    <td>03</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">GO317</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ESCOBEDO-ZAPANA-ROMULO</td><td >LU</td><td>[17-19]</td>
+						        <td>T</td><td></td>
+						        <td>IG-306</td><td  style="text-align:left">02</td></tr><tr><td>ESCOBEDO-ZAPANA-ROMULO</td><td >MI</td><td>[14-16]</td>
+						        <td>P</td><td></td>
+						        <td>IG-308</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>40</td>
+			    <td>GO517AGI</td>
+			    <td>PETROLOGIA IGNEA</td><td></td>
+			    <td>04</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">QU416 y GO317</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MELENDEZ-MORVELI-LUIS ANTONIO</td><td >LU</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>LAB-2</td><td  style="text-align:left">02</td></tr><tr><td>MELENDEZ-MORVELI-LUIS ANTONIO</td><td >MA</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>IG-306</td><td  style="text-align:left">02</td></tr><tr><td>MELENDEZ-MORVELI-LUIS ANTONIO</td><td >JU</td><td>[14-15]</td>
+						        <td>T</td><td></td>
+						        <td>IG-404</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>41</td>
+			    <td>GO513AGI</td>
+			    <td>SEDIMENTOLOGÍA</td><td></td>
+			    <td>03</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">GO411</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">5</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>VEGA-GUZMÁN-MARIA MAYSSA</td><td >MA</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>IG-306</td><td  style="text-align:left">02</td></tr><tr><td>VEGA-GUZMÁN-MARIA MAYSSA</td><td >MI</td><td>[18-20]</td>
+						        <td>T</td><td></td>
+						        <td>IG-306</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>42</td>
+			    <td>GO610AGI</td>
+			    <td>GEOLOGÍA DEL PERÚ</td><td></td>
+			    <td>04</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">GO510</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ESCOBEDO-ZAPANA-ROMULO</td><td >LU</td><td>[15-16]</td>
+						        <td>T</td><td></td>
+						        <td>IG-306</td><td  style="text-align:left">01</td></tr><tr><td>ESCOBEDO-ZAPANA-ROMULO</td><td >MA</td><td>[13-15]</td>
+						        <td>T</td><td></td>
+						        <td>IG-306</td><td  style="text-align:left">02</td></tr><tr><td>ESCOBEDO-ZAPANA-ROMULO</td><td >JU</td><td>[12-14]</td>
+						        <td>P</td><td></td>
+						        <td>IG-308</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>43</td>
+			    <td>GO612AGI</td>
+			    <td>GEOMECANICA DE ROCAS</td><td></td>
+			    <td>04</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">GO511</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>LOPEZ-ZAPANA-RONALD LUIS</td><td >LU</td><td>[18-19]</td>
+						        <td>T</td><td></td>
+						        <td>IG-403</td><td  style="text-align:left">01</td></tr><tr><td>LOPEZ-ZAPANA-RONALD LUIS</td><td >MI</td><td>[17-19]</td>
+						        <td>T</td><td></td>
+						        <td>IG-403</td><td  style="text-align:left">02</td></tr><tr><td>LOPEZ-ZAPANA-RONALD LUIS</td><td >VI</td><td>[17-19]</td>
+						        <td>P</td><td></td>
+						        <td>IG-403</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>44</td>
+			    <td>GO615AGI</td>
+			    <td>PETROGRAFÍA MICROSCÓPICA</td><td></td>
+			    <td>03</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">GO412</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CACERES-ANGULO-IVAN</td><td >LU</td><td>[15-17]</td>
+						        <td>T</td><td></td>
+						        <td>IG-114</td><td  style="text-align:left">02</td></tr><tr><td>CACERES-ANGULO-IVAN</td><td >MA</td><td>[16-18]</td>
+						        <td>P</td><td></td>
+						        <td>LAB-2</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>45</td>
+			    <td>GO614AGI</td>
+			    <td>PETROLOGÍA METAMÓRFICA</td><td></td>
+			    <td>04</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">GO517</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ZEGARRA-CARREON-MAURO</td><td >MI</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>LAB-2</td><td  style="text-align:left">02</td></tr><tr><td>ZEGARRA-CARREON-MAURO</td><td >JU</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>IG-403</td><td  style="text-align:left">02</td></tr><tr><td>ZEGARRA-CARREON-MAURO</td><td >VI</td><td>[09-10]</td>
+						        <td>T</td><td></td>
+						        <td>IG-403</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>46</td>
+			    <td>GO613AGI</td>
+			    <td>PROSPECCIÓN GEOQUÍMICA</td><td></td>
+			    <td>03</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">GO512</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>                                                                 </td><td >LU</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>IG-308</td><td  style="text-align:left">02</td></tr><tr><td>                                                                 </td><td >JU</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>IG-308</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>47</td>
+			    <td>GO611AGI</td>
+			    <td>TELEDETECCIÓN</td><td></td>
+			    <td>04</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">GO410</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">6</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>PEÑA-CHÁVEZ-EVELYNG</td><td >MA</td><td>[17-19]</td>
+						        <td>T</td><td></td>
+						        <td>LAB-4</td><td  style="text-align:left">02</td></tr><tr><td>PEÑA-CHÁVEZ-EVELYNG</td><td >JU</td><td>[18-19]</td>
+						        <td>T</td><td></td>
+						        <td>LAB-4</td><td  style="text-align:left">01</td></tr><tr><td>PEÑA-CHÁVEZ-EVELYNG</td><td >VI</td><td>[19-21]</td>
+						        <td>P</td><td></td>
+						        <td>IG-214</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>48</td>
+			    <td>GO715AGI</td>
+			    <td>ACTIVIDADES</td><td></td>
+			    <td>03</td>
+			    <td>AE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">120 Creds.</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MACEDO-GUZMAN-NICOLAS</td><td >JU</td><td>[16-18]</td>
+						        <td>T</td><td></td>
+						        <td>IG-404</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>49</td>
+			    <td>GO712AGI</td>
+			    <td>GEOHIDROLOGIA</td><td></td>
+			    <td>04</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">GO512</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ASCUE-CUBA-JUAN CARLOS</td><td >LU</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>IG-114</td><td  style="text-align:left">02</td></tr><tr><td>ASCUE-CUBA-JUAN CARLOS</td><td >JU</td><td>[13-14]</td>
+						        <td>T</td><td></td>
+						        <td>IG-114</td><td  style="text-align:left">01</td></tr><tr><td>ASCUE-CUBA-JUAN CARLOS</td><td >VI</td><td>[13-15]</td>
+						        <td>P</td><td></td>
+						        <td>IG-114</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>50</td>
+			    <td>GO710AGI</td>
+			    <td>GEOLOGIA AMBIENTAL Y DESARROLLO SOSTENIBLE</td><td></td>
+			    <td>04</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">GO613</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>                                                                 </td><td >MA</td><td>[14-16]</td>
+						        <td>T</td><td></td>
+						        <td>IG-201</td><td  style="text-align:left">02</td></tr><tr><td>ESCALANTE-GUTIERREZ-JOSEFINA</td><td >JU</td><td>[08-09]</td>
+						        <td>T</td><td></td>
+						        <td>IG-403</td><td  style="text-align:left">01</td></tr><tr><td>ESCALANTE-GUTIERREZ-JOSEFINA</td><td >VI</td><td>[15-17]</td>
+						        <td>P</td><td></td>
+						        <td>IG-403</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>51</td>
+			    <td>GO714AGI</td>
+			    <td>GEOMECANICA DE SUELOS</td><td></td>
+			    <td>04</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">GO612</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>GARATE-GONGORA-VICTOR</td><td >LU</td><td>[14-16]</td>
+						        <td>T</td><td></td>
+						        <td>IG-404</td><td  style="text-align:left">02</td></tr><tr><td>GARATE-GONGORA-VICTOR</td><td >LU</td><td>[18-20]</td>
+						        <td>P</td><td></td>
+						        <td>LAB-3</td><td  style="text-align:left">02</td></tr><tr><td>GARATE-GONGORA-VICTOR</td><td >MA</td><td>[13-14]</td>
+						        <td>T</td><td></td>
+						        <td>IG-403</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>52</td>
+			    <td>GO711AGI</td>
+			    <td>METALOGENIA</td><td></td>
+			    <td>03</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">GO614</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>BLAS-ABREGU-VICENTE ENRIQUE</td><td >LU</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>IG-403</td><td  style="text-align:left">02</td></tr><tr><td>BLAS-ABREGU-VICENTE ENRIQUE</td><td >MA</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>IG-201</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>53</td>
+			    <td>GO713AGI</td>
+			    <td>PROSPECCION GEOFISICA</td><td></td>
+			    <td>04</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">FI412</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">7</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>BARRIENTOS-GUZMAN-CARLOS</td><td >LU</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>IG-201</td><td  style="text-align:left">02</td></tr><tr><td>BARRIENTOS-GUZMAN-CARLOS</td><td >MI</td><td>[09-10]</td>
+						        <td>T</td><td></td>
+						        <td>IG-201</td><td  style="text-align:left">01</td></tr><tr><td>BARRIENTOS-GUZMAN-CARLOS</td><td >VI</td><td>[07-09]</td>
+						        <td>P</td><td></td>
+						        <td>LAB-1</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>54</td>
+			    <td>GO813AGI</td>
+			    <td>ALTERACIONES HIDROTERMALES</td><td></td>
+			    <td>03</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">GO613</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CUENCA-SANCHEZ-JORGE HENRRY</td><td >LU</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>IG-404</td><td  style="text-align:left">02</td></tr><tr><td>CUENCA-SANCHEZ-JORGE HENRRY</td><td >LU</td><td>[16-18]</td>
+						        <td>P</td><td></td>
+						        <td>IG-214</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>55</td>
+			    <td>GO812AGI</td>
+			    <td>CARTOGRAFIA GEOLOGICA</td><td></td>
+			    <td>04</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">GO610</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="2">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>LOPEZ-ZAPANA-RONALD LUIS</td><td >MA</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>IG-403</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>56</td>
+			    <td>GO811AGI</td>
+			    <td>EXPLORACION DE YACIMIENTOS MINERALES</td><td></td>
+			    <td>03</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">GO711</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MIRANDA-GASTANAGA-FELIX ALEJO LEON</td><td >MI</td><td>[08-10]</td>
+						        <td>T</td><td></td>
+						        <td>IG-308</td><td  style="text-align:left">02</td></tr><tr><td>ESCOBEDO-ZAPANA-ROMULO</td><td >JU</td><td>[19-21]</td>
+						        <td>P</td><td></td>
+						        <td>IG-404</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>57</td>
+			    <td>GO810AGI</td>
+			    <td>GESTION DE RIESGOS GEOLOGICOS</td><td></td>
+			    <td>04</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">GO714</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>BARRIENTOS-GUZMAN-CARLOS</td><td >MA</td><td>[10-13]</td>
+						        <td>T</td><td></td>
+						        <td>IG-404</td><td  style="text-align:left">03</td></tr><tr><td>BARRIENTOS-GUZMAN-CARLOS</td><td >JU</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>IG-404</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>58</td>
+			    <td>GO815AGI</td>
+			    <td>INVESTIGACION GEOLOGICA</td><td></td>
+			    <td>03</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">GO610</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MERCADO-TEJADA-EDDIE EDGARD</td><td >JU</td><td>[16-18]</td>
+						        <td>T</td><td></td>
+						        <td>IG-306</td><td  style="text-align:left">02</td></tr><tr><td>MERCADO-TEJADA-EDDIE EDGARD</td><td >VI</td><td>[12-14]</td>
+						        <td>P</td><td></td>
+						        <td>IG-306</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>59</td>
+			    <td>GO813BGI</td>
+			    <td>METALOGENIA</td><td></td>
+			    <td>03</td>
+			    <td>OFE</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">GO761</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2011</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>BLAS-ABREGU-VICENTE ENRIQUE</td><td >LU</td><td>[11-13]</td>
+						        <td>T</td><td></td>
+						        <td>IG-403</td><td  style="text-align:left">02</td></tr><tr><td>BLAS-ABREGU-VICENTE ENRIQUE</td><td >MA</td><td>[09-11]</td>
+						        <td>P</td><td></td>
+						        <td>IG-201</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>60</td>
+			    <td>GO814AGI</td>
+			    <td>YACIMIENTOS DE HIDROCARBUROS</td><td></td>
+			    <td>04</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">GO713</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">8</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MIRANDA-GASTANAGA-FELIX ALEJO LEON</td><td >LU</td><td>[10-11]</td>
+						        <td>T</td><td></td>
+						        <td>IG-308</td><td  style="text-align:left">01</td></tr><tr><td>MIRANDA-GASTANAGA-FELIX ALEJO LEON</td><td >MA</td><td>[09-11]</td>
+						        <td>T</td><td></td>
+						        <td>IG-308</td><td  style="text-align:left">02</td></tr><tr><td>MIRANDA-GASTANAGA-FELIX ALEJO LEON</td><td >MI</td><td>[10-12]</td>
+						        <td>P</td><td></td>
+						        <td>IG-308</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>61</td>
+			    <td>GO913AGI</td>
+			    <td>HIDROGEOLOGIA </td><td></td>
+			    <td>04</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">GO712</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">9</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ASCUE-CUBA-JUAN CARLOS</td><td >LU</td><td>[18-20]</td>
+						        <td>P</td><td></td>
+						        <td>IG-201</td><td  style="text-align:left">02</td></tr><tr><td>ASCUE-CUBA-JUAN CARLOS</td><td >MA</td><td>[19-20]</td>
+						        <td>T</td><td></td>
+						        <td>IG-201</td><td  style="text-align:left">01</td></tr><tr><td>ASCUE-CUBA-JUAN CARLOS</td><td >MI</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>IG-114</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>62</td>
+			    <td>GO910AGI</td>
+			    <td>INGENIERIA GEOLOGICA DE OBRAS CIVILES </td><td></td>
+			    <td>04</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">GO810</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">9</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>MATTOS-OJEDA-EDISON SANTIAGO</td><td >LU</td><td>[09-10]</td>
+						        <td>T</td><td></td>
+						        <td>IG-403</td><td  style="text-align:left">01</td></tr><tr><td>MATTOS-OJEDA-EDISON SANTIAGO</td><td >MI</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>LAB-3</td><td  style="text-align:left">02</td></tr><tr><td>MATTOS-OJEDA-EDISON SANTIAGO</td><td >JU</td><td>[14-15]</td>
+						        <td>T</td><td></td>
+						        <td>IG-403</td><td  style="text-align:left">01</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>63</td>
+			    <td>GO912AGI</td>
+			    <td>PROYECTOS GEOLOGICOS </td><td></td>
+			    <td>03</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">GO815</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">9</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="3">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ROLDAN-GUEVARA-JUL DAYFER</td><td >LU</td><td>[07-09]</td>
+						        <td>T</td><td></td>
+						        <td>IG-404</td><td  style="text-align:left">02</td></tr><tr><td>ROLDAN-GUEVARA-JUL DAYFER</td><td >JU</td><td>[11-13]</td>
+						        <td>P</td><td></td>
+						        <td>IG-114</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>64</td>
+			    <td>GO911AGI</td>
+			    <td>YACIMIENTOS DE MINERALES METALICOS </td><td></td>
+			    <td>04</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">GO811</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">9</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>ZEGARRA-CARREON-MAURO</td><td >LU</td><td>[10-11]</td>
+						        <td>T</td><td></td>
+						        <td>IG-404</td><td  style="text-align:left">01</td></tr><tr><td>ZEGARRA-CARREON-MAURO</td><td >MA</td><td>[10-12]</td>
+						        <td>T</td><td></td>
+						        <td>IG-312</td><td  style="text-align:left">02</td></tr><tr><td> </td><td >MA</td><td>[15-17]</td>
+						        <td>P</td><td></td>
+						        <td>IG-312</td><td  style="text-align:left">02</td></tr><tr style="background-color:#F0F0F0; border-bottom:#03C;border-width:3px">
+			    <td>65</td>
+			    <td>GO920AGI</td>
+			    <td>PRE-TESIS</td><td></td>
+			    <td>04</td>
+			    <td>OEEP</td>
+				<td style="text-align:center;color:#636; font-size:10px;font-weight:bold">GO815</td>
+				<td style="text-align:center; color:#934; font-size:14px; font-weight:bold">10</td>
+				<td></td>
+				<td>PLAN CURRICULAR 2017</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2" rowspan="4">&nbsp;</td>
+			    <td><strong>Docente</strong></td>
+			    <td><strong>Dia</strong></td>
+			    <td><strong>Horario</strong></td>
+			    <td><strong>Tipo</strong></td>
+			    <td><strong>Grupo</strong></td>
+			    <td><strong>Aula</strong></td>
+			    <td><strong>Horas</strong></td>
+			  </tr><tr><td>CARDENAS-ROQUE-JOSE DIONICIO</td><td >MI</td><td>[08-10]</td>
+						        <td>T</td><td></td>
+						        <td>IG-306</td><td  style="text-align:left">02</td></tr><tr><td>CARDENAS-ROQUE-JOSE DIONICIO</td><td >JU</td><td>[10-11]</td>
+						        <td>T</td><td></td>
+						        <td>IG-306</td><td  style="text-align:left">01</td></tr><tr><td>CARDENAS-ROQUE-JOSE DIONICIO</td><td >JU</td><td>[08-10]</td>
+						        <td>P</td><td></td>
+						        <td>IG-306</td><td  style="text-align:left">02</td></tr></table>
