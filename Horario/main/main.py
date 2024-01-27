@@ -22,7 +22,7 @@ def vis(VHorario):
 
 if __name__ == '__main__':
     horarios = []
-
+    # los parametros son: idCurso, idClase, idDocente
     horarios.append(Agenda(201, 1201, 11101))
     horarios.append(Agenda(201, 1201, 11101))
     horarios.append(Agenda(202, 1201, 11102))
@@ -51,11 +51,13 @@ if __name__ == '__main__':
 
     ga = OptimizadorGenetico(tam_poblacion=50, elite=10, max_iteraciones=500)  # Se crea una instancia del Optimizador Genetico.
 
-    resultado = ga.Evolucion(horarios, 3)  # Se ejecuta el algoritmo genetico para encontrar un horario optimo.
+    # Se ejecuta el algoritmo genetico para encontrar un horario optimo, donde 3
+    # es el rango de valores para el id del salon.
+    resultado = ga.Evolucion(horarios, 3)  
 
     horario_visualizado = []
     for r in resultado:
-        if r.idClase == 1203:
+        if r.idClase == 1202:
             horario_visualizado.append(r)  # Se seleccionan los horarios especificos de la clase 1203.
 
     vis(horario_visualizado)  # Se visualiza el horario resultante.
