@@ -47,21 +47,14 @@ def cargar_horarios():
         Agenda('Redaccion de textos',   1203, 11106),
         Agenda('Redaccion de textos',   1203, 11106),
 
-        Agenda('Algebra Lineal',        1204, 11101),
-        Agenda('Algebra Lineal',        1204, 11101),
-        Agenda('Matematica 1',          1204, 11102),
-        Agenda('Matematica 1',          1204, 11102),
-        Agenda('Sociedad y Cultura',    1204, 11103),
-        Agenda('Sociedad y Cultura',    1204, 11103),
-        Agenda('Redaccion de textos',   1204, 11106),
-        Agenda('Redaccion de textos',   1204, 11106),
-
-        Agenda('Matematica 1',          1205, 11102),
-        Agenda('Matematica 1',          1205, 11102),
-        Agenda('Filosofia',             1205, 11104),
-        Agenda('Filosofia',             1205, 11104),
-        Agenda('Redaccion de textos',   1205, 11106),
-        Agenda('Redaccion de textos',   1205, 11106)
+#        Agenda('Algebra Lineal',        1204, 11101),
+#        Agenda('Algebra Lineal',        1204, 11101),
+#        Agenda('Matematica 1',          1204, 11102),
+#        Agenda('Matematica 1',          1204, 11102),
+#        Agenda('Sociedad y Cultura',    1204, 11103),
+#        Agenda('Sociedad y Cultura',    1204, 11103),
+#        Agenda('Redaccion de textos',   1204, 11106),
+#        Agenda('Redaccion de textos',   1204, 11106)
 
     ]
 
