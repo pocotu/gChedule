@@ -154,6 +154,7 @@ class OptimizadorGenetico:
         mejorHorario = None
 
         self.Iniciar_poblacion(horarios, salonRango)  # Inicializa la poblacion aleatoriamente
+        
 
         for i in range(self.max_iteraciones):
             indiceElite, mejorPunto = CostoHorario(self.poblacion, self.elite)  # Evalua y selecciona a la elite
