@@ -75,6 +75,7 @@ class OptimizadorGenetico:
         return ep
 
     def AgregarResta(self, valor, op, valorRango):
+#    def AgregarResta(valor, op, valorRango):
         """
         Realiza una operación de suma o resta en funcion de la probabilidad op.
 

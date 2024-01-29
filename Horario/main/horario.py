@@ -53,19 +53,35 @@ def CostoHorario(poblacion, elite):
         for i in range(0, n - 1):
             for j in range(i + 1, n):
                 # Compara el id del salon, el dia de la semana y el horario
-                if p[i].idSalon == p[j].idSalon and p[i].diaSemana == p[j].diaSemana and p[i].horario == p[j].horario:
+                if (
+                    p[i].idSalon == p[j].idSalon and 
+                    p[i].diaSemana == p[j].diaSemana and 
+                    p[i].horario == p[j].horario
+                ):
                     conflicto += 1
 
                 # Compara el id de la clase, el dia de la semana y el horario
-                if p[i].idClase == p[j].idClase and p[i].diaSemana == p[j].diaSemana and p[i].horario == p[j].horario:
+                if (
+                    p[i].idClase == p[j].idClase and 
+                    p[i].diaSemana == p[j].diaSemana and 
+                    p[i].horario == p[j].horario
+                ):
                     conflicto += 1
 
                 # Compara el id del docente, el dia de la semana y el horario
-                if p[i].idDocente == p[j].idDocente and p[i].diaSemana == p[j].diaSemana and p[i].horario == p[j].horario:
+                if (
+                    p[i].idDocente == p[j].idDocente and 
+                    p[i].diaSemana == p[j].diaSemana and 
+                    p[i].horario == p[j].horario
+                ):
                     conflicto += 1
 
                 # Compara el id de la clase, el id del curso y el dia de la semana
-                if p[i].idClase == p[j].idClase and p[i].idCurso == p[j].idCurso and p[i].diaSemana == p[j].diaSemana:
+                if (
+                    p[i].idClase == p[j].idClase and 
+                    p[i].idCurso == p[j].idCurso and 
+                    p[i].diaSemana == p[j].diaSemana
+                ):
                     conflicto += 1
 
         conflictos.append(conflicto)  # Agrega el numero de conflictos para este horario a la lista

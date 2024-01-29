@@ -22,30 +22,30 @@ def vis(VHorario):
 
 def cargar_horarios():
     horarios = [
-        Agenda('Algebra Lineal',        '103', 'Ines'),
-        Agenda('Algebra Lineal',        '103', 'Ines'),
-        Agenda('Matematica 1',          '102', 'Donato'),
-        Agenda('Matematica 1',          '102', 'Donato'),
-        Agenda('Sociedad y Cultura',    '201', 'Edwin'),
-        Agenda('Sociedad y Cultura',    '201', 'Edwin'),
-        Agenda('Redaccion de textos',   '101', 'Carla'),
-        Agenda('Redaccion de textos',   '101', 'Carla'),
+        Agenda('Algebra Lineal',        {'IN103':103}, {'Ines'  :11101}),
+        Agenda('Algebra Lineal',        {'IN103':103}, {'Ines'  :11101}),
+        Agenda('Matematica 1',          {'IN102':102}, {'Donato':11102}),
+        Agenda('Matematica 1',          {'IN102':102}, {'Donato':11102}),
+        Agenda('Sociedad y Cultura',    {'IN201':201}, {'Edwin' :11103}),
+        Agenda('Sociedad y Cultura',    {'IN201':201}, {'Edwin' :11103}),
+        Agenda('Redaccion de textos',   {'IN101':101}, {'Carla' :11106}),
+        Agenda('Redaccion de textos',   {'IN101':101}, {'Carla' :11106}),
 
-        Agenda('Matematica 1',          '102', 'Donato'),
-        Agenda('Matematica 1',          '102', 'Donato'),
-        Agenda('Filosofia',             '101', 'Jose'),
-        Agenda('Filosofia',             '101', 'Jose'),
-        Agenda('Redaccion de textos',   '101', 'Carla'),
-        Agenda('Redaccion de textos',   '101', 'Carla'),
+        Agenda('Matematica 1',          {'IN102':102}, {'Donato' :11102}),
+        Agenda('Matematica 1',          {'IN102':102}, {'Donato' :11102}),
+        Agenda('Filosofia',             {'IN101':101}, {'Jose'   :11104}),
+        Agenda('Filosofia',             {'IN101':101}, {'Jose'   :11104}),
+        Agenda('Redaccion de textos',   {'IN101':101}, {'Carla'  :11106}),
+        Agenda('Redaccion de textos',   {'IN101':101}, {'Carla'  :11106}),
 
-        Agenda('Sociedad y Cultura',    '201', 'Edwin'),
-        Agenda('Sociedad y Cultura',    '201', 'Edwin'),
-        Agenda('Filosofia',             '101', 'Jose'),
-        Agenda('Filosofia',             '101', 'Jose'),
-        Agenda('Coro',                  '108', 'Ray'),
-        Agenda('Coro',                  '108', 'Ray'),
-        Agenda('Redaccion de textos',   '101', 'Carla'),
-        Agenda('Redaccion de textos',   '101', 'Carla')
+        Agenda('Sociedad y Cultura',    {'IN201':201}, {'Edwin' :11103}),
+        Agenda('Sociedad y Cultura',    {'IN201':201}, {'Edwin' :11103}),
+        Agenda('Filosofia',             {'IN101':101}, {'Jose'  :11104}),
+        Agenda('Filosofia',             {'IN101':101}, {'Jose'  :11104}),
+        Agenda('Coro',                  {'IN108':108}, {'Ray'   :11105}),
+        Agenda('Coro',                  {'IN108':108}, {'Ray'   :11105}),
+        Agenda('Redaccion de textos',   {'IN101':101}, {'Carla' :11106}),
+        Agenda('Redaccion de textos',   {'IN101':101}, {'Carla' :11106})
     ]
 
     return horarios
