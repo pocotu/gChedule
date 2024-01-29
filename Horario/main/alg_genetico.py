@@ -76,10 +76,10 @@ class OptimizadorGenetico:
 
     def AgregarResta(self, valor, op, valorRango):
         """
-        Realiza una operación de suma o resta en función de la probabilidad op.
+        Realiza una operación de suma o resta en funcion de la probabilidad op.
 
         Args:
-            valor (int): El valor al que se le aplicará la operación.
+            valor (int): El valor al que se le aplicara la operación.
             op (float): La probabilidad de realizar una suma o resta.
             valorRango (int): El rango de valores permitidos para el resultado.
 
