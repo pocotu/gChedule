@@ -72,10 +72,10 @@ class OptimizadorGenetico:
             if pos == 2:
                 p.horario = self.AgregarResta(p.horario, operation, 5)  # Mutación en el horario
 
+        print('## Mutacion en el horario: {} ##'.format(e + 1))  # Imprime el número de horario mutado
         return ep
 
     def AgregarResta(self, valor, op, valorRango):
-#    def AgregarResta(valor, op, valorRango):
         """
         Realiza una operación de suma o resta en funcion de la probabilidad op.
 
@@ -135,47 +135,101 @@ class OptimizadorGenetico:
             if pos == 1:
                 p1.idSalon = p2.idSalon  # Cruce en el id del salón
 
+        print('Cruce entre los horarios: {} y {}'.format(e1 + 1, e2 + 1))  # Imprime los números de horarios cruzados
         return ep1
 
+#    def Evolucion(self, horarios, salonRango):
+#        """
+#        Realiza la evolución de la población de horarios mediante el algoritmo genético.
+#
+#        Args:
+#            horarios (list): Lista de horarios disponibles.
+#            salonRango (list): Rango de valores para el ID del salón.
+#
+#        Returns:
+#            Horario: Mejor horario encontrado.
+#
+#        Raises:
+#            None
+#        """
+#        mejorPunto = 0
+#        mejorHorario = None
+#
+#        self.Iniciar_poblacion(horarios, salonRango)  # Inicializa la poblacion aleatoriamente
+#        
+#
+#        for i in range(self.max_iteraciones):
+#            indiceElite, mejorPunto = CostoHorario(self.poblacion, self.elite)  # Evalua y selecciona a la elite
+#
+#            print('---------------------------------------------------------------')
+#            print('Iteracion: {} | conflicto: {} | Tamaño de la población elite: {}'.format(i + 1, mejorPunto, len(indiceElite)))
+#            print('---------------------------------------------------------------')
+#
+#            if mejorPunto == 0:
+#                mejorHorario = self.poblacion[indiceElite[0]]
+#                print('#### Se encontro un horario sin conflictos ####')
+#                break
+#
+#            nuevaPoblacion = [self.poblacion[indice] for indice in indiceElite]
+#
+#            while len(nuevaPoblacion) < self.tam_poblacion:
+#                if np.random.rand() < self.prob_mutacion:
+#                    nuevaP = self.Mutar(nuevaPoblacion, salonRango)  # Aplica mutacion con cierta probabilidad
+#                else:
+#                    nuevaP = self.Cruzar(nuevaPoblacion)  # Realiza cruce entre horarios elite
+#
+#                nuevaPoblacion.append(nuevaP)
+#
+#            self.poblacion = nuevaPoblacion  # Actualiza la poblacion
+#
+#        return mejorHorario    
+
     def Evolucion(self, horarios, salonRango):
-        """
-        Realiza la evolución de la población de horarios mediante el algoritmo genético.
-
-        Args:
-            horarios (list): Lista de horarios disponibles.
-            salonRango (list): Rango de valores para el ID del salón.
-
-        Returns:
-            Horario: Mejor horario encontrado.
-
-        Raises:
-            None
-        """
         mejorPunto = 0
         mejorHorario = None
-
+    
         self.Iniciar_poblacion(horarios, salonRango)  # Inicializa la poblacion aleatoriamente
-        
-
+    
+        conflictos_anteriores = float('inf')  # Inicializa el número de conflictos anteriores con un valor grande
+        repeticiones = 0  # Inicializa el contador de repeticiones
+    
         for i in range(self.max_iteraciones):
             indiceElite, mejorPunto = CostoHorario(self.poblacion, self.elite)  # Evalua y selecciona a la elite
 
-            print('Iteracion: {} | conflicto: {}'.format(i + 1, mejorPunto))
+            print('---------------------------------------------------------------')
+            print('Iteracion: {} | conflicto: {} | Tamaño de la población elite: {}'.format(i + 1, mejorPunto, len(indiceElite)))
+            print('---------------------------------------------------------------')
 
             if mejorPunto == 0:
                 mejorHorario = self.poblacion[indiceElite[0]]
+                print('#### Se encontro un horario sin conflictos ####')
                 break
-
+            
             nuevaPoblacion = [self.poblacion[indice] for indice in indiceElite]
-
+    
             while len(nuevaPoblacion) < self.tam_poblacion:
                 if np.random.rand() < self.prob_mutacion:
                     nuevaP = self.Mutar(nuevaPoblacion, salonRango)  # Aplica mutacion con cierta probabilidad
                 else:
                     nuevaP = self.Cruzar(nuevaPoblacion)  # Realiza cruce entre horarios elite
-
+    
                 nuevaPoblacion.append(nuevaP)
-
+    
             self.poblacion = nuevaPoblacion  # Actualiza la poblacion
-
+    
+            # Verifica si el número de conflictos no cambia
+            if mejorPunto == conflictos_anteriores:
+                repeticiones += 1
+            else:
+                repeticiones = 0
+    
+            # Detén el código si el mismo conflicto se repite más de 1000 veces
+            if repeticiones >= 1000:
+                print('Se detiene debido a repeticiones de conflicto.')
+                break
+            
+            conflictos_anteriores = mejorPunto  # Actualiza el número de conflictos anteriores
+    
         return mejorHorario
+
+

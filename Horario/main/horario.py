@@ -59,6 +59,7 @@ def CostoHorario(poblacion, elite):
                     p[i].horario == p[j].horario
                 ):
                     conflicto += 1
+                    print(f'==== conflicto en Salon: {p[i].idSalon}, Dia: {p[i].diaSemana}, Hora: {p[i].horario}')
 
                 # Compara el id de la clase, el dia de la semana y el horario
                 if (
@@ -67,6 +68,7 @@ def CostoHorario(poblacion, elite):
                     p[i].horario == p[j].horario
                 ):
                     conflicto += 1
+                    print(f'==== conflicto en Clase: {p[i].idClase }, Dia: {p[i].diaSemana}, Hora: {p[i].horario}')
 
                 # Compara el id del docente, el dia de la semana y el horario
                 if (
@@ -75,6 +77,7 @@ def CostoHorario(poblacion, elite):
                     p[i].horario == p[j].horario
                 ):
                     conflicto += 1
+                    print(f'==== conflicto en Docente: {p[i].idDocente}, Dia {p[i].diaSemana}, Hora: {p[i].horario}')
 
                 # Compara el id de la clase, el id del curso y el dia de la semana
                 if (
@@ -83,6 +86,7 @@ def CostoHorario(poblacion, elite):
                     p[i].diaSemana == p[j].diaSemana
                 ):
                     conflicto += 1
+                    print(f'==== conflicto en Clase: {p[i].idClase}, Curso: {p[i].idCurso}, Dia: {p[i].diaSemana}')
 
         conflictos.append(conflicto)  # Agrega el numero de conflictos para este horario a la lista
 
