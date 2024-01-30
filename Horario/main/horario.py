@@ -60,6 +60,7 @@ def CostoHorario(poblacion, elite):
                 ):
                     conflicto += 1
                     print(f'==== conflicto en Salon: {p[i].idSalon}, Dia: {p[i].diaSemana}, Hora: {p[i].horario}')
+                    #print(f'\033[93m==== conflicto en Salon: {conflicto.idSalon}, Dia: {conflicto.diaSemana}, Hora: {conflicto.horario}\033[0m')
 
                 # Compara el id de la clase, el dia de la semana y el horario
                 if (
