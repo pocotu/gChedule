@@ -5,56 +5,25 @@ from horario import CostoHorario
 
 class OptimizadorGenetico:
     def __init__(self, tam_poblacion=30, prob_mutacion=0.3, elite=5, max_iteraciones=100):
-        """
-        Inicializa un objeto OptimizadorGenetico con los parámetros especificados.
 
-        Args:
-            tam_poblacion (int): Tamaño de la población de horarios candidatos.
-            prob_mutacion (float): Probabilidad de aplicar mutación a un horario.
-            elite (int): Número de horarios elite que se mantendrán sin cambios en cada generación.
-            max_iteraciones (int): Número máximo de iteraciones del algoritmo genético.
-        """
         self.tam_poblacion = tam_poblacion
         self.prob_mutacion = prob_mutacion
         self.elite = elite
         self.max_iteraciones = max_iteraciones
 
-    def Iniciar_poblacion(self, horarios, salonRango):
-        """
-        Inicializa la población de horarios de forma aleatoria.
-
-        Args:
-            horarios (list): Lista de horarios disponibles.
-            salonRango (int): Rango de valores para el ID del salón.
-
-        Returns:
-            None
-        """
+    def Iniciar_poblacion(self, horarios):
         self.poblacion = []
 
         for i in range(self.tam_poblacion):
             entidad = []
 
             # Genera horarios aleatorios y los agrega a la entidad
-            for s in horarios:        
-#                s.Inicializador_aleatorio(salonRango)
+            for s in horarios:
                 entidad.append(copy.deepcopy(s))
 
             self.poblacion.append(entidad)
 
     def Mutar(self, poblacionElite, salonRango):
-        """
-        Aplica una mutación en uno de los horarios de la población elite.
-
-        Args:
-            poblacionElite (list): Lista de horarios elite.
-            salonRango (int): Rango de valores para el ID del salón.
-
-        Returns:
-            list: Horario elite mutado.
-            un horario mutado es un horario que se le ha aplicado una mutación a uno de sus atributos 
-            (idSalon, diaSemana u horario) de forma aleatoria.
-        """
 
         e = np.random.randint(0, self.elite, 1)[0]  # Elige un horario elite al azar
         pos = np.random.randint(0, 2, 1)[0]  # Decide qué aspecto del horario se va a mutar (0, 1 o 2)
@@ -76,21 +45,7 @@ class OptimizadorGenetico:
         return ep
 
     def AgregarResta(self, valor, op, valorRango):
-        """
-        Realiza una operación de suma o resta en funcion de la probabilidad op.
 
-        Args:
-            valor (int): El valor al que se le aplicara la operación.
-            op (float): La probabilidad de realizar una suma o resta.
-            valorRango (int): El rango de valores permitidos para el resultado.
-
-        Returns:
-            int: El valor resultante después de aplicar la operación.
-
-        Raises:
-            None
-
-        """
         if op > 0.5:
             if valor < valorRango:
                 valor += 1
@@ -105,21 +60,7 @@ class OptimizadorGenetico:
         return valor
 
     def Cruzar(self, poblacionElite):
-        """
-        Realiza el cruce entre dos horarios elite de la población.
-        Se cruza para el día de la semana y el horario o para el ID del salón, porque
-        son los atributos que más afectan el costo del horario.
 
-        Args:
-            poblacionElite (list): Lista de horarios elite.
-
-        Returns:
-            Horario: Horario resultante del cruce.
-
-        Raises:
-            None
-
-        """
         e1 = np.random.randint(0, self.elite, 1)[0]  # Elige un primer horario elite al azar
         e2 = np.random.randint(0, self.elite, 1)[0]  # Elige un segundo horario elite al azar
 
@@ -136,53 +77,7 @@ class OptimizadorGenetico:
                 p1.idSalon = p2.idSalon  # Cruce en el id del salón
 
         print('Cruce entre los horarios: {} y {}'.format(e1 + 1, e2 + 1))  # Imprime los números de horarios cruzados
-        return ep1
-
-#    def Evolucion(self, horarios, salonRango):
-#        """
-#        Realiza la evolución de la población de horarios mediante el algoritmo genético.
-#
-#        Args:
-#            horarios (list): Lista de horarios disponibles.
-#            salonRango (list): Rango de valores para el ID del salón.
-#
-#        Returns:
-#            Horario: Mejor horario encontrado.
-#
-#        Raises:
-#            None
-#        """
-#        mejorPunto = 0
-#        mejorHorario = None
-#
-#        self.Iniciar_poblacion(horarios, salonRango)  # Inicializa la poblacion aleatoriamente
-#        
-#
-#        for i in range(self.max_iteraciones):
-#            indiceElite, mejorPunto = CostoHorario(self.poblacion, self.elite)  # Evalua y selecciona a la elite
-#
-#            print('---------------------------------------------------------------')
-#            print('Iteracion: {} | conflicto: {} | Tamaño de la población elite: {}'.format(i + 1, mejorPunto, len(indiceElite)))
-#            print('---------------------------------------------------------------')
-#
-#            if mejorPunto == 0:
-#                mejorHorario = self.poblacion[indiceElite[0]]
-#                print('#### Se encontro un horario sin conflictos ####')
-#                break
-#
-#            nuevaPoblacion = [self.poblacion[indice] for indice in indiceElite]
-#
-#            while len(nuevaPoblacion) < self.tam_poblacion:
-#                if np.random.rand() < self.prob_mutacion:
-#                    nuevaP = self.Mutar(nuevaPoblacion, salonRango)  # Aplica mutacion con cierta probabilidad
-#                else:
-#                    nuevaP = self.Cruzar(nuevaPoblacion)  # Realiza cruce entre horarios elite
-#
-#                nuevaPoblacion.append(nuevaP)
-#
-#            self.poblacion = nuevaPoblacion  # Actualiza la poblacion
-#
-#        return mejorHorario    
+        return ep1   
 
     def Evolucion(self, horarios, salonRango):
         mejorPunto = 0
