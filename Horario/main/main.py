@@ -24,32 +24,32 @@ def vis(VHorario):
         print(tabla)
 
 def cargar_horarios():
-    # Orden de los parametros: Agenda(idCurso, idClase, idDocente)
+    # Orden de los parametros: Agenda(idCurso, idClase, idDocente, idSalon, diaSemana, horario)
     horarios = [
-        Agenda('Algebra Lineal',        1201, 11101),
-        Agenda('Algebra Lineal',        1201, 11101),
-        Agenda('Matematica 1',          1201, 11102),
-        Agenda('Matematica 1',          1201, 11102),
-        Agenda('Sociedad y Cultura',    1201, 11103),
-        Agenda('Sociedad y Cultura',    1201, 11103),
-        Agenda('Redaccion de textos',   1201, 11106),
-        Agenda('Redaccion de textos',   1201, 11106),
+        Agenda('Algebra Lineal',        1201, 11101, 103, 3, 4),
+        Agenda('Algebra Lineal',        1201, 11101, 103, 3, 4),
+        Agenda('Matematica 1',          1201, 11102, 102, 2, 5),
+        Agenda('Matematica 1',          1201, 11102, 102, 2, 5),
+        Agenda('Sociedad y Cultura',    1201, 11103, 201, 1, 1),
+        Agenda('Sociedad y Cultura',    1201, 11103, 201, 1, 1),
+        Agenda('Redaccion de textos',   1201, 11106, 101, 4, 3),
+        Agenda('Redaccion de textos',   1201, 11106, 101, 4, 3),
 
-        Agenda('Matematica 1',          1202, 11102),
-        Agenda('Matematica 1',          1202, 11102),
-        Agenda('Filosofia',             1202, 11104),
-        Agenda('Filosofia',             1202, 11104),
-        Agenda('Redaccion de textos',   1202, 11106),
-        Agenda('Redaccion de textos',   1202, 11106),
+        Agenda('Matematica 1',          1202, 11102, 102, 2, 5), 
+        Agenda('Matematica 1',          1202, 11102, 102, 2, 5),
+        Agenda('Filosofia',             1202, 11104, 101, 3, 1),
+        Agenda('Filosofia',             1202, 11104, 101, 3, 1),
+        Agenda('Redaccion de textos',   1202, 11106, 101, 4, 3),
+        Agenda('Redaccion de textos',   1202, 11106, 101, 4, 3),
 
-        Agenda('Sociedad y Cultura',    1203, 11103),
-        Agenda('Sociedad y Cultura',    1203, 11103),
-        Agenda('Filosofia',             1203, 11104),
-        Agenda('Filosofia',             1203, 11104),
-        Agenda('Coro',                  1203, 11105),
-        Agenda('Coro',                  1203, 11105),
-        Agenda('Redaccion de textos',   1203, 11106),
-        Agenda('Redaccion de textos',   1203, 11106)
+        Agenda('Sociedad y Cultura',    1203, 11103, 201, 1, 1),
+        Agenda('Sociedad y Cultura',    1203, 11103, 201, 1, 1),
+        Agenda('Filosofia',             1203, 11104, 101, 3, 1),
+        Agenda('Filosofia',             1203, 11104, 101, 3, 1),
+        Agenda('Coro',                  1203, 11105, 108, 5, 2),
+        Agenda('Coro',                  1203, 11105, 108, 5, 2),
+        Agenda('Redaccion de textos',   1203, 11106, 101, 4, 3),
+        Agenda('Redaccion de textos',   1203, 11106, 101, 4, 3)
     ]
 
     return horarios
