@@ -1,49 +1,18 @@
 import numpy as np
 
 class Agenda:
-    def __init__(self, idCurso, idClase, idDocente):
-        """
-        Inicializa una instancia de la clase Horario.
+    def __init__(self, idCurso, idClase, idDocente, idSalon, diaSemana, horario):
 
-        Args:
-            idCurso (int): El ID del curso.
-            idClase (int): El ID de la clase.
-            idDocente (int): El ID del docente.
-        """
         self.idCurso = idCurso
         self.idClase = idClase
         self.idDocente = idDocente
 
-        self.idSalon = 0
-        self.diaSemana = 0
-        self.horario = 0
-
-    def Inicializador_aleatorio(self, salonRango):
-        """
-        Inicializa los atributos idSalon, diaSemana y horario de forma aleatoria.
-
-        Parameters:
-        salonRango (int): El rango máximo para generar el id del salón.
-
-        Returns:
-        None
-        """
-        self.idSalon = np.random.randint(1, salonRango + 1, 1)[0] 
-        self.diaSemana = np.random.randint(1, 6, 1)[0] 
-        self.horario = np.random.randint(1, 6, 1)[0]
+        self.idSalon = idSalon
+        self.diaSemana = diaSemana
+        self.horario = horario
 
 def CostoHorario(poblacion, elite):
-    """
-    Calcula el costo de cada horario en una población y devuelve los horarios elite.
-    Donde elite es el número de horarios elite que se desea obtener.
 
-    Args:
-        poblacion (list): Una lista de horarios representados como instancias de la clase Agenda.
-        elite (int): El número de horarios elite que se desea obtener.
-
-    Returns:
-        tuple: Una tupla que contiene los índices de los horarios elite y el número de conflictos del mejor horario.
-    """
     conflictos = []
     n = len(poblacion[0]) 
 
