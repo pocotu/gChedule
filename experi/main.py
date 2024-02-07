@@ -11,7 +11,7 @@ def imprimir_horario_sin_conflictos(horarios):
     horarios_sin_conflictos, horarios_reubicados = eliminar_y_reubicar_conflictos(horarios)
 
     # Crear una matriz para representar el horario
-    matriz_horario = [[''] * len(dias_semana) for _ in range(6)]  # 6 horas por día
+    matriz_horario = [[''] * len(dias_semana) for _ in range(14)]  # 6 horas por día
 
     for clase in horarios_sin_conflictos:
         hora_index = clase.horario - 1  # Ajustar el índice de la hora
@@ -20,7 +20,7 @@ def imprimir_horario_sin_conflictos(horarios):
         matriz_horario[hora_index][dia_index] = info_clase
 
     # Llenar la tabla con la matriz
-    for hora_index, hora in enumerate(range(1, 7)):  # Suponiendo un horario de 6 horas
+    for hora_index, hora in enumerate(range(7, 21)):  # Suponiendo un horario de 6 horas
         row_data = [f"{hora}:00 - {hora + 1}:00"]
         row_data.extend(matriz_horario[hora_index])
         horario_table.add_row(row_data)
@@ -69,7 +69,7 @@ def imprimir_horario_reubicado(horarios_reubicados):
     horario_table.field_names = ['Hora'] + dias_semana
 
     # Crear una matriz para representar el nuevo horario reubicado
-    matriz_horario = [[''] * len(dias_semana) for _ in range(6)]  # 6 horas por día
+    matriz_horario = [[''] * len(dias_semana) for _ in range(14)]  # 6 horas por día
 
     for clase in horarios_reubicados:
         hora_index = clase.horario - 1  # Ajustar el índice de la hora
@@ -78,7 +78,7 @@ def imprimir_horario_reubicado(horarios_reubicados):
         matriz_horario[hora_index][dia_index] = info_clase
 
     # Llenar la tabla con la matriz
-    for hora_index, hora in enumerate(range(1, 7)):  # Suponiendo un horario de 6 horas
+    for hora_index, hora in enumerate(range(7, 21)):  # Suponiendo un horario de 6 horas
         row_data = [f"{hora}:00 - {hora + 1}:00"]
         row_data.extend(matriz_horario[hora_index])
         horario_table.add_row(row_data)
