@@ -1,3 +1,4 @@
+
 from prettytable import PrettyTable
 from agendas import horarios, Agenda
 
@@ -25,7 +26,7 @@ def imprimir_horario_sin_conflictos(horarios):
         row_data.extend(matriz_horario[hora_index])
         horario_table.add_row(row_data)
         # Agregar una línea entre cada hora
-        horario_table.add_row(["---"] * (len(dias_semana) + 1))
+        horario_table.add_row(["--------"] * (len(dias_semana) + 1))
 
     print("Horario sin conflictos:")
     print(horario_table)
@@ -83,7 +84,7 @@ def imprimir_horario_reubicado(horarios_reubicados):
         row_data.extend(matriz_horario[hora_index])
         horario_table.add_row(row_data)
         # Agregar una línea entre cada hora
-        horario_table.add_row(["---"] * (len(dias_semana) + 1))
+        horario_table.add_row(["--------"] * (len(dias_semana) + 1))
 
     print("\nHorario con cursos reubicados:")
     print(horario_table)
