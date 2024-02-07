@@ -57,8 +57,8 @@ def cargar_horarios():
 if __name__ == '__main__':
     horarios = cargar_horarios()  # Se cargan los horarios disponibles desde un archivo de texto   
 
-    ga = OptimizadorGenetico(tam_poblacion=100, elite=20, max_iteraciones=10000)  # Se crea una instancia del Optimizador Genetico.
-
+    ga = OptimizadorGenetico(tam_poblacion=50, elite=20, max_iteraciones=5000)  # Se crea una instancia del Optimizador Genetico.
+#    ga.Iniciar_poblacion(horarios)
     resultado = ga.Evolucion(horarios, salonRango=200)
 
     vis(resultado)
