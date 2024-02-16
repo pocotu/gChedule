@@ -102,38 +102,3 @@ horarios = [
     Agenda("Modelado y simulacion", 'A', 'Luis Beltran', 'IN201', 3, 2),
     Agenda("Modelado y simulacion", 'A', 'Luis Beltran', 'IN201', 5, 1),
 ]
-# diaSemana: 1-Lunes, 2-Martes, 3-Miércoles, 4-Jueves, 5-Viernes
-# horario:  1-(7), 2-(8), 3-(9), 4-(10), 5-(11), 6-(12), 7-(13), 8-(14),
-#           9-(15), 10-(16), 11-(17), 12-(18), 13-(19), 14-(20)
-
-#horarios = [
-#    Agenda('Algebra Lineal'     , 'A', 'Docente 1', '103', 3, 4),
-#    Agenda('Algebra Lineal'     , 'A', 'Docente 1', '103', 3, 4),
-#    Agenda('Matematica 1'       , 'A', 'Docente 2', '102', 2, 5),
-#    Agenda('Matematica 1'       , 'A', 'Docente 2', '102', 2, 5),
-#    Agenda('Sociedad y Cultura' , 'A', 'Docente 3', '201', 1, 1),
-#    Agenda('Sociedad y Cultura' , 'A', 'Docente 3', '201', 1, 1),
-#    Agenda('Redaccion de textos', 'A', 'Docente 6', '101', 4, 3),
-#    Agenda('Redaccion de textos', 'A', 'Docente 6', '101', 4, 3),
-#
-#    Agenda('Matematica 1'       , 'B', 'Docente 2', '102', 2, 5), 
-#    Agenda('Matematica 1'       , 'B', 'Docente 2', '102', 2, 5),
-#    Agenda('Filosofia'          , 'B', 'Docente 4', '101', 3, 1),
-#    Agenda('Filosofia'          , 'B', 'Docente 4', '101', 3, 1),
-#    Agenda('Redaccion de textos', 'B', 'Docente 6', '101', 4, 3),
-#    Agenda('Redaccion de textos', 'B', 'Docente 6', '101', 4, 3),
-#
-#    Agenda('Sociedad y Cultura' , 'C', 'Docente 3', '201', 1, 1),
-#    Agenda('Sociedad y Cultura' , 'C', 'Docente 3', '201', 1, 1),
-#    Agenda('Filosofia'          , 'C', 'Docente 4', '101', 3, 2),
-#    Agenda('Filosofia'          , 'C', 'Docente 4', '101', 3, 2),
-#    Agenda('Coro'               , 'C', 'Docente 5', '108', 5, 2),
-#    Agenda('Coro'               , 'C', 'Docente 5', '108', 5, 2),
-#    Agenda('Redaccion de textos', 'C', 'Docente 6', '101', 4, 3),
-#    Agenda('Redaccion de textos', 'C', 'Docente 6', '101', 4, 3)
-#]
-
-# Orden de los parametros: Agenda(idCurso, idClase, idDocente, idSalon, diaSemana, horario)
-# diaSemana: 1-Lunes, 2-Martes, 3-Miércoles, 4-Jueves, 5-Viernes
-# horario:  1-(7), 2-(8), 3-(9), 4-(10), 5-(11), 6-(12), 7-(13), 8-(14),
-#           9-(15), 10-(16), 11-(17), 12-(18), 13-(19), 14-(20)
