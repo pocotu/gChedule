@@ -1,5 +1,6 @@
+from agendas import Agenda, leer_archivo
 from prettytable import PrettyTable
-from agendas import Agenda, horarios
+
 
 def imprimir_horario(horarios):
     horario_tabla = PrettyTable()
@@ -36,4 +37,6 @@ def imprimir_horario(horarios):
     print(horario_tabla)
 
 if __name__== "__main__":
+#    imprimir_horario(horarios)
+    horarios = leer_archivo("horarios.txt")
     imprimir_horario(horarios)
